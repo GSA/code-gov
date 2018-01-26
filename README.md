@@ -15,7 +15,7 @@ As a project, [Code.gov](https://code.gov) is a collection of repositories that 
 
 1. [code-gov-web](https://github.com/GSA/code-gov-web): Our frontend project. Currently deployed as a static site, this project consumes a series of JSON files to display project repositories, client side search index, and agency compliance dashboard.
 2. [code-gov-api](https://github.com/GSA/code-gov-web): Our backend API. An Express.js app backed by Elasticsearch. It's primary function is to index and make America's source code discoverable and searchable.
-3. [code-gov-harvester](https://github.com/GSA/code-gov-harvester): Our standalone source code inventory harvester. Currently this application will generate the files needed by our front-end to display project repositories and our client side search index. It also generates the data for the agency complaince daashboard.
+3. [code-gov-harvester](https://github.com/GSA/code-gov-harvester): Our standalone source code inventory harvester. Currently this application will generate the files needed by our front-end to display project repositories and our client side search index. It also generates the data for the agency complaince dashboard.
 
 Each of our repositories follow our Code of Conduct and Contributing guidelines.
 
