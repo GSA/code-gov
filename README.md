@@ -16,7 +16,7 @@ As a project, [Code.gov](https://code.gov) is a collection of repositories that 
 1. [code-gov-web](https://github.com/GSA/code-gov-web): Our frontend project. Currently deployed as a static site, this project consumes a series of JSON files to display project repositories, client-side search index, and agency compliance dashboard.
 2. [code-gov-api](https://github.com/GSA/code-gov-web): Our backend API. An Express.js app backed by Elasticsearch. Its primary function is to index and make America's source code discoverable and searchable.
 3. [code-gov-harvester](https://github.com/GSA/code-gov-harvester): Our standalone source code inventory harvester. Currently this application generates the files needed by our frontend to display project repositories and our client-side search index. It also generates the data for the agency complaince dashboard.
-4. [code-gov-api-client](https://github.com/GSA/code-gov-api-client): Our Code.gov API client.
+4. [code-gov-api-client](https://github.com/GSA/code-gov-api-client): Our JavaScript client for interacting with our backend API.  Use it to search, get all the repos for an agency and more!
 
 Each of our repositories follow our Code of Conduct and Contributing guidelines.
 
@@ -30,7 +30,9 @@ As an open source project we love feedback. If you want to get a hold of us you 
 You can also [submit an issue](https://github.com/GSA/code-gov/issues/new) on this repository or on one of our other projects:
 
 1. [code-gov-web issues](https://github.com/GSA/code-gov-web/issues)
-1. [code-gov-api issues](https://github.com/GSA/code-gov-api/issues)
-1. [code-gov-harvester issues](https://github.com/GSA/code-gov-harvester/issues)
+2. [code-gov-api issues](https://github.com/GSA/code-gov-api/issues)
+3. [code-gov-harvester issues](https://github.com/GSA/code-gov-harvester/issues)
+4. [code-gov-api-client issues](https://github.com/GSA/code-gov-api-client/issues)
+
 
 # Thanks!!!!!
