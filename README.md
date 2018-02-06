@@ -27,7 +27,7 @@ As an open source project we love feedback. If you want to get a hold of us you 
 1. Twitter: [@CodeDotGov](https://twitter.com/CodeDotGov)
 2. Email: [code@gsa.gov](mailto://code@gsa.gov)
 
-You can also [submit an issue](https://github.com/GSA/code-gov/issues) on this repository or on one of our other projects:
+You can also [submit an issue](https://github.com/GSA/code-gov/issues/new) on this repository or on one of our other projects:
 
 1. [code-gov-web issues](https://github.com/GSA/code-gov-web/issues)
 2. [code-gov-api issues](https://github.com/GSA/code-gov-api/issues)
