@@ -19,6 +19,7 @@ As a project, [Code.gov](https://code.gov) is a collection of repositories that 
 3. [GSA/code-gov-harvester](https://github.com/GSA/code-gov-harvester): Our standalone source code inventory harvester. Currently this application generates the files needed by our frontend to display project repositories and our client-side search index. It also generates the data for the agency complaince dashboard.
 4. [GSA/code-gov-api-client](https://github.com/GSA/code-gov-api-client): Our JavaScript client for interacting with our backend API.  Use it to search, get all the repos for an agency and more!
 5. [GSA/code-gov-developer-docs](https://github.com/GSA/code-gov-developer-docs): Our developer docs! This repo is meant to be a simple way to start using our API and what you need to do so. It will also let our users get an API token.
+6. [GSA/code-gov-style](https://github.com/GSA/code-gov-style): Our effort to modularize our CSS styles.
 
 ### Miscellanious Repositories
 
