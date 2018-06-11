@@ -36,6 +36,7 @@ As an open source project we love feedback. If you want to get a hold of us you 
 
 1. Twitter: [@CodeDotGov](https://twitter.com/CodeDotGov)
 2. Email: [code@gsa.gov](mailto://code@gsa.gov)
+3. LinkedIn: [code-gov](https://www.linkedin.com/company/code-gov/)
 
 You can also [submit an issue](https://github.com/GSA/code-gov/issues/new) on this repository or on one of our other projects:
 
