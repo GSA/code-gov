@@ -42,6 +42,5 @@ You can also [submit an issue](https://github.com/GSA/code-gov/issues/new) on th
 1. [code-gov-web issues](https://github.com/GSA/code-gov-web/issues)
 2. [code-gov-api issues](https://github.com/GSA/code-gov-api/issues)
 3. [code-gov-harvester issues](https://github.com/GSA/code-gov-harvester/issues)
-4. [code-gov-api-client issues](https://github.com/GSA/code-gov-api-client/issues)
 
 ## Thanks!
