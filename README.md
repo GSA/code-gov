@@ -20,9 +20,9 @@ As a project, [Code.gov](https://code.gov) is a collection of repositories that 
 4. [GSA/code-gov-developer-docs](https://github.com/GSA/code-gov-developer-docs): Our developer docs! This repo is meant to be a simple way to start using our API and what you need to do so. It will also let our users get an API token.
 5. [GSA/code-gov-style](https://github.com/GSA/code-gov-style): Our effort to modularize our CSS styles.
 
-### Miscellanious Repositories
+### Miscellaneous Repositories
 
-These repos are marked as miscellanious because they do not affect the development or deployment of our main repos.
+These repos are marked as miscellaneous because they do not affect the development or deployment of our main repos.
 
 1. [GSA/code-gov-stats](https://github.com/GSA/code-gov-stats)
 2. [GSA/code-gov-stats-jupyter-notebook](https://github.com/GSA/code-gov-stats-jupyter-notebook)
