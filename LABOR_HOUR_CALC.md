@@ -20,7 +20,7 @@ Here is an example on calculating labor hours with the GSA CTO [website](https:/
 
 1. GSA begins with loading CLOC on the local machine and running it through the command line in Terminal with a result of 16,603 lines of code.
 
-2. 16,603 is entered into the COCOMO II model as new code and drivers are all set to nominal, and a cost per person-month of $7,296 is used ($48 per hour is provided by [BLS](https://www.bls.gov/oes/current/oes_nat.htm) for a programmer times number of days in a month times number of hours or $18 x 19 x 8 = $7,296).
+2. 16,603 is entered into the COCOMO II model as new code and drivers are all set to nominal, and a cost per person-month of $7,296 is used ($48 per hour is provided by [BLS](https://www.bls.gov/oes/current/oes_nat.htm) for a programmer times number of days in a month times number of hours or $48 x 19 x 8 = $7,296).
 
 3. The calculation is run for one person-month and results in 14.5 month duration with a total cost of $471,271. The duration and cost can be adjusted based on number of people. The total labor hours would be 2,204 (e.g., 14.5 x 19 x 8).
 
