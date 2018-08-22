@@ -1,8 +1,8 @@
 ## OMB M-16-21 Federal Source Code Policy Inventory Requirement
+
 Since the release of the [OMB M-16-21 Federal Source Code Policy (FSCP)](https://code.gov/#/policy-guide/policy/introduction), the U.S. Government (CFO Act agencies) have been focused on completing a comprehensive inventory of all custom developed software from August 2016. Additionally, the Federal agencies have to identify which of those custom developed software can be open source, or be made government wide reuse, or exempt from being release due national security in order to comply with the OMB M-16-21 FSCP. For a full list of requirements please see the [Metadata Schema 2.0.0 ](https://code.gov/#/policy-guide/docs/compliance/inventory-code)requirements.
 
 ## Code.gov Metadata Schema 2.0.0 Requirements
-[https://code.gov/#/policy-guide/docs/compliance/inventory-code]()
 
 The [Code.gov](https://www.code.gov) program and U.S. Government would like to developed a code.json Generator/Scraper tool that would support all GIT version control systems (vcs) and legacy vcs (such svn, vss, etc.) to capture the software inventory systematically. The main objective is to reduce the manual process, increase efficiency, reduce human error, and standardize the technical solution. To accomplish these objectives we have setup an ongoing working group from the Federal agencies and Open Source Community to support the implementation of the code.json Generator/Scraper tools.
 
@@ -49,6 +49,7 @@ I'm looking forward to working with everyone on Slack to focus our collective ef
 	What kind of flexibility will everyone need? If you really have to use SLOC+COCOMO, consider implementing the formula in a reusable open source library, rather than relying on an external service.
  
 ## HHS Source Code Inventory Tool
+
 The basic concept is to add some capabilities to the existing code.json generators, specifically to enable managing metadata for offline repositories (i.e., repos that can't be directly queried by the source code inventory application), and to provide a UI for adjudicating which repos to actually include in the published code.json file.
 
 The proposed implementation uses a GitHub repository and its associated wiki and GitHub Pages website. Entries for the source code inventory are recorded in wiki pages. Client-side Javascript is served through the GitHub Pages site to support proposing entries manually, defining "libraries" of repositories such as GitHub organization accounts that can be queried for automatically proposing entries, reviewing proposed entries, and generating an updated code.json file.
@@ -56,6 +57,7 @@ The proposed implementation uses a GitHub repository and its associated wiki and
 Features proposed for the application and design ideas are documented in the Issues log. The repository's wiki shows a mockup of the inventory representation as individual wiki pages.
 
 ## Resources
+
 REST API v3| [https://developer.github.com/v3/]()  
 GraphQL API v4 | [https://developer.github.com/v4/]()
   
