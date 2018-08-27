@@ -1,14 +1,22 @@
 ---
 name: Submission for Code.gov Badge
-about: For users to submit evidence that he/she accomplished required tasks to achieve
-  a particular code.gov badge
-
+about: For users to submit evidence that he/she accomplished required tasks to achieve a particular code.gov badge
 ---
 
-**Name of Badge Requested**
+**What badge are you requesting?**
 =======================
 
+<!-- Select what badges you want to claim by placing an x between the [ ] without any spaces ->
+<!-- Eg. [x] Code.gov -->
 
-**Evidence of completed tasks**
-(Can be provided by attachment, link, or text)
+- [ ] Code.gov
+- [ ] Bug Smasher
+- [ ] Contributor
+- [ ] Merger
+- [ ] Hot Streak
+- [ ] Hack Day
+
+Evidence of completed tasks
 ==================================
+
+<!-- Please provide evidence for you completed task(s). You can provide them here using an attachment, link, or text -->
