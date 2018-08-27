@@ -13,8 +13,8 @@ Feature             | [Scraper](https://github.com/llnl/scraper) | [Code-JSON Ge
 --------------------|-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|
 Language            | Python                | Node.js | Ruby | Ruby | TBD |
 GitHub.com?         | :white_check_mark:    | :white_check_mark: | :white_check_mark: |  :white_check_mark: | :x: |
-GitLab.com?         | :warning:             | :white_check_mark: | :x: | :x: | :x: |
-Bitbucket.org?      | :warning:             | :x: | :x: |  :x: | :x: |
+GitLab.com?         | :white_check_mark:    | :white_check_mark: | :x: | :x: | :x: |
+Bitbucket.org?      | :white_check_mark:    | :x: | :x: |  :x: | :x: |
 Labor Hours         | :white_check_mark:    | :x: | :x: | :x: | :x: |
 Lead Developer		| [IanLee1521](https://github.com/IanLee1521)	| [emartinez-usgs](https://github.com/emartinez-usgs)	| [contolini](https://github.com/contolini) | [jfredrickson5](https://github.com/jfredrickson5) | [katucker](https://github.com/katucker) |
 Agency					|	DOE-LLNL		|	DOI-USGS  		|	CFPB   	|  GSA	 |  HHS |
@@ -27,13 +27,13 @@ From the working group session we have captured business needs,  system requirem
 
 Please see the full list here: [https://github.com/GSA/code-gov/projects/1](https://github.com/GSA/code-gov/projects/1)
 
-		
-  
+
+
 ## GSA Code Inventory Tool
 
 The [Code Inventory](https://github.com/GSA/codeinventory) tool is a Ruby gem application that provides basic functionality in a CLI and API, and it can be extended via plug-ins (which are also gems) to support any type of repository
 One plug-in we developed is to add GitHub support: [https://github.com/GSA/codeinventory-github
-]() 
+]()
 
 [https://github.com/GSA/code-clerk](New Code Clerk tool)  
 Designed more as an API/SDK, which can power a CLI tool (it does have a basic CLI included)
@@ -42,12 +42,12 @@ Node is more commonly used in web app projects these days, hence the transition 
 Only supports GitHub right now, hard coded, with the intention to make it modular and support any repository
 I'm looking forward to working with everyone on Slack to focus our collective efforts!
 
-	Questions: 
-	How many of you only need a CLI tool? 
+	Questions:
+	How many of you only need a CLI tool?
 	How many want the tool to provide an API/SDK?
-	By what means should a tool be extensible, and how extensible should it be? Every agency does things differently. 
+	By what means should a tool be extensible, and how extensible should it be? Every agency does things differently.
 	What kind of flexibility will everyone need? If you really have to use SLOC+COCOMO, consider implementing the formula in a reusable open source library, rather than relying on an external service.
- 
+
 ## HHS Source Code Inventory Tool
 
 The basic concept is to add some capabilities to the existing code.json generators, specifically to enable managing metadata for offline repositories (i.e., repos that can't be directly queried by the source code inventory application), and to provide a UI for adjudicating which repos to actually include in the published code.json file.
@@ -60,7 +60,7 @@ Features proposed for the application and design ideas are documented in the Iss
 
 REST API v3| [https://developer.github.com/v3/]()  
 GraphQL API v4 | [https://developer.github.com/v4/]()
-  
+
 Alternative GIT based Platforms:  
 [https://bitbucket.org](https://bitbucket.org)  
 [https://about.gitlab.com](https://about.gitlab.com)
