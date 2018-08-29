@@ -4,8 +4,7 @@ Since the release of the [OMB M-16-21 Federal Source Code Policy (FSCP)](https:/
 
 ## Code.gov Metadata Schema 2.0.0 Requirements
 
-The [Code.gov](https://www.code.gov) program and U.S. Government would like to developed a code.json Generator/Scraper tool that would support all GIT version control systems (vcs) and legacy vcs (such svn, vss, etc.) to capture the software inventory systematically. The main objective is to reduce the manual process, increase efficiency, reduce human error, and standardize the technical solution. To accomplish these objectives we have setup an ongoing working group from the Federal agencies and Open Source Community to support the implementation of the code.json Generator/Scraper tools.
-
+The [Code.gov](https://www.code.gov) program and U.S. Government would like to developed a code.json Generator/Scraper tool that would support all GIT version control systems (VCS) and legacy VCS (e.g. SVN, VSS) to capture the software inventory systematically. The main objective is to reduce the manual process, increase efficiency, reduce human error, and standardize the technical solution. To accomplish these objectives we have setup an ongoing working group from the Federal agencies and Open Source Community to support the implementation of the code.json Generator/Scraper tools.
 
 ## Generators
 
@@ -29,8 +28,6 @@ GitHub API			| REST API v3		|	REST API v3  | GraphQL API v4 |	REST API v3  | TBD
 From the working group session we have captured business needs,  system requirements, and action items for the implementation of the Code-JSON Generator/Scraper Tools.
 
 Please see the full list here: [https://github.com/GSA/code-gov/projects/1](https://github.com/GSA/code-gov/projects/1)
-
-
 
 ## GSA Code Inventory Tool
 
@@ -61,9 +58,16 @@ Features proposed for the application and design ideas are documented in the Iss
 
 ## Resources
 
-REST API v3| [https://developer.github.com/v3/]()  
-GraphQL API v4 | [https://developer.github.com/v4/]()
+### Code.gov Schema Documentation
 
-Alternative GIT based Platforms:  
-[https://bitbucket.org](https://bitbucket.org)  
-[https://about.gitlab.com](https://about.gitlab.com)
+[Metadata Schema 2.0.0](https://code.gov/#/policy-guide/docs/compliance/inventory-code)
+
+### Github API
+
+[REST API v3](https://developer.github.com/v3/) 
+[GraphQL API v4](https://developer.github.com/v4/)
+
+### Alternative Hosted GIT based Platforms:  
+
+* [https://bitbucket.org](https://bitbucket.org)  
+* [https://about.gitlab.com](https://about.gitlab.com)
