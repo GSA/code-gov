@@ -32,10 +32,9 @@ Please see the full list here: [https://github.com/GSA/code-gov/projects/1](http
 ## GSA Code Inventory Tool
 
 The [Code Inventory](https://github.com/GSA/codeinventory) tool is a Ruby gem application that provides basic functionality in a CLI and API, and it can be extended via plug-ins (which are also gems) to support any type of repository
-One plug-in we developed is to add GitHub support: [https://github.com/GSA/codeinventory-github
-]()
+One plug-in we developed is to add GitHub support: [https://github.com/GSA/codeinventory-github](https://github.com/GSA/codeinventory-github)
 
-[https://github.com/GSA/code-clerk](New Code Clerk tool)  
+[New Code Clerk tool](https://github.com/GSA/code-clerk)  
 Designed more as an API/SDK, which can power a CLI tool (it does have a basic CLI included)
 Designed to be extensible: the user can very finely customize how they want to transform their repository metadata into code.json, but it also comes with easy defaults
 Node is more commonly used in web app projects these days, hence the transition to a new language.
