@@ -8,9 +8,9 @@ The [Code.gov](https://www.code.gov) program and U.S. Government would like to d
 
 ## Generators
 
-Feature             | [Scraper](https://github.com/llnl/scraper) | [Code-JSON Generator](https://github.com/usgs/code-json-generator) |  [Code-Inventory Generator](https://github.com/GSA/codeinventory-github) | [Code Inventory](https://github.com/GSA/codeinventory) | [Source Code Inventory](https://github.com/HHS/Source-Code-Inventory)
+Feature             | [Scraper](https://github.com/llnl/scraper) | [Code-JSON Generator](https://github.com/usgs/code-json-generator) |  [Code Inventory Generator](https://github.com/cfpb/code-inventory-generator) | [Code Inventory](https://github.com/GSA/codeinventory) | [Source Code Inventory](https://github.com/HHS/Source-Code-Inventory)
 --------------------|-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|
-Language            | Python                | Node.js | Ruby | Ruby | TBD |
+Language            | Python                | Node.js | Node.js | Ruby | TBD |
 GitHub.com          | :white_check_mark:    | :white_check_mark: | :white_check_mark: |  :white_check_mark: | :x: |
 GitHub Enterprise   | :white_check_mark:    | :white_check_mark: | :white_check_mark: |  :white_check_mark: | :x: |
 GitLab.com          | :white_check_mark:    | :white_check_mark: | :x: | :x: | :x: |
@@ -18,7 +18,7 @@ GitLab Hosted       | :white_check_mark:    | :white_check_mark: | :x: | :x: | :
 Bitbucket.org       | :x:                   | :x: | :x: |  :x: | :x: |
 Bitbucket Server    | :white_check_mark:    | :x: | :x: |  :x: | :x: |
 Labor Hours         | :white_check_mark:    | :x: | :x: | :x: | :x: |
-Lead Developer		| [IanLee1521](https://github.com/IanLee1521)	| [emartinez-usgs](https://github.com/emartinez-usgs)	| [contolini](https://github.com/contolini) | [jfredrickson5](https://github.com/jfredrickson5) | [katucker](https://github.com/katucker) |
+Lead Developer		| [IanLee1521](https://github.com/IanLee1521)	| [emartinez-usgs](https://github.com/emartinez-usgs)	| [contolini](https://github.com/contolini), [Scotchester](https://github.com/Scotchester) | [jfredrickson5](https://github.com/jfredrickson5) | [katucker](https://github.com/katucker) |
 Agency					|	DOE-LLNL		|	DOI-USGS  		|	CFPB   	|  GSA	 |  HHS |
 GitHub API			| REST API v3		|	REST API v3  | GraphQL API v4 |	REST API v3  | TBD |
 
