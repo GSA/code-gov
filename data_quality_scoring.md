@@ -4,7 +4,7 @@ As part of our efforts to make Code.gov as useful as possible to our users, we h
 
 ## Score Determination
 
-We determine the quality score of a repository by using a series of rules and passing the repository through a rules engine. We also assign a __weight__ to each field that simbolizes the value that field has for Code.gov.
+We determine the quality score of a repository by using a series of rules and passing the repository through a rules engine. We also assign a __weight__ to each field that symbolizes the value that field has for Code.gov.
 
 The rules can vary from field to field. As an example, we evaluate the existance of data in all fields before we add their weight to the overall score, but in the case of the __description__ field we also evaluate that the content of the field is not the same as the name of the project and we make a "naive" evaluation on the amount of content that the field has (word count). Other fields are evaluated depending on the data that is expected and desired in them.
 
