@@ -63,6 +63,7 @@ please use the [GSA/code-gov](https://github.com/GSA/code-gov) repo as a catch a
 | [GSA/code-gov-integrations](https://github.com/GSA/code-gov-integrations)     | [View all issues](https://github.com/GSA/code-gov-integrations/issues)   | [Create a new issue](https://github.com/GSA/code-gov-integrations/issues/new)   |
 | [GSA/json-schema-web-component](https://github.com/GSA/json-schema-web-component)     | [View all issues](https://github.com/GSA/json-schema-web-component/issues)   | [Create a new issue](https://github.com/GSA/json-schema-web-component/issues/new)   |
 | [GSA/json-schema-validator-web-component](https://github.com/GSA/json-schema-validator-web-component)     | [View all issues](https://github.com/GSA/json-schema-validator-web-component/issues)   | [Create a new issue](https://github.com/GSA/json-schema-validator-web-component/issues/new)   |
-| [GSA/code-gov-about-page](https://github.com/GSA/code-gov-about-page)                   | [View all issues](https://github.com/GSA/code-gov-about-page/issues)          | [Create a new issue](https://github.com/GSA/code-gov-about-page/issues/new) 
+| [GSA/code-gov-about-page](https://github.com/GSA/code-gov-about-page)                   | [View all issues](https://github.com/GSA/code-gov-about-page/issues)          | [Create a new issue](https://github.com/GSA/code-gov-about-page/issues/new) |
+| [GSA/code-gov-fscp-react-component](https://github.com/GSA/code-gov-fscp-react-component)                   | [View all issues](https://github.com/GSA/code-gov-fscp-react-component/issues)          | [Create a new issue](https://github.com/GSA/code-gov-fscp-react-component/issues/new) |
 
 ## Thanks!
