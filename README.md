@@ -18,7 +18,7 @@ All of our repositories follow our [Code of Conduct](CODE_OF_CONDUCT.md) and [Co
 
 ### Main repositories
 
-1. [GSA/code-gov-web](https://github.com/GSA/code-gov-web): Our frontend project. Currently deployed as a static site, this project is backed by our API to display project repositories, search, and an agency compliance dashboard.
+1. [GSA/code-gov-front-end](https://github.com/GSA/code-gov-front-end): Our frontend project. Currently deployed as a static site, this project is backed by our API to display project repositories, search, and an agency compliance dashboard.
 2. [GSA/code-gov-api](https://github.com/GSA/code-gov-api): Our backend API. An Express.js app backed by Elasticsearch. Its primary function is to index and make America's source code discoverable and searchable.
 3. [GSA/code-gov-harvester](https://github.com/GSA/code-gov-harvester): Our standalone source code inventory harvester.
 4. [GSA/code-gov-developer-docs](https://github.com/GSA/code-gov-developer-docs): Our developer docs! This repo is meant to be a simple way to start using our API. It can also provide API tokens. The live site can be seen [here](https://developers.code.gov).
@@ -51,7 +51,7 @@ please use the [GSA/code-gov](https://github.com/GSA/code-gov) repo as a catch a
 | Project                                                                       | Issues                                                                   | New Issue                                                                       |
 | ----------------------------------------------------------------------------- | ------------------------------------------------------------------------ | ------------------------------------------------------------------------------- |
 | [GSA/code-gov](https://github.com/GSA/code-gov)                               | [View all issues](https://github.com/GSA/code-gov/issues)                | [Create a new issue](https://github.com/GSA/code-gov/issues/new)                |
-| [GSA/code-gov-web](https://github.com/GSA/code-gov-web)                       | [View all issues](https://github.com/GSA/code-gov-web/issues)            | [Create a new issue](https://github.com/GSA/code-gov-web/issues/new)            |
+| [GSA/code-gov-front-end](https://github.com/GSA/code-gov-front-end)                       | [View all issues](https://github.com/GSA/code-gov-front-end/issues)            | [Create a new issue](https://github.com/GSA/code-gov-front-end/issues/new)            |
 | [GSA/code-gov-api](https://github.com/GSA/code-gov-api)                       | [View all issues](https://github.com/GSA/code-gov-api/issues)            | [Create a new issue](https://github.com/GSA/code-gov-api/issues/new)            |
 | [GSA/code-gov-api-client](https://github.com/GSA/code-gov-api-client)                       | [View all issues](https://github.com/GSA/code-gov-api-client/issues)            | [Create a new issue](https://github.com/GSA/code-gov-api-client/issues/new)            |
 | [GSA/code-gov-font](https://github.com/GSA/code-gov-font)                   | [View all issues](https://github.com/GSA/code-gov-font/issues)          | [Create a new issue](https://github.com/GSA/code-gov-font/issues/new)   
