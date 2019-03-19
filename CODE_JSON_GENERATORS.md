@@ -17,6 +17,7 @@ GitLab.com          | :white_check_mark:    | :white_check_mark: | :x: | :x: | :
 GitLab Hosted       | :white_check_mark:    | :white_check_mark: | :x: | :x: | :x: |
 Bitbucket.org       | :x:                   | :x: | :x: |  :x: | :x: |
 Bitbucket Server    | :white_check_mark:    | :x: | :x: |  :x: | :x: |
+TFS Server          | :white_check_mark:    | :x: | :x: |  :x: | :x: |
 Labor Hours         | :white_check_mark:    | :x: | :x: | :x: | :x: |
 Lead Developer		| [IanLee1521](https://github.com/IanLee1521)	| [emartinez-usgs](https://github.com/emartinez-usgs)	| [contolini](https://github.com/contolini), [Scotchester](https://github.com/Scotchester) | [jfredrickson5](https://github.com/jfredrickson5) | [katucker](https://github.com/katucker) |
 Agency					|	DOE-LLNL		|	DOI-USGS  		|	CFPB   	|  GSA	 |  HHS |
