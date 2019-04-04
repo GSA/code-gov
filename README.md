@@ -4,7 +4,7 @@ Welcome! This is an informative repository for all Code.gov repositories.
 
 ## What is Code.gov
 
-[Code.gov](https://code.gov) is a website and program promoting good practices in code development, collaboration, and reuse across the U.S. Federal Government. [Code.gov](https://code.gov) will provide tools and guidance to help federal agencies implement the [Federal Source Code Policy](https://code.gov/#/policy-guide/policy/introduction). It will include an inventory of the federal government's custom code to promote reuse between federal agencies. Also, [Code.gov](https://code.gov) will provide tools to help the government and the public collaborate on open source projects.
+[Code.gov](https://code.gov) is a website and program promoting good practices in code development, collaboration, and reuse across the U.S. Federal Government. [Code.gov](https://code.gov) will provide tools and guidance to help federal agencies implement the [Federal Source Code Policy](https://code.gov/about/overview/introduction). It will include an inventory of the federal government's custom code to promote reuse between federal agencies. Also, [Code.gov](https://code.gov) will provide tools to help the government and the public collaborate on open source projects.
 
 To learn more about the project, check out this [blog post](https://www.whitehouse.gov/blog/2016/08/08/peoples-code).
 

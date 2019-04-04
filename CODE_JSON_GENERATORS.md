@@ -1,6 +1,6 @@
 ## OMB M-16-21 Federal Source Code Policy Inventory Requirement
 
-Since the release of the [OMB M-16-21 Federal Source Code Policy (FSCP)](https://code.gov/#/policy-guide/policy/introduction), the U.S. Government (CFO Act agencies) have been focused on completing a comprehensive inventory of all custom developed software from August 2016. Additionally, the Federal agencies have to identify which of those custom developed software can be open source, or be made government wide reuse, or exempt from being release due national security in order to comply with the OMB M-16-21 FSCP. For a full list of requirements please see the [Metadata Schema 2.0.0 ](https://code.gov/#/policy-guide/docs/compliance/inventory-code)requirements.
+Since the release of the [OMB M-16-21 Federal Source Code Policy (FSCP)](https://code.gov/about/overview/introduction), the U.S. Government (CFO Act agencies) have been focused on completing a comprehensive inventory of all custom developed software from August 2016. Additionally, the Federal agencies have to identify which of those custom developed software can be open source, or be made government wide reuse, or exempt from being release due national security in order to comply with the OMB M-16-21 FSCP. For a full list of requirements please see the [Metadata Schema 2.0.0 ](https://code.gov/about/compliance/inventory-code)requirements.
 
 ## Code.gov Metadata Schema 2.0.0 Requirements
 
@@ -17,6 +17,7 @@ GitLab.com          | :white_check_mark:    | :white_check_mark: | :x: | :x: | :
 GitLab Hosted       | :white_check_mark:    | :white_check_mark: | :x: | :x: | :x: |
 Bitbucket.org       | :x:                   | :x: | :x: |  :x: | :x: |
 Bitbucket Server    | :white_check_mark:    | :x: | :x: |  :x: | :x: |
+Team Foundation Server (TSF)    | :white_check_mark:    | :x: | :x: |  :x: | :x: |
 Labor Hours         | :white_check_mark:    | :x: | :x: | :x: | :x: |
 Lead Developer		| [IanLee1521](https://github.com/IanLee1521)	| [emartinez-usgs](https://github.com/emartinez-usgs)	| [contolini](https://github.com/contolini), [Scotchester](https://github.com/Scotchester) | [jfredrickson5](https://github.com/jfredrickson5) | [katucker](https://github.com/katucker) |
 Agency					|	DOE-LLNL		|	DOI-USGS  		|	CFPB   	|  GSA	 |  HHS |
@@ -59,7 +60,7 @@ Features proposed for the application and design ideas are documented in the Iss
 
 ### Code.gov Schema Documentation
 
-[Metadata Schema 2.0.0](https://code.gov/#/policy-guide/docs/compliance/inventory-code)
+[Metadata Schema 2.0.0](https://code.gov/about/compliance/inventory-code)
 
 ### Github API
 

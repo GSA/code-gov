@@ -1,7 +1,7 @@
 # Good Metadata Examples    
 [Code.gov](https://www.code.gov) developed this document to showcase good examples of metadata in current agency code.json files.  We hope it helps when creating your agency code.json file.  
 
-[Code.gov](https://www.code.gov) is the nation’s catalog for U.S. Government source code.  The platform allows for discoverability of custom developed software that is reusable or open sourced.  The current [metadata schema 2.0.0](https://www.code.gov/#/policy-guide/docs/compliance/inventory-code) allows agency inventory metadata to be displayed properly on Code.gov.
+[Code.gov](https://www.code.gov) is the nation’s catalog for U.S. Government source code.  The platform allows for discoverability of custom developed software that is reusable or open sourced.  The current [metadata schema 2.0.0](https://code.gov/about/compliance/inventory-code) allows agency inventory metadata to be displayed properly on Code.gov.
 
 Benefits of having **good** metadata:   
 	- Allows for proper and accurate display of code inventory on Code.gov and agency websites.  
@@ -12,7 +12,7 @@ Benefits of having **good** metadata:
 ![Code.gov Community Diagram](images/community.png)
 <br/><br/><br/>    
 ### Example 1: DOD’s Move.mil         
-The U.S. Department of Defense (DOD) does an excellent job with Move.mil by capturing all [metadata schema 2.0.0](https://www.code.gov/#/policy-guide/docs/compliance/inventory-code) requirements and using optional fields to extend the OSS metadata. The project contains optional fields - **organization**, **status**, **vcs**, **homepageURL**, **relatedCode**, **reusedCode** and **date**.  The **relatedCode** and **reuseCode** fields are essential for identifying relevant codebases and software dependencies allowing engineering and open source contributors to easily access. The **organization** denotes Defense Digital Service department that is governing the OSS project, and then provides a **homepageURL** for the department’s website.
+The U.S. Department of Defense (DOD) does an excellent job with Move.mil by capturing all [metadata schema 2.0.0](https://code.gov/about/compliance/inventory-code) requirements and using optional fields to extend the OSS metadata. The project contains optional fields - **organization**, **status**, **vcs**, **homepageURL**, **relatedCode**, **reusedCode** and **date**.  The **relatedCode** and **reuseCode** fields are essential for identifying relevant codebases and software dependencies allowing engineering and open source contributors to easily access. The **organization** denotes Defense Digital Service department that is governing the OSS project, and then provides a **homepageURL** for the department’s website.
 <br/>   
 ![DOD Move OSS Project Example](images/dod_move.png)
 <br/><br/>
