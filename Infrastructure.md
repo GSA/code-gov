@@ -12,9 +12,10 @@ The backend consists of following different parts and can be deployed on any
 2.  API
 3.  Elastic Search
 
+All of these applications/services can be deployed on independent servers/containers and/or single server.  The following diagram illustrates current implementation of these applications.
+
 ![Architecture Diagram](images/back_end_architecture.png)
 
-All of these applications/services can be deployed on independent servers/containers and/or single server.
 
 ## Harvester
 The harvester application uses meta-data json file to locate various agency code.json file.  Code.json file contains a list of various projects and their related details.  For each agency code.json file harvester reads the content, validates the format, ranks the project based on a pre-defined criteria and refreshes multiple Elastic Search indices.
