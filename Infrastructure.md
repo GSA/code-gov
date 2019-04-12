@@ -1,9 +1,15 @@
-# Infrastructure (Work in Progress)
+# Infrastructure
 
 This files describes the infrastructure, server space and memory, required to run code.gov.  It breaks down the server requirements by front-end and different back-end processes.
 
 # front end
-The front-end of code.gov is currently a static site that can be found at code-gov-web.
+The front end of code.gov is a statically build React app hosted on [Federalist](https://federalistapp.18f.gov/).
+
+It consists of the following main repos:
+1. [code-gov-front-end](https://github.com/GSA/code-gov-front-end) (React app)
+2. [code-gov-style](https://github.com/GSA/code-gov-style) (style guide)
+
+There are several additional components and tools repos used by the front and back end of Code.gov. All of the packages available can be found on [NPM](https://www.npmjs.com/settings/code.gov/packages).
 
 # backend
 The backend consists of following different parts.
