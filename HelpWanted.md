@@ -1,8 +1,10 @@
 # Help Wanted "Template"
 
-The __Help Wanted__ feature of Code.gov will be based off of Github Issues.
+**NOTE:** The __Help Wanted__ feature of Code.gov is now called [Open Tasks](https://code.gov/open-tasks).
 
-Github Issues is a quick and easy way to express work to be done on a project and integrates well into modern developer workflow. It's also a good way to keep a single line of communication with your contributor community.
+All Opens Tasks are based off of Github Issues.
+
+[Github Issues](https://guides.github.com/features/issues/) is a quick and easy way to express work to be done on a project and integrates well into modern developer workflow. It's also a good way to keep a single line of communication with your contributor community.
 
 Every Github issue should have the following information for it to be useful:
 
@@ -13,11 +15,11 @@ Every Github issue should have the following information for it to be useful:
 
 ## [Labels](#labels)
 
-The base labels to be used are `help wanted` and `code.gov`. All issues with these labels attached will be included in our __Help Wanted__ area of Code.gov.
+The base labels to be used are `help wanted` and `code.gov`. All issues with these labels attached will be included in our __Open Tasks__ area of Code.gov.
 
-All other lables will be used to collect metadata about the `help wanted` entry.
+All other labels will be used to collect metadata about the `open tasks` entry.
 
-Note: These are custom labels you will have to create one time in your repo, not the generic GitHub labels. These are case sensitive for use with the Code.gov API for inclusion on the Code.gov Help Wanted page.
+Note: These are custom labels you will have to create one time in your repo, not the generic GitHub labels. These are **case sensitive** for use with the Code.gov API for inclusion on the Code.gov Open Tasks page.
 
 ### Issue Type
 
@@ -28,7 +30,7 @@ Code.gov will use the following labels as Issue Types
 * __good first issue:__ some projects are complex. This label will help your new contributors know that this issue is a great way to get involved with your project.
 * __feedback:__ sometimes you just want to get a different perspective. This label will let your community know that you would like their feedback on a topic.
 
-These lables should be created or modified to follow the template: `[issue-type] <value>`
+These labels should be created or modified to follow the template: `[issue-type] <value>`
 
 #### Examples
 
