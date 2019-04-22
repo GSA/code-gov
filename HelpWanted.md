@@ -2,15 +2,15 @@
 
 **NOTE:** The __Help Wanted__ feature of Code.gov is now called [Open Tasks](https://code.gov/open-tasks).
 
-All Opens Tasks are based off of Github Issues.
+All Opens Tasks are based off of GitHub Issues.
 
-[Github Issues](https://guides.github.com/features/issues/) is a quick and easy way to express work to be done on a project and integrates well into modern developer workflow. It's also a good way to keep a single line of communication with your contributor community.
+[GitHub Issues](https://guides.github.com/features/issues/) is a quick and easy way to express work to be done on a project and integrates well into modern developer workflow. It's also a good way to keep a single line of communication with your contributor community.
 
-Every Github issue should have the following information for it to be useful:
+Every GitHub issue should have the following information for it to be useful:
 
 * __Title:__ a brief summary of what the task is. This is the primary way you will attract contributors.
 * __Issue Description:__ A detailed description of the task. It's important to include any specifics that could help contributors recreate, test, and fix the issue or implement a new feature.
-  * __Contact Info (Name, Email, Telephone #):__ This is totally optional and should only be used if direct communication is important. Our main suggestion is to use the comment functionality provided by Github to keep all relevant issue conversations in one place.
+  * __Contact Info (Name, Email, Telephone #):__ This is totally optional and should only be used if direct communication is important. Our main suggestion is to use the comment functionality provided by GitHub to keep all relevant issue conversations in one place.
 * __Labels:__ labels are used to identify the issues as a `help wanted` task and to supply Code.gov with needed metadata. Click [here to read about labels](#labels).
 
 ## [Labels](#labels)
