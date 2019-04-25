@@ -39,17 +39,17 @@ Our implementation of this includes:
 
 There are three levels that we recognize:
 
-* [skill-level] beginner
-* [skill-level] intermediate
-* [skill-level] advanced
+* `[skill-level] beginner`
+* `[skill-level] intermediate`
+* `[skill-level] advanced`
 
 ### Effort
 
 Effort is identified by sizes.
 
-* [effort] small
-* [effort] medium
-* [effort] large
+* `[effort] small`
+* `[effort] medium`
+* `[effort] large`
 
 
 We also have labels to add helpful information related to the status, priority, and functional area of the issue with a few additional misc. labels. These include:
@@ -58,51 +58,51 @@ We also have labels to add helpful information related to the status, priority, 
 
 Priority is identified by urgency level.
 
-* [priority] low
-* [priority] medium
-* [priority] high
+* `[priority] low`
+* `[priority] medium`
+* `[priority] high`
 
 ### Status
 
 Status is identified by workflow progress.
 
-* [status] needs info - follow-up required in order to be actionable.
-* [status] blocked
-* [status] stale - gives the original author or interested person the opportunity to update before closing
-* [status] changes requested
-* [status] backlog
-* [status] in progress - tracking issues with work in progress
-* [status] needs testing
-* [status] needs design feedback
+* `[status] needs info` - follow-up required in order to be actionable.
+* `[status] blocked`
+* `[status] stale` - gives the original author or interested person the opportunity to update before closing
+* `[status] changes requested`
+* `[status] backlog`
+* `[status] in progress` - tracking issues with work in progress
+* `[status] needs testing`
+* `[status] needs design feedback`
 
 ### Inactive
 
 Inactive is identified by the reason an issue will not be worked
 
-* [inactive] duplicate - item has already been identified in another issue/PR
-* [inactive] invalid
-* [inactive] wontfix - issues/PRs we are (likely) to not implement
+* `[inactive] duplicate` - item has already been identified in another issue/PR
+* `[inactive] invalid`
+* `[inactive] wontfix` - issues/PRs we are (likely) to not implement
 
 ### Functional area
 
 Functional area is identified by the subject matter area needed
 
-* [area] UX
-* [area] accessibility
-* [area] docs
-* [area] code quality
-* [area] browser compatibility
-* [area] security
-* [area] visual design
+* `[area] UX`
+* `[area] accessibility`
+* `[area] docs`
+* `[area] code quality`
+* `[area] browser compatibility`
+* `[area] security`
+* `[area] visual design`
 
 In addition to the labels above, we include a few others which are related to specific tools:
 
-* code.gov - Used by our API to show on our Open Tasks page 
-* help wanted - Used by GitHub to indicate how many issues are requesting help from contributors
+* `code.gov` - Used by our API to show on our Open Tasks page 
+* `help wanted` - Used by GitHub to indicate how many issues are requesting help from contributors
 
 ### Milestones
 
-We put issues into [milestones](https://github.com/wordpress/gutenberg/milestones) to better categorize them.
+We put issues into [milestones]() to better categorize them.
 
 ### Triaging Issues
 
