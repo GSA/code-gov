@@ -100,6 +100,8 @@ In addition to the labels above, we include a few others which are related to sp
 * `code.gov` - Used by our API to show on our Open Tasks page 
 * `help wanted` - Used by GitHub to indicate how many issues are requesting help from contributors
 
+A list of the labels (with colors) used on Code.gov repos can be found in [repo-labels.json](./repo-labels.json). It can be used in conjunction with [git-label-cli](https://github.com/jasonbellamy/git-label-cli) to do a bulk addition of these labels when setting up a new repo.
+
 ### Milestones
 
 We put issues into [milestones]() to better categorize them.
