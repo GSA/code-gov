@@ -15,7 +15,7 @@ GitHub.com          | :white_check_mark:    | :white_check_mark: | :white_check_
 GitHub Enterprise   | :white_check_mark:    | :white_check_mark: | :white_check_mark: |  :white_check_mark: | :x: |
 GitLab.com          | :white_check_mark:    | :white_check_mark: | :x: | :x: | :x: |
 GitLab Hosted       | :white_check_mark:    | :white_check_mark: | :x: | :x: | :x: |
-Bitbucket.org       | :x:                   | :x: | :x: |  :x: | :x: |
+Bitbucket.org       | :white_check_mark:    | :x: | :x: |  :x: | :x: |
 Bitbucket Server    | :white_check_mark:    | :x: | :x: |  :x: | :x: |
 Team Foundation Server (TSF)    | :white_check_mark:    | :x: | :x: |  :x: | :x: |
 Labor Hours         | :white_check_mark:    | :x: | :x: | :x: | :x: |
