@@ -4,50 +4,48 @@ As part of our efforts to make Code.gov as useful as possible to our users, we h
 
 ## Score Determination
 
-We determine the quality score of a repository by using a series of rules and passing the repository through a rules engine. We also assign a __weight__ to each field that symbolizes the value that field has for Code.gov.
+We determine the quality score of a repository by using a series of rules and passing the repository through a rules engine. We also assign a __point value__ to each field that symbolizes the value that field has for Code.gov.
 
 The rules can vary from field to field. As an example, we evaluate the existance of data in all fields before we add their weight to the overall score, but in the case of the __description__ field we also evaluate that the content of the field is not the same as the name of the project and we make a "naive" evaluation on the amount of content that the field has (word count). Other fields are evaluated depending on the data that is expected and desired in them.
 
-### Field Weights
+### Field Points
 
-We give weight values between 0 and 1. These values are the maximum score that data in the field can obtain. There are fields where data is evaluated and may be awared less than the values in the following table. There are other fields, like the tags field that may accumulate scores depending on the amount of data submitted (Eg. each tag contributes the field value).
+We give point values between 0 and 10. These values are the maximum score that data in the field can obtain. There are fields where data is evaluated and may be awared less than the values in the following table.  Also, fields like tags may be awarded partial value based on number of items
 
-| Field Name                | Field Weight |
-| ------------------------- | ------------ |
-| name                      | 1            |
-| description               | 1            |
-| permissions.licenses      | 1            |
-| permissions.licenses.URL  | 1            |
-| permissions.licenses.name | 1            |
-| permissions.usageType     | 1            |
-| permissions.exemptionText | 1            |
-| organization              | 1            |
-| contact.email             | 1            |
-| contact.name              | 1            |
-| contact.URL               | 1            |
-| contact.phone             | 1            |
-| tags                      | 1            |
-| laborHours                | 1            |
-| languages:                | 0.8          |
-| repositoryURL:            | 0.8          |
-| homepageURL:              | 0.8          |
-| downloadURL:              | 0.8          |
-| vcs:                      | 0.8          |
-| date.created:             | 0.6          |
-| date.lastModified:        | 0.6          |
-| date.metadataLastUpdated: | 0.6          |
-| version:                  | 0.6          |
-| status:                   | 0.6          |
-| disclaimerURL:            | 0.4          |
-| disclaimerText:           | 0.4          |
-| relatedCode.name:         | 0.4          |
-| relatedCode.URL:          | 0.4          |
-| reusedCode.name:          | 0.4          |
-| reusedCode.URL:           | 0.4          |
-| partners.name:            | 0.4          |
-| partners.email:           | 0.4          |
-| target_operating_systems: | 0.2          |
-| additional_information:   | 0.1          |
+|Field Name|Max Field Points|
+|-|-|
+|name|10|
+|version|1|
+|organization|5|
+|description|10|
+|permissions.licenses.URL|1|
+|permissions.licenses.name|7|
+|permissions.usageType|10|
+|permissions.exemptionText|5|
+|tags|10|
+|contact.email|10|
+|contact.name|5|
+|contact.URL|5|
+|contact.phone|5|
+|status|5|
+|vcs|5|
+|repositoryURL|10|
+|homepageURL|7|
+|downloadURL|3|
+|disclaimerURL|3|
+|disclaimerText|3|
+|languages|10|
+|laborHours|10|
+|relatedCode.name|1|
+|relatedCode.URL             |1|
+|relatedCode.isGovernmentRepo|1|
+|reusedCode.name|1|
+|reusedCode.URL|1|
+|partners.name|1|
+|partners.email|1|
+|date.created|5|
+|date.lastModified|5|
+|date.metadataLastUpdated|2|
 
 ### Field Rules
 
@@ -55,4 +53,4 @@ We are using the [simple-rules-engine](https://www.npmjs.com/package/simple-rule
 
 ### Score Normalization
 
-We are currently in the process of normalizing the scores of our data. After this development is completed all scores will be between 1 and 10 points. This will give our users an easier way to interprete our data quality scores.
+Score normalization is performed where the final score is between 0 and 10.  To arrive at this value, all point values of each field in the above table are tallied and divided by maximum possible point and then multipled by 10.
