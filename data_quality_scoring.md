@@ -49,7 +49,7 @@ We give point values between 0 and 10. These values are the maximum score that d
 
 ### Field Rules
 
-We are using the [simple-rules-engine](https://www.npmjs.com/package/simple-rules-engine) package to evaluate the rules we've created for each field. Our current rules can be seen [here](https://github.com/GSA/code-gov-api/blob/master/services/validator/rules/index.js).
+We are using the [simple-rules-engine](https://www.npmjs.com/package/simple-rules-engine) package to evaluate the rules we've created for each field. Our current rules can be seen [here](https://github.com/GSA/code-gov-harvester/blob/master/libs/rules/index.js).
 
 ### Score Normalization
 
