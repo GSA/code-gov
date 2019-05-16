@@ -54,3 +54,16 @@ We are using the [simple-rules-engine](https://www.npmjs.com/package/simple-rule
 ### Score Normalization
 
 Score normalization is performed where the final score is between 0 and 10.  To arrive at this value, all point values of each field in the above table are tallied and divided by maximum possible point and then multipled by 10.
+
+### Score Display
+
+The code.gov front end uses a [corner tag](https://gsa.github.io/code-gov-style/components/corner_tags) to display the data quality score. This is implemented by the `quality-tag` component. The tag type/color is determined by the `score` value passed to the component using the following ranges:
+- low/red: a score below 4 
+- medium/orange: a score greater than or equal to 4 and less than 6
+- high/green: a score higher than or equal to 6
+
+*note: because all code.gov projects should have the required fields filled, it is expected that no projects will have the low/red corner tag
+
+For more info on the code.gov corner tags see the [style guide](https://gsa.github.io/code-gov-style/components/corner_tags).
+
+See [quality_tag.js](https://github.com/GSA/code-gov-style/blob/master/src/quality_tag.js) to view the code for this corner tag component logic.
