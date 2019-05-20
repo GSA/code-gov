@@ -17,7 +17,7 @@ We give point values between 0 and 10. These values are the maximum score that d
 |name|10|yes||
 |version|1|yes|||
 |organization|5|||
-|description|10|yes|0 points if descriptions and name are same, 0 points if description is less then 3 words, 3 points of description is less then 10 words, 5 points if description is less then 20 words, 8 points if description is less then 30 words, 10 (full) points if description is 30 or more words |
+|description|10|yes|0 points if descriptions and name are same, 0 points if description is less then 3 words, 3 points if description is less then 10 words, 5 points if description is less then 20 words, 8 points if description is less then 30 words, 10 (full) points if description is 30 or more words |
 |permissions.licenses.URL|1||Licenses is an Array of objects and it should have atleast 1 element|
 |permissions.licenses.name|7||Licenses is an Array of objects and it should have atleast 1 element|
 |permissions.usageType|10|yes|1 point if exempt*, 5 points if governmentWideReuse, 10 (full) points if openSource'|
