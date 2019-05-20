@@ -29,12 +29,12 @@ We give point values between 0 and 10. These values are the maximum score that d
 |contact.phone|5||
 |status|5|||
 |vcs|5|||
-|repositoryURL|10|yes|10 (full) points if valid URL (starts with https:// or http://)||
-|homepageURL|7|must exits and be a valid URL to get full points|
-|downloadURL|3|must exits and be a valid URL to get full points|
-|disclaimerURL|3|must exits and be a valid URL to get full points|
-|disclaimerText|3||
-|languages|10|Languages is an Array of strings, must have atleast 1 element to get full points|
+|repositoryURL|10|yes|10 (full) points if valid URL (starts with https:// or http://)|
+|homepageURL|7||must exits and be a valid URL to get full points|
+|downloadURL|3||must exits and be a valid URL to get full points|
+|disclaimerURL|3||must exits and be a valid URL to get full points|
+|disclaimerText|3|||
+|languages|10||Languages is an Array of strings, must have atleast 1 element to get full points|
 |laborHours|10|yes|Full points if a positive numeric value|
 |relatedCode.name|1|||
 |relatedCode.URL|1||must exits and be a valid URL to get full points|
