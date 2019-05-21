@@ -1,4 +1,4 @@
-# Help Wanted "Template"
+# Open Tasks Label "Template"
 
 **NOTE:** The __Help Wanted__ feature of Code.gov is now called [Open Tasks](https://code.gov/open-tasks).
 
