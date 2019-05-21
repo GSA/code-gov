@@ -29,6 +29,7 @@ Code.gov will use the following labels as Issue Types
 * __enhancement:__ this label works as a catch all for new features, code cleanup, and general code maintenance. Bugs should not have the enhancement label added to them.
 * __good first issue:__ some projects are complex. This label will help your new contributors know that this issue is a great way to get involved with your project.
 * __feedback:__ sometimes you just want to get a different perspective. This label will let your community know that you would like their feedback on a topic.
+* __content:__ use this label when the change doesn't involve code like documentation updates.
 
 These labels should be created or modified to follow the template: `[issue-type] <value>`
 
@@ -37,6 +38,7 @@ These labels should be created or modified to follow the template: `[issue-type]
 * [issue-type] bug
 * [issue-type] enhancement
 * [issue-type] good first issue
+* [issue-type] content
 
 ### Skill Level
 
