@@ -103,8 +103,3 @@ The labels should be created or modified to follow the template: `[impact] <valu
 * [impact] health
 * [impact] census
 
-### Featured
-
-If you would like to have an issue prioritized higher than others you can use the 'featured' label.  Issues with the featured label will be included under our 'Featured' section.
-
-The label should be created or modified to follow the template: `[featured]`
