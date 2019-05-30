@@ -62,7 +62,9 @@ The code.gov front end uses a [corner tag](https://gsa.github.io/code-gov-style/
 - medium/orange: a score greater than or equal to 4 and less than 6
 - high/green: a score higher than or equal to 6
 
-*note: because all code.gov projects should have the required fields filled, it is expected that no projects will have the low/red corner tag
+*Note: because all code.gov projects should have the required fields filled, the majority of projects will have the medium/orange data quality corner tag. 
+
+Check out our [Metadata Examples document](https://github.com/GSA/code-gov/blob/master/METADATA_EXAMPLES.md) for additional information on metadata to include in order to raise your data quality score. 
 
 For more info on the code.gov corner tags see the [style guide](https://gsa.github.io/code-gov-style/components/corner_tags).
 
