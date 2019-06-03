@@ -43,7 +43,7 @@ We give point values between 0 and 10. These values are the maximum score that d
 |reusedCode.URL|1||must exists and be a valid URL to get full points|
 |partners.name|1|||
 |partners.email|1|||
-|date.created|5|yes||
+|date.created|5|||
 |date.lastModified|5|||
 |date.metadataLastUpdated|2|||
 
