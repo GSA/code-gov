@@ -16,24 +16,6 @@ As a product, [Code.gov](https://code.gov) is a collection of repositories that 
 
 All of our repositories follow our [Code of Conduct](CODE_OF_CONDUCT.md) and [Contributing](CONTRIBUTING.md) guidelines.
 
-### Main repositories
-
-1. [GSA/code-gov-front-end](https://github.com/GSA/code-gov-front-end): Our frontend project. Currently deployed as a static site, this project is backed by our API to display project repositories, search, and an agency compliance dashboard.
-2. [GSA/code-gov-api](https://github.com/GSA/code-gov-api): Our backend API. An Express.js app backed by Elasticsearch. Its primary function is to index and make America's source code discoverable and searchable.
-3. [GSA/code-gov-harvester](https://github.com/GSA/code-gov-harvester): Our standalone source code inventory harvester.
-4. [GSA/code-gov-developer-docs](https://github.com/GSA/code-gov-developer-docs): Our developer docs! This repo is meant to be a simple way to start using our API. It can also provide API tokens. The live site can be seen [here](https://developers.code.gov).
-5. [GSA/code-gov-style](https://github.com/GSA/code-gov-style): Our effort to modularize our CSS styles. This project is also made available as a [NPM package](https://www.npmjs.com/package/@code.gov/code-gov-style).
-6. [GSA/code-gov-adapters](https://github.com/GSA/code-gov-adapters): Our attempt to extract all data adapters into a simple reusable project. Currently only an Elasticsearch adapter has been implemented but more are on our roadmap. This project is also made available as a [NPM package](https://www.npmjs.com/package/@code.gov/code-gov-adapter)
-7. [GSA/code-gov-validator](https://github.com/GSA/code-gov-validator): Project that validates the structure of code.json files and returns all errors, warnings, and enhancements. This project is also made available as a [NPM package](https://www.npmjs.com/package/@code.gov/code-gov-validator)
-8. [GSA/code-gov-integrations](https://github.com/GSA/code-gov-integrations): This project contains all of our third party integrations. Currently Github integration is the only one implemented but more are on our roadmap. This project is also made available as a [NPM package](https://www.npmjs.com/package/@code.gov/code-gov-integrations)
-
-### Miscellaneous Repositories
-
-These repos are marked as miscellaneous because they do not affect the development or deployment of our main repos.
-
-1. [GSA/code-gov-stats](https://github.com/GSA/code-gov-stats)
-2. [GSA/code-gov-stats-jupyter-notebook](https://github.com/GSA/code-gov-stats-jupyter-notebook)
-
 ## Communications
 
 As an open source project we love feedback. If you want to get a hold of us you can use one of the following ways:
@@ -48,23 +30,30 @@ You can contribute to any of our open source projects by submitting a pull reque
 We handle all these via Github Issues in their respective project, but if you are unsure as to where an issue should live
 please use the [GSA/code-gov](https://github.com/GSA/code-gov) repo as a catch all.
 
-| Project                                                                       | Issues                                                                   | New Issue                                                                       |
-| ----------------------------------------------------------------------------- | ------------------------------------------------------------------------ | ------------------------------------------------------------------------------- |
-| [GSA/code-gov](https://github.com/GSA/code-gov)                               | [View all issues](https://github.com/GSA/code-gov/issues)                | [Create a new issue](https://github.com/GSA/code-gov/issues/new/choose)                |
-| [GSA/code-gov-front-end](https://github.com/GSA/code-gov-front-end)                       | [View all issues](https://github.com/GSA/code-gov-front-end/issues)            | [Create a new issue](https://github.com/GSA/code-gov-front-end/issues/new/choose)            |
-| [GSA/code-gov-api](https://github.com/GSA/code-gov-api)                       | [View all issues](https://github.com/GSA/code-gov-api/issues)            | [Create a new issue](https://github.com/GSA/code-gov-api/issues/new/choose)            |
-| [GSA/code-gov-api-client](https://github.com/GSA/code-gov-api-client)                       | [View all issues](https://github.com/GSA/code-gov-api-client/issues)            | [Create a new issue](https://github.com/GSA/code-gov-api-client/issues/new/choose)            |
-| [GSA/code-gov-font](https://github.com/GSA/code-gov-font)                   | [View all issues](https://github.com/GSA/code-gov-font/issues)          | [Create a new issue](https://github.com/GSA/code-gov-font/issues/new)   
-| [GSA/code-gov-harvester](https://github.com/GSA/code-gov-harvester)           | [View all issues](https://github.com/GSA/code-gov-harvester/issues)      | [Create a new issue](https://github.com/GSA/code-gov-harvester/issues/new)      |
-| [GSA/code-gov-developer-docs](https://github.com/GSA/code-gov-developer-docs) | [View all issues](https://github.com/GSA/code-gov-developer-docs/issues) | [Create a new issue](https://github.com/GSA/code-gov-developer-docs/issues/new) |
-| [GSA/code-gov-style](https://github.com/GSA/code-gov-style)                   | [View all issues](https://github.com/GSA/code-gov-style/issues)          | [Create a new issue](https://github.com/GSA/code-gov-style/issues/new/choose)          |
-| [GSA/code-gov-adapters](https://github.com/GSA/code-gov-adapters)             | [View all issues](https://github.com/GSA/code-gov-adapters/issues)       | [Create a new issue](https://github.com/GSA/code-gov-adapters/issues/new)       |
-| [GSA/code-gov-validator](https://github.com/GSA/code-gov-validator)           | [View all issues](https://github.com/GSA/code-gov-validator/issues)      | [Create a new issue](https://github.com/GSA/code-gov-validator/issues/new)      |
-| [GSA/code-gov-integrations](https://github.com/GSA/code-gov-integrations)     | [View all issues](https://github.com/GSA/code-gov-integrations/issues)   | [Create a new issue](https://github.com/GSA/code-gov-integrations/issues/new)   |
-| [GSA/json-schema-web-component](https://github.com/GSA/json-schema-web-component)     | [View all issues](https://github.com/GSA/json-schema-web-component/issues)   | [Create a new issue](https://github.com/GSA/json-schema-web-component/issues/new/choose)   |
-| [GSA/json-schema-validator-web-component](https://github.com/GSA/json-schema-validator-web-component)     | [View all issues](https://github.com/GSA/json-schema-validator-web-component/issues)   | [Create a new issue](https://github.com/GSA/json-schema-validator-web-component/issues/new/choose)   |
-| [GSA/code-gov-about-page](https://github.com/GSA/code-gov-about-page)                   | [View all issues](https://github.com/GSA/code-gov-about-page/issues)          | [Create a new issue](https://github.com/GSA/code-gov-about-page/issues/new) |
-| [GSA/code-gov-fscp-react-component](https://github.com/GSA/code-gov-fscp-react-component)                   | [View all issues](https://github.com/GSA/code-gov-fscp-react-component/issues)          | [Create a new issue](https://github.com/GSA/code-gov-fscp-react-component/issues/new) |
-| [GSA/code-gov-data](https://github.com/GSA/code-gov-data)                   | [View all issues](https://github.com/GSA/code-gov-data/issues)          | [Create a new issue](https://github.com/GSA/code-gov-data/issues/new) |
+| Project                                                                       | Description | Issues                                                                   | New Issue                                                                       |
+| ----------------------------------------------------------------------------- | ------ | ------------------------------------------------------------------------ | ------------------------------------------------------------------------------- |
+| [GSA/code-gov](https://github.com/GSA/code-gov)                               || [View all issues](https://github.com/GSA/code-gov/issues)                | [Create a new issue](https://github.com/GSA/code-gov/issues/new/choose)                |
+| [GSA/code-gov-front-end](https://github.com/GSA/code-gov-front-end)                       | Our frontend project. Currently deployed as a static site, this project is backed by our API to display project repositories, search, and an agency compliance dashboard. | [View all issues](https://github.com/GSA/code-gov-front-end/issues)            | [Create a new issue](https://github.com/GSA/code-gov-front-end/issues/new/choose)            |
+| [GSA/code-gov-api](https://github.com/GSA/code-gov-api)                       | Our backend API. An Express.js app backed by Elasticsearch. Its primary function is to index and make America's source code discoverable and searchable. | [View all issues](https://github.com/GSA/code-gov-api/issues)            | [Create a new issue](https://github.com/GSA/code-gov-api/issues/new/choose)            |
+| [GSA/code-gov-api-client](https://github.com/GSA/code-gov-api-client)                       || [View all issues](https://github.com/GSA/code-gov-api-client/issues)            | [Create a new issue](https://github.com/GSA/code-gov-api-client/issues/new/choose)            |
+| [GSA/code-gov-font](https://github.com/GSA/code-gov-font)                   || [View all issues](https://github.com/GSA/code-gov-font/issues)          | [Create a new issue](https://github.com/GSA/code-gov-font/issues/new)   
+| [GSA/code-gov-harvester](https://github.com/GSA/code-gov-harvester)           | Our standalone source code inventory harvester. | [View all issues](https://github.com/GSA/code-gov-harvester/issues)      | [Create a new issue](https://github.com/GSA/code-gov-harvester/issues/new)      |
+| [GSA/code-gov-developer-docs](https://github.com/GSA/code-gov-developer-docs) | Our developer docs! This repo is meant to be a simple way to start using our API. It can also provide API tokens. The live site can be seen [here](https://developers.code.gov). | [View all issues](https://github.com/GSA/code-gov-developer-docs/issues) | [Create a new issue](https://github.com/GSA/code-gov-developer-docs/issues/new) |
+| [GSA/code-gov-style](https://github.com/GSA/code-gov-style)                   | Our effort to modularize our CSS styles. This project is also made available as a [NPM package](https://www.npmjs.com/package/@code.gov/code-gov-style). | [View all issues](https://github.com/GSA/code-gov-style/issues)          | [Create a new issue](https://github.com/GSA/code-gov-style/issues/new/choose)          |
+| [GSA/code-gov-adapters](https://github.com/GSA/code-gov-adapters)             | Our attempt to extract all data adapters into a simple reusable project. Currently only an Elasticsearch adapter has been implemented but more are on our roadmap. This project is also made available as a [NPM package](https://www.npmjs.com/package/@code.gov/code-gov-adapter) | [View all issues](https://github.com/GSA/code-gov-adapters/issues)       | [Create a new issue](https://github.com/GSA/code-gov-adapters/issues/new)       |
+| [GSA/code-gov-validator](https://github.com/GSA/code-gov-validator)           | Project that validates the structure of code.json files and returns all errors, warnings, and enhancements. This project is also made available as a [NPM package](https://www.npmjs.com/package/@code.gov/code-gov-validator) | [View all issues](https://github.com/GSA/code-gov-validator/issues)      | [Create a new issue](https://github.com/GSA/code-gov-validator/issues/new)      |
+| [GSA/code-gov-integrations](https://github.com/GSA/code-gov-integrations)     | This project contains all of our third party integrations. Currently Github integration is the only one implemented but more are on our roadmap. This project is also made available as a [NPM package](https://www.npmjs.com/package/@code.gov/code-gov-integrations) | [View all issues](https://github.com/GSA/code-gov-integrations/issues)   | [Create a new issue](https://github.com/GSA/code-gov-integrations/issues/new)   |
+| [GSA/json-schema-web-component](https://github.com/GSA/json-schema-web-component)     || [View all issues](https://github.com/GSA/json-schema-web-component/issues)   | [Create a new issue](https://github.com/GSA/json-schema-web-component/issues/new/choose)   |
+| [GSA/json-schema-validator-web-component](https://github.com/GSA/json-schema-validator-web-component)     || [View all issues](https://github.com/GSA/json-schema-validator-web-component/issues)   | [Create a new issue](https://github.com/GSA/json-schema-validator-web-component/issues/new/choose)   |
+| [GSA/code-gov-about-page](https://github.com/GSA/code-gov-about-page)                   || [View all issues](https://github.com/GSA/code-gov-about-page/issues)          | [Create a new issue](https://github.com/GSA/code-gov-about-page/issues/new) |
+| [GSA/code-gov-fscp-react-component](https://github.com/GSA/code-gov-fscp-react-component)                   || [View all issues](https://github.com/GSA/code-gov-fscp-react-component/issues)          | [Create a new issue](https://github.com/GSA/code-gov-fscp-react-component/issues/new) |
+| [GSA/code-gov-data](https://github.com/GSA/code-gov-data)                   || [View all issues](https://github.com/GSA/code-gov-data/issues)          | [Create a new issue](https://github.com/GSA/code-gov-data/issues/new) |
+
+### Miscellaneous Repositories
+
+These repos are marked as miscellaneous because they do not affect the development or deployment of our main repos.
+
+1. [GSA/code-gov-stats](https://github.com/GSA/code-gov-stats)
+2. [GSA/code-gov-stats-jupyter-notebook](https://github.com/GSA/code-gov-stats-jupyter-notebook)
 
 ## Thanks!
