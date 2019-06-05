@@ -1,24 +1,47 @@
-# Code of Conduct
+# Contributor Covenant Code of Conduct
 
-This Code of Conduct applies to Code.gov, its repositories, communications, events and anyone participating in the Code.gov community [link to about page]. Your use of Code.gov means you accept and agree to abide by this Code of Conduct, which we may revise periodically. You should review this page from time to time. 
+## Our Pledge
 
-## What we expect
+In the interest of fostering an open and welcoming environment, we as contributors and maintainers pledge to making participation in our project and our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
 
-We expect all visitors and contributors to Code.gov to have a safe and engaging experience that is beneficial to our community. Members of our community have a diverse set of experiences and skillsets. As you engage our community, please ensure you are:  
+## Our Standards
 
-- __Considerate__: as an open source community, what you do will affect others. Ensure what you do is in the best interest of the project, and community at large. 
-- __Collaborative__: the essences of open source is collaborative in nature. Attempt to honor the spirit of open source by working together before conflict.
-- __Patient__: Remember that open source is a culture change in government and while Code.gov is a testament to that change, change is occurring thanks to many in this community. Be patient if your question or issue is not answered right away. Many are juggling multiple duties. Contributing to open-source projects is often an after hours affair. 
-- __Be Mindful__: Be aware of your actions, others actions. Treat others with dignity and respect --the way you want to be treated. Be kind. 
-- __Using clear communication__: We don’t all speak the same language. Further, written, or typed words lack tone or body language to help interpret intent or meaning. If your words could have more than one meaning, take time to be clearer and always air on the side of being kind. 
+Examples of behavior that contributes to creating a positive environment include:
 
-# What we won’t accept
+* Using welcoming and inclusive language
+* Being respectful of differing viewpoints and experiences
+* Gracefully accepting constructive criticism
+* Focusing on what is best for the community
+* Showing empathy towards other community members
 
-Users have a reasonable expectation to engage our site and community free from harassment. Harassment can include offensive verbal comments related to gender, age, sexual orientation, disability, physical appearance, race, religion, deliberate intimidation, disruption of talks or events. In short, harassment of any kind.
+Examples of unacceptable behavior by participants include:
 
-Anything that is unlawful, objectionable, offensive, abusive, threatening, defamatory, obscene, hateful, inflammatory, profane, racially, sexually or religiously offensive.  
+* The use of sexualized language or imagery and unwelcome sexual attention or advances
+* Trolling, insulting/derogatory comments, and personal or political attacks
+* Public or private harassment
+* Publishing others' private information, such as a physical or electronic address, without explicit permission
+* Other conduct which could reasonably be considered inappropriate in a professional setting
 
-# Consequences of Unacceptable Behavior
+## Our Responsibilities
 
-Unacceptable behavior from any community member, including those with decision-making authority, will not be tolerated.
-Anyone asked to stop unacceptable behavior is expected to comply immediately. If a community member engages in unacceptable behavior, the Code.gov team will take any action it deems appropriate, up to and including a temporary ban or permanent expulsion from the community without warning. This can include removal from email lists, blocked from social media accounts, listservs, events and repos.
+Project maintainers are responsible for clarifying the standards of acceptable behavior and are expected to take appropriate and fair corrective action in response to any instances of unacceptable behavior.
+
+Project maintainers have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned to this Code of Conduct, or to ban temporarily or permanently any contributor for other behaviors that they deem inappropriate, threatening, offensive, or harmful.
+
+## Scope
+
+This Code of Conduct applies within all project spaces, and it also applies when an individual is representing the project or its community in public spaces. Examples of representing a project or community include using an official project e-mail address, posting via an official social media account, or acting as an appointed representative at an online or offline event. Representation of a project may be further defined and clarified by project maintainers.
+
+## Enforcement
+
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at code@gsa.gov. All complaints will be reviewed and investigated and will result in a response that is deemed necessary and appropriate to the circumstances. The project team is obligated to maintain confidentiality with regard to the reporter of an incident. Further details of specific enforcement policies may be posted separately.
+
+Project maintainers who do not follow or enforce the Code of Conduct in good faith may face temporary or permanent repercussions as determined by other members of the project's leadership.
+
+## Attribution
+
+This Code of Conduct is adapted from the [Contributor Covenant][homepage], version 1.4, available at https://www.contributor-covenant.org/version/1/4/code-of-conduct.html
+
+[homepage]: https://www.contributor-covenant.org
+
+For answers to common questions about this code of conduct, see https://www.contributor-covenant.org/faq
