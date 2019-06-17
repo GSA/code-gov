@@ -2,7 +2,7 @@ ForumPA Keynote - 5/14/19
 
 Joseph Castle, Director of Code.gov, joseph.castle@gsa.gov
 
-Session: “A Collaborative Public Administration to Create Value”
+Session: A Collaborative Public Administration to Create Value
 
 Keynote title: U.S. Federal Source Code Policy and Code.gov
 
