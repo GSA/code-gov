@@ -106,7 +106,7 @@ A list of the labels (with colors) used on Code.gov repos can be found in [repo-
 
 ### Milestones
 
-We put issues into [milestones]() to better categorize them.
+We put issues into [milestones](https://help.github.com/en/articles/about-milestones) to better categorize them.
 
 ### Triaging Issues
 
