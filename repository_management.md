@@ -6,6 +6,7 @@ This document covers:
 
 - [Issues](#issues)
   - [Labels](#labels)
+  - - [Bulk add labels](#bulk-adding-of-labels)
   - [Milestones](#milestones)
   - [Triaging Issues](#triaging-issues)
 - [Pull Requests](#pull-requests)
