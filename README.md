@@ -1,35 +1,25 @@
 # code-gov
 
-Welcome! This repository is an information only project to act as a collection point for all Code.gov repositories.
+Welcome! This repository is an information only project to act as a collection point for all [Code.gov](https://code.gov) repositories.
 
 
-## What is Code.gov
+## What is Code.gov?
 
 [Code.gov](https://code.gov) is a website and program promoting good practices in code development, collaboration, and reuse across the U.S. Federal Government. [Code.gov](https://code.gov) will provide tools and guidance to help federal agencies implement the [Federal Source Code Policy](https://code.gov/about/overview/introduction). It will include an inventory of the federal government's custom code to promote reuse between federal agencies. Also, [Code.gov](https://code.gov) will provide tools to help the government and the public collaborate on open source projects.
 
 To learn more about the project, check out this [blog post](https://www.whitehouse.gov/blog/2016/08/08/peoples-code).
 
-All of [Code.gov's](https://code.gov) repositories are open source, we invite your contributions be it in the form of code, design, issues, or ideas.
+All [Code.gov](https://code.gov) repositories are open source, we invite your contributions be it in the form of code, design, issues, or ideas.
 
 ## Repositories
 
-As a product, [Code.gov](https://code.gov) is a collection of repositories that enable the aggregation of source code inventory files. All of our work is open source and we encourage you to take a look and, if you wish, contribute to our projects by submitting a pull request, a Github Issue, or commenting on existing issues and pull requests.
+As a product, [Code.gov](https://code.gov) is a collection of repositories that enable the aggregation of source code inventory files. All of our work is open source and we encourage you to take a look and, if you wish, contribute to our projects by submitting a pull request, a Github Issue, or commenting on existing issues and pull requests. If you are unsure as to where an issue should live, please use the [GSA/code-gov](https://github.com/GSA/code-gov) repo as a catch all.
 
 All of our repositories follow our [Code of Conduct](CODE_OF_CONDUCT.md) and [Contributing](CONTRIBUTING.md) guidelines.
 
-## Communications
+### Code.gov repositories
 
-As an open source project we love feedback. If you want to get a hold of us you can use one of the following ways:
-
-1. Twitter: [@CodeDotGov](https://twitter.com/CodeDotGov)
-2. Email: [code@gsa.gov](mailto://code@gsa.gov)
-3. LinkedIn: [code-gov](https://www.linkedin.com/company/code-gov/)
-
-## Contribute
-
-You can contribute to any of our open source projects by submitting a pull request, an issue, or giving general feedback.
-We handle all these via Github Issues in their respective project, but if you are unsure as to where an issue should live
-please use the [GSA/code-gov](https://github.com/GSA/code-gov) repo as a catch all.
+These repos are all used to maintain [Code.gov](https://code.gov) 
 
 | Project                                                                       | Description | Issues                                                                   | New Issue                                                                       |
 | ----------------------------------------------------------------------------- | ------ | ------------------------------------------------------------------------ | ------------------------------------------------------------------------------- |
@@ -50,14 +40,32 @@ please use the [GSA/code-gov](https://github.com/GSA/code-gov) repo as a catch a
 | [GSA/code-gov-fscp-react-component](https://github.com/GSA/code-gov-fscp-react-component)                   |Federal Source Code Policy component for code.gov, consumed by the front end| [View all issues](https://github.com/GSA/code-gov-fscp-react-component/issues)          | [Create a new issue](https://github.com/GSA/code-gov-fscp-react-component/issues/new) |
 | [GSA/code-gov-data](https://github.com/GSA/code-gov-data)                   |Data Files used by code.gov| [View all issues](https://github.com/GSA/code-gov-data/issues)          | [Create a new issue](https://github.com/GSA/code-gov-data/issues/new) |
 
-### Miscellaneous Repositories
+### Miscellaneous repositories
 
-These repos are marked as miscellaneous because they do not affect the development or deployment of our main repos.
+These repos are marked as miscellaneous because they do not affect the development or deployment of our main repos
 
-1. [GSA/code-gov-stats](https://github.com/GSA/code-gov-stats)
-2. [GSA/code-gov-stats-jupyter-notebook](https://github.com/GSA/code-gov-stats-jupyter-notebook)
+| Project                                                                       | Description | Issues                                                                   | New Issue                                                                       |
+| ----------------------------------------------------------------------------- | ------ | ------------------------------------------------------------------------ | ------------------------------------------------------------------------------- |
+| [GSA/code-gov-stats](https://github.com/GSA/code-gov-stats)                               | A simple app to extract stats about repositories using the Github API and Cloc | [View all issues](https://github.com/GSA/code-gov-stats/issues)                | [Create a new issue](https://github.com/GSA/code-gov-stats/issues/new)                |
+| [GSA/code-gov-stats-jupyter-notebook](https://github.com/GSA/code-gov-stats-jupyter-notebook)                       | Extract some stats for Code.gov using the Github GraphQL API. | [View all issues](https://github.com/GSA/code-gov-stats-jupyter-notebook/issues)            | [Create a new issue](https://github.com/GSA/code-gov-stats-jupyter-notebook/issues/new)            |
+| [GSA/code-gov-verify-agency-jsons](https://github.com/GSA/code-gov-verify-agency-jsons)                       | This a utility project, used in conjustion with code-gov-harvester, can help you find various statistics of Repositories imported into code.gov system. | [View all issues](https://github.com/GSA/code-gov-verify-agency-jsons/issues)            | [Create a new issue](https://github.com/GSA/code-gov-verify-agency-jsons/issues/new)            |
+| [GSA/code-gov-converter](https://github.com/GSA/code-gov-converter)                       | Converts publiccode.yml to code.json. | [View all issues](https://github.com/GSA/code-gov-converter/issues)            | [Create a new issue](https://github.com/GSA/code-gov-converter/issues/new)            |
+| [GSA/code-gov-repo-template](https://github.com/GSA/code-gov-repo-template)                       | A basic template to use for all code.gov repositories which includes our standard documents and contact info. Using this as a base ensures that all of our community standards are followed. | [View all issues](https://github.com/GSA/code-gov-repo-template/issues)            | [Create a new issue](https://github.com/GSA/code-gov-repo-template/issues/new)            |
+| [GSA/code-gov-github-metrics](https://github.com/GSA/code-gov-github-metrics)                       | This project compiles and calculates GitHub metrics across the different repos that make up code.gov so that the code.gov team can understand and track community contributions and other data points over time. | [View all issues](https://github.com/GSA/code-gov-github-metrics/issues)            | [Create a new issue](https://github.com/GSA/code-gov-github-metrics/issues/new)            |
+| [GSA/code-gov-open-source-toolkit](https://github.com/GSA/code-gov-open-source-toolkit)                       | This is a government-wide project facilitated by the Code.gov team to produce a playbook and toolkit pertaining to open sourcing software (OSS). | [View all issues](https://github.com/GSA/code-gov-open-source-toolkit/issues)            | [Create a new issue](https://github.com/GSA/code-gov-open-source-toolkit/issues/new)            |
 
-### Files you'll find in this repo
+### Deprecated repositories
+
+These repos were previously used by the code.gov team but have been deprecated and are no longer in use
+
+| Project                                                                       | Description | Reason for deprecation|
+| ----------------------------------------------------------------------------- | ------ | ------------------------------------------------------------------------------- |
+| [GSA/code-gov-web](https://github.com/GSA/code-gov-web)                               | The old version of the [Code.gov](https://code.gov) front end | The front end stack was changed from Angular to React. The new front end repo is [GSA/code-gov-front-end](https://github.com/GSA/code-gov-front-end). |
+| [GSA/code-gov-harvester-deprecated](https://github.com/GSA/code-gov-harvester-deprecated)                               | The old version of the harvester that harvests and processes code.json files from agencies. | The new harvester repo is [GSA/code-gov-harvester](https://github.com/GSA/code-gov-harvester) |
+| [GSA/code-gov-about-page](https://github.com/GSA/code-gov-about-page)                               | Component for the About page on [Code.gov](https://code.gov). | The about page component was integrated directly into [GSA/code-gov-front-end](https://github.com/GSA/code-gov-front-end) in order to simplify the site architecture |
+| [GSA/code-gov-fscp-react-component](https://github.com/GSA/code-gov-fscp-react-component)                               | Federal Source Code Policy (FSCP) plugin for code-gov-web, built with Markdown and React. | The FSCP is hosted at [https://sourcecode.cio.gov/](https://sourcecode.cio.gov/) and it was therefore duplicative for it to be on [Code.gov](https://code.gov) as well |
+
+## Files you'll find in this repo
 - [CODE_JSON_GENERATORS.md](CODE_JSON_GENERATORS.md): A comparison table of code.gov generator/scraper tools
 - [data_quality_scoring.md](data_quality_scoring.md): Info on how the code.gov data quality scores are determined
 - [FRONT_END_GUIDELINES.md](FRONT_END_GUIDELINES.md): General guidance to follow when developing on the front end
@@ -69,4 +77,11 @@ These repos are marked as miscellaneous because they do not affect the developme
 - [repo-labels.json](repo-labels.json): A json file that can be used to add the specific GitHub issue labels code.gov uses on their projects
 - [repository_management.md](repository_management.md): This is a living document explaining how we collaboratively manage the Code.gov platform repositories
 
-## Thanks!
+
+## Questions?
+If you have questions, please feel free to contact us:  
+* Open an issue
+* [LinkedIn](https://www.linkedin.com/company/code-gov/)  
+* [Twitter](https://twitter.com/@CodeDotGov)  
+* [Email](mailto:code@gsa.gov)
+* Join our `#opensource-public` channel on Slack: https://chat.18f.gov/
