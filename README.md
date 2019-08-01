@@ -78,7 +78,7 @@ These repos were previously used by the code.gov team but have been deprecated a
 
 ## Questions?
 If you have questions, please feel free to contact us:  
-* Open an issue
+* [Open an issue](https://github.com/GSA/code-gov/issues/new)
 * [LinkedIn](https://www.linkedin.com/company/code-gov/)  
 * [Twitter](https://twitter.com/@CodeDotGov)  
 * [Email](mailto:code@gsa.gov)
