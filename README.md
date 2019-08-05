@@ -52,16 +52,22 @@ These repos are marked as miscellaneous because they do not affect the developme
 | [GSA/code-gov-github-metrics](https://github.com/GSA/code-gov-github-metrics)                       | This project compiles and calculates GitHub metrics across the different repos that make up code.gov so that the code.gov team can understand and track community contributions and other data points over time. | [View all issues](https://github.com/GSA/code-gov-github-metrics/issues)            | [Create a new issue](https://github.com/GSA/code-gov-github-metrics/issues/new)            |
 | [GSA/code-gov-open-source-toolkit](https://github.com/GSA/code-gov-open-source-toolkit)                       | This is a government-wide project facilitated by the Code.gov team to produce a playbook and toolkit pertaining to open sourcing software (OSS). | [View all issues](https://github.com/GSA/code-gov-open-source-toolkit/issues)            | [Create a new issue](https://github.com/GSA/code-gov-open-source-toolkit/issues/new/choose)            |
 
-### Deprecated repositories
+### Deprecated/inactive repositories
 
-These repos were previously used by the code.gov team but have been deprecated and are no longer in use
+These repos were previously used by the code.gov team but have been deprecated and/or are no longer in use
 
 | Project                                                                       | Description | Reason for deprecation|
 | ----------------------------------------------------------------------------- | ------ | ------------------------------------------------------------------------------- |
 | [GSA/code-gov-web](https://github.com/GSA/code-gov-web)                               | The old version of the [Code.gov](https://code.gov) front end | The front end stack was changed from Angular to React. The new front end repo is [GSA/code-gov-front-end](https://github.com/GSA/code-gov-front-end). |
-| [GSA/code-gov-harvester-deprecated](https://github.com/GSA/code-gov-harvester-deprecated)                               | The old version of the harvester that harvests and processes code.json files from agencies. | The new harvester repo is [GSA/code-gov-harvester](https://github.com/GSA/code-gov-harvester) |
-| [GSA/code-gov-about-page](https://github.com/GSA/code-gov-about-page)                               | Component for the About page on [Code.gov](https://code.gov). | The about page component was integrated directly into [GSA/code-gov-front-end](https://github.com/GSA/code-gov-front-end) in order to simplify the site architecture |
-| [GSA/code-gov-fscp-react-component](https://github.com/GSA/code-gov-fscp-react-component)                               | Federal Source Code Policy (FSCP) plugin for code-gov-front-end, built with Markdown and React. | The FSCP is hosted at [https://sourcecode.cio.gov/](https://sourcecode.cio.gov/) and it was therefore duplicative for it to be on [Code.gov](https://code.gov) as well |
+| [GSA/code-gov-harvester-deprecated](https://github.com/GSA/code-gov-harvester-deprecated)                               | The old version of the harvester that harvests and processes code.json files from agencies. | The new harvester repo is [GSA/code-gov-harvester](https://github.com/GSA/code-gov-harvester). |
+| [GSA/code-gov-about-page](https://github.com/GSA/code-gov-about-page)                               | Component for the About page on [Code.gov](https://code.gov). | The about page component was integrated directly into [GSA/code-gov-front-end](https://github.com/GSA/code-gov-front-end) in order to simplify the site architecture. |
+| [GSA/code-gov-fscp-react-component](https://github.com/GSA/code-gov-fscp-react-component)                               | Federal Source Code Policy (FSCP) plugin for code-gov-front-end, built with Markdown and React. | The FSCP is hosted at [https://sourcecode.cio.gov/](https://sourcecode.cio.gov/) and it was therefore duplicative for it to be on [Code.gov](https://code.gov) as well. |
+| [GSA/code-gov-admin-backend](https://github.com/GSA/code-gov-admin-backend)                               | This repository contains the source code for backend of the Code.gov Admin Tool. |  The Admin Tool is no longer in use. |
+| [GSA/code-gov-admintool](https://github.com/GSA/code-gov-admintool)                               | This repository contains the source code for the frontend of the Code.gov Admin Tool. |  The Admin Tool is no longer in use. |
+| [GSA/code-gov-repos-parser](https://github.com/GSA/code-gov-repos-parser)                               | Parse out information from code.gov repos. |  The project is no longer in use. |
+| [GSA/code-gov-coding-languages](https://github.com/GSA/code-gov-coding-languages)                               | Standard List of Coding Languages used by Code.gov. |  The project is no longer in use. |
+| [GSA/code-gov-data-quality-poc](https://github.com/GSA/code-gov-data-quality-poc)                               | Code.gov data quality scoring proof of concept. |  The project was a proof of concept and no longer in use. |
+| [GSA/code-gov-gitsecretpatterns](https://github.com/GSA/code-gov-gitsecretpatterns)                               | Repository for Code.gov git-secrets patterns and bootstrap script. |  The project is no longer in use. |
 
 ## Files you'll find in this repo
 - [CODE_JSON_GENERATORS.md](CODE_JSON_GENERATORS.md): A comparison table of code.gov generator/scraper tools
