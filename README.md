@@ -66,7 +66,7 @@ These repos were previously used by the code.gov team but have been deprecated a
 | [GSA/code-gov-admintool](https://github.com/GSA/code-gov-admintool)                               | This repository contains the source code for the frontend of the Code.gov Admin Tool. |  The Admin Tool is no longer in use. |
 | [GSA/code-gov-repos-parser](https://github.com/GSA/code-gov-repos-parser)                               | Parse out information from code.gov repos. |  The project is no longer in use. |
 | [GSA/code-gov-coding-languages](https://github.com/GSA/code-gov-coding-languages)                               | Standard List of Coding Languages used by Code.gov. |  The project is no longer in use. |
-| [GSA/code-gov-data-quality-poc](https://github.com/GSA/code-gov-data-quality-poc)                               | Code.gov data quality scoring proof of concept. |  The project was a proof of concept and no longer in use. |
+| [GSA/code-gov-data-quality-poc](https://github.com/GSA/code-gov-data-quality-poc)                               | Code.gov data quality scoring proof of concept. |  The project was a proof of concept and is no longer in use. |
 | [GSA/code-gov-gitsecretpatterns](https://github.com/GSA/code-gov-gitsecretpatterns)                               | Repository for Code.gov git-secrets patterns and bootstrap script. |  The project is no longer in use. |
 
 ## Files you'll find in this repo
