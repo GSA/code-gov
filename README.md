@@ -84,6 +84,7 @@ These repos are all used to maintain [Code.gov](https://code.gov)
 | [GSA/code-gov-data-quality-poc](https://github.com/GSA/code-gov-data-quality-poc)         | Code.gov data quality scoring proof of concept.                                                 | The project was a proof of concept and is no longer in use.                                                                                                             |
 | [GSA/code-gov-gitsecretpatterns](https://github.com/GSA/code-gov-gitsecretpatterns)       | Repository for Code.gov git-secrets patterns and bootstrap script.                              | The project is no longer in use.                                                                                                                                        |
 | [GSA/code-gov-stats](https://github.com/GSA/code-gov-stats)                               | A simple app to extract stats about repositories using the Github API and Cloc                  | The project is no longer in use.                                                                                                                                        |
+</details>  
 
 ## Files you'll find in this repo
 
