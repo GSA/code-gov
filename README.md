@@ -98,6 +98,7 @@ These repos are all used to maintain [Code.gov](https://code.gov)
 - [procedures.md](./docs/procedures.md): Administrative procedures for the code.gov team
 - [repo-labels.json](./docs/repo-labels.json): A json file that can be used to add the specific GitHub issue labels code.gov uses on their projects
 - [repository_management.md](./docs/repository_management.md): This is a living document explaining how we collaboratively manage the Code.gov platform repositories
+- [CoPMeetingMins](./docs/CoPMeetingMins): This is a folder containing the notes from our monthly Community of Practice meetings
 
 ## Questions?
 
