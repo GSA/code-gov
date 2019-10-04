@@ -88,16 +88,17 @@ These repos are all used to maintain [Code.gov](https://code.gov)
 
 ## Files you'll find in this repo
 
-- [CODE_JSON_GENERATORS.md](CODE_JSON_GENERATORS.md): A comparison table of code.gov generator/scraper tools
-- [data_quality_scoring.md](data_quality_scoring.md): Info on how the code.gov data quality scores are determined
-- [FRONT_END_GUIDELINES.md](FRONT_END_GUIDELINES.md): General guidance to follow when developing on the front end
-- [HelpWanted.md](HelpWanted.md): Detailed info on our Open Tasks (formerly Help Wanted) and the labels projects need to use in order to display these on code.gov
-- [Infrastructure.md](Infrastructure.md): This files describes the infrastructure, server space and memory, required to run code.gov. It breaks down the server requirements by front-end and different back-end processes
-- [LABOR_HOUR_CALC.md](LABOR_HOUR_CALC.md): Guidance on how agencies can calculate labor hours on open source projects
-- [METADATA_EXAMPLES.md](METADATA_EXAMPLES.md): A showcase of good examples of metadata in current agency code.json files
-- [procedures.md](procedures.md): Administrative procedures for the code.gov team
-- [repo-labels.json](repo-labels.json): A json file that can be used to add the specific GitHub issue labels code.gov uses on their projects
-- [repository_management.md](repository_management.md): This is a living document explaining how we collaboratively manage the Code.gov platform repositories
+- [code_json_generators.md](./docs/code_json_generators.md): A comparison table of code.gov generator/scraper tools
+- [data_quality_scoring.md](./docs/data_quality_scoring.md): Info on how the code.gov data quality scores are determined
+- [front_end_guidelines.md](./docs/front_end_guidelines.md): General guidance to follow when developing on the front end
+- [help_wanted.md](./docs/help_wanted.md): Detailed info on our Open Tasks (formerly Help Wanted) and the labels projects need to use in order to display these on code.gov
+- [infrastructure.md](./docs/infrastructure.md): This files describes the infrastructure, server space and memory, required to run code.gov. It breaks down the server requirements by front-end and different back-end processes
+- [labor_hour_calc.md](./docs/labor_hour_calc.md): Guidance on how agencies can calculate labor hours on open source projects
+- [metadata_examples.md](./docs/metadata_examples.md): A showcase of good examples of metadata in current agency code.json files
+- [procedures.md](./docs/procedures.md): Administrative procedures for the code.gov team
+- [repo-labels.json](./docs/repo-labels.json): A json file that can be used to add the specific GitHub issue labels code.gov uses on their projects
+- [repository_management.md](./docs/repository_management.md): This is a living document explaining how we collaboratively manage the Code.gov platform repositories
+- [CoPMeetingMins](./docs/CoPMeetingMins): This is a folder containing the notes from our monthly Community of Practice meetings
 
 ## Questions?
 
