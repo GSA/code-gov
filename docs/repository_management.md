@@ -14,6 +14,7 @@ This document covers:
   - [Design Review](#design-review)
   - [Merging Pull Requests](#merging-pull-requests)
   - [Closing Pull Requests](#closing-pull-requests)
+ - [Deprecating a Repository](#deprecating-a-repository)
 
 ## Issues
 
@@ -147,6 +148,20 @@ Along with this process, there are a few important points to mention:
 - To make it far easier to merge your code, each pull request should only contain one conceptual change. Keeping contributions atomic keeps the pull request discussion focused on one topic and makes it possible to approve changes on a case-by-case basis.
 - Separate pull requests can address different items or todos from their linked issue, there’s no need for a single pull request to cover a single issue if the issue is non-trivial.
 
+#### Review guidelines
+* Complete requested code reviews within 1 business day.
+* If a convo is open-ended or the discussion requires a lot of back-and-forths, then take it to email or Slack for resolution.
+* If the change is one that can be reviewed locally, pull it down to your machine for testing.
+* If the submitter is a core engineering team member, they are responsible for merging their pull request after it has been reviewed/approved by another team member.
+
+#### Review checklist
+* Does the contribution pass the Submission Guidelines?
+* Are functions as simple as possible? Ensure the functions are modular. Each function should do exactly one thing. This ensures a function is easy to test, understand, and review.
+* Does the code reduce any of our baseline measures in accessibility, performance, or SEO?
+* Do any tests need added?
+
+
+
 ### Code Review
 
 Every pull request goes through a manual code review, in addition to automated tests. The objectives for the code review are best thought of as:
@@ -200,3 +215,17 @@ If you’d like a template to follow:
 > I’m closing this pull request because ____. To clarify further, ____.
 >
 > For more details, please see ____ and ____.
+
+## Deprecating a repository
+
+When deprecating a repository, complete the following tasks:
+
+- [ ] Update the README to indicate that the repo has been deprecated
+- [ ] Post and pin a new issue indicating that the repo has been deprecated
+- [ ] Close all PRs and issues (and comment pointing people to the new repo if applicable)
+- [ ] Update the repo description to indicate that the repo has been deprecated
+- [ ] Remove any web hooks on Slack or other platforms
+- [ ] Add `deprecated` and `archived` tags to the repo
+- [ ] Update the repo list in the [`code-gov`](https://github.com/GSA/code-gov) repo README
+- [ ] Archive the repo in the GitHub Settings
+- [ ] [Deprecate the NPM package](https://docs.npmjs.com/deprecating-and-undeprecating-packages-or-package-versions) if applicable 
