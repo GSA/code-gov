@@ -229,3 +229,4 @@ When deprecating a repository, complete the following tasks:
 - [ ] Update the repo list in the [`code-gov`](https://github.com/GSA/code-gov) repo README
 - [ ] Archive the repo in the GitHub Settings
 - [ ] [Deprecate the NPM package](https://docs.npmjs.com/deprecating-and-undeprecating-packages-or-package-versions) if applicable 
+- [ ] In [Snyk](https://app.snyk.io/org/code.gov/projects), update the `Test frequency` status setting to `Test never`.
