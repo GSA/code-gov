@@ -17,7 +17,7 @@
 |Dept. of Interior |Lin Zhang |lin.zhang@ios.doi.gov |
 |Dept. of Treasury |Tony Lu, Rajeev Mishra, Eric Lao, Andrea Miller |tao.lu@treasury.gov, rajeev.mishra@treasury.gov, eric.luo@treasury.gov, andrea.miller@treasury.gov |
 |Dept. of Transportation |Dan Morgan |daniel.morgan@dot.gov |
-|Dept. of Veterans Affairs |Christina VanMetre, Nick Harrison, Theresa Gainsburg |Christina.Vanmetre@va.gov, Nicholas.Harrison@va.gov, Theresa.Gainsburg@va.gov |
+|Dept. of Veterans Affairs |Christina VanMetre, Theresa Gainsburg |Christina.Vanmetre@va.gov, Theresa.Gainsburg@va.gov |
 |Environmental Protection Agency |Lico Galindo |Galindo.Lico@epa.gov |
 |General Services Administration |Kris Rowley |kris.rowley@gsa.gov |
 |National Aeronautics and Space Administration |Taylor Yates |evan.t.yates@nasa.gov |
