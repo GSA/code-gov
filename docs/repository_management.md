@@ -17,6 +17,23 @@ This document covers:
  - [Deprecating a Repository](#deprecating-a-repository)
 
 ## Issues
+We use GitHub issues to track user issues and team tasks. Whenever possible,
+we follow this outline:
+
+1. Goal: a quick blurb explaining the bug or what the issue should accomplish.
+   Optional: What is the user need?
+2. Completion criteria: how we’ll know that this issue has been completed
+3. Tasks to completion:
+    - [ ] Use
+    - [ ] Markdown
+    - [ ] Checklists
+4. Dependencies (optional): What other issues out there need to be completed
+   before you can do this one? Include links to tickets with the dependency.
+5. For development issues, include unknown tasks or dependencies that need
+   investigation.
+
+In addition, everyone is encouraged to open issues for figuring out functional
+testing or exploring new ideas that require some additional research.
 
 A healthy issue list is one where issues are relevant and actionable. *Relevant* in the sense that they relate to the project’s current priorities. *Actionable* in the sense that it’s clear what action(s) need to be taken to resolve the issue.
 
@@ -29,7 +46,8 @@ Any issues that are irrelevant or not actionable should be closed, because they 
 GitHub allows you to assign `labels` to Issues and Pull Requests. For Code.gov repos, we use a standard set of `labels` on all our repos. 
 
 First, we use the label framework needed to tags issues in order for them to show on the Code.gov [Open Tasks page](https://code.gov/open-tasks?page=1&size=10). These labels are outlined in the [helpwanted.md file](./helpwanted.md). 
-
+<details>
+  <summary>Code.gov Issue labels</summary>
 Our implementation of this includes:
 
 * `[issue-type] bug` - a general bug found in the functionality of your project
@@ -101,6 +119,7 @@ In addition to the labels above, we include a few others which are related to sp
 
 * `code.gov` - Used by our API to show on our Open Tasks page 
 * `help wanted` - Used by GitHub to indicate how many issues are requesting help from contributors
+</details>
 
 #### Bulk adding of labels
 A list of the labels (with colors) used on Code.gov repos can be found in [repo-labels.json](./repo-labels.json). It can be used in conjunction with a tool like [git-labelmaker](https://github.com/himynameisdave/git-labelmaker#remove-labels) or [git-label-cli](https://github.com/jasonbellamy/git-label-cli) to do a bulk addition of these labels when setting up a new repo.
@@ -111,14 +130,12 @@ We put issues into [milestones](https://help.github.com/en/articles/about-milest
 
 ### Triaging Issues
 
-To keep the issue list healthy, it needs to be triaged regularly. *Triage* is the practice of reviewing existing issues to make sure they’re relevant, actionable, and have all the information they need.
-
-Anyone can help triage, although you’ll need contributor permission on the Gutenberg repository to modify an issue’s labels or edit its title.
+To keep the issue list healthy, it needs to be triaged regularly. Consider adding this to your sprint planning or closeout routine. *Triage* is the practice of reviewing existing issues to make sure they’re relevant, actionable, and have all the information they need.
 
 Here are a couple places you can start:
 
 - All issues without an assigned label
-- The least recently updated issues
+- The least recently updated issues (Sort -> Least recently updated)
 
 When reviewing issues, here are some steps you can perform:
 
@@ -142,8 +159,19 @@ Code.gov follows a feature branch pull request workflow for all code and documen
 3. Commit your changes when you’re happy with them, and push the branch.
 4. Open your pull request.
 
+## Commit messages
+- Good commit messages start with a verb, like "add" or "change" or
+  "remove."
+- Be sure to talk about the nature of the change you're making. Explain why
+  the change is needed, rather than simply describing the bug or task it
+  addresses.
+- If your commit resolves an issue, reference it in the commit messages. For
+  example "fixes #555." Read more GitHub guidance on
+  [closing issues via commit messages](https://help.github.com/articles/closing-issues-via-commit-messages/).
+
 Along with this process, there are a few important points to mention:
 
+- Create pull requests for all commits, even typo fixes.
 - Non-trivial pull requests should be preceded by a related issue that defines the problem to solve and allows for discussion of the most appropriate solution before actually writing code.
 - To make it far easier to merge your code, each pull request should only contain one conceptual change. Keeping contributions atomic keeps the pull request discussion focused on one topic and makes it possible to approve changes on a case-by-case basis.
 - Separate pull requests can address different items or todos from their linked issue, there’s no need for a single pull request to cover a single issue if the issue is non-trivial.
