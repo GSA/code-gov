@@ -10,7 +10,7 @@ The process to calculate labor hours with CLOC and COCOMO II follows.
 
 2. Go to [CLOC](https://github.com/AlDanial/cloc) and download the desired software package or use the CLOC [website](https://codetabs.com/count-loc/count-loc-online.html) and point to a repository.
 
-3. After capturing total lines of code, go to [COCOMO II](http://csse.usc.edu/tools/cocomoii.php) and fill in the lines of code, estimated labor rate, and adjust the appropriate software scale and cost drivers. If these are not explicitly known, then nominal is a good option (i.e., see official [documentation](http://csse.usc.edu/csse/research/COCOMOII/cocomo2000.0/CII_modelman2000.0.pdf) on using the model, and [BLS](https://www.bls.gov/oes/current/oes_nat.htm) for estimated labor rate if one is not known).
+3. After capturing total lines of code, go to [COCOMO II](http://softwarecost.org/tools/COCOMO/) and fill in the lines of code, estimated labor rate, and adjust the appropriate software scale and cost drivers. If these are not explicitly known, then nominal is a good option (i.e., see official [documentation](http://www.cocomo2.com/about-cocomoii/) on using the model, and [BLS](https://www.bls.gov/oes/current/oes_nat.htm) for estimated labor rate if one is not known).
 
 4. Capture the output of labor hours for the project and report them through your agency’s code.json file.
 
