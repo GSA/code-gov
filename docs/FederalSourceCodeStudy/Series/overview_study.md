@@ -11,9 +11,9 @@ Computer software is essential for the daily operations of industry and governme
 
 The federal government spends approximately six billion dollars on software each year (Johnson & Sears, 2017), representing 7% of the information technology (IT) budget of the Chief Financial Officers (CFO) Act agencies (“Government-wide Information Technology Agency Summary,” 2017).
 
-This purchasing of software frequently results in duplicative and wasteful spending annually because the software is not publicly shared. Agencies purchase closed source software (CSS) and services to customize as needed, leading to software purchasing and support that is costly, allows for little to no reuse, results in duplication of effort and spending across agencies, and overall yields poor quality (Mann, 2002; Rosenberg, 2007).
+This purchasing of software frequently results in duplicative and wasteful spending annually because the software is not publicly shared. Agencies purchase software and customize as needed, often leading to software purchasing and support that is costly, allows for little to no reuse, results in duplication of effort and spending across agencies, and overall yields poor quality (Mann, 2002; Rosenberg, 2007).
 
-In August 2016, the White House issued the Federal Source Code Policy: Achieving Efficiency, Transparency, and Innovation through Reusable and Open Source Software (FSCP). 
+In 2016, as a response to inefficiencies with software purchasing and reuse, the White House issued the Federal Source Code Policy: Achieving Efficiency, Transparency, and Innovation through Reusable and Open Source Software (FSCP). 
 
 The FSCP directed Chief Financial Officer's (CFO) Act agencies to do three things: 
 1. Create an agency source code policy; 
