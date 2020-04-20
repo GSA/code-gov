@@ -1,26 +1,32 @@
 # Overview of the Study
 By Joseph Castle, PhD, Code.gov*
 
+*This file elaborates on portions of the [Federal Source Code Study (FSCS)](#), a three-year study conducted from 2017 to 2020 by the Code.gov team to better understand agency implementation of the Federal Source Code Policy (FSCP). The study considered OSS publication as one indicator of FSCP implementation. The study provided examined why some agencies publish OSS and others do not.*
+
+<hr>
+
 Computer software is essential for the daily operations of industry and government. “More and more major businesses and industries are being run on software – from movies to agriculture to national defense” (Andreessen, 2011, p. 1).
 
-## Impetus for the Federal Source Code Policy (FSCP)
+## Federal Software Difficulties
 
 The federal government spends approximately six billion dollars on software each year (Johnson & Sears, 2017), representing 7% of the information technology (IT) budget of the Chief Financial Officers (CFO) Act agencies (“Government-wide Information Technology Agency Summary,” 2017).
 
 This purchasing of software frequently results in duplicative and wasteful spending annually because the software is not publicly shared. Agencies purchase closed source software (CSS) and services to customize as needed, leading to software purchasing and support that is costly, allows for little to no reuse, results in duplication of effort and spending across agencies, and overall yields poor quality (Mann, 2002; Rosenberg, 2007).
 
-## The People's Code
+In August 2016, the White House issued the Federal Source Code Policy: Achieving Efficiency, Transparency, and Innovation through Reusable and Open Source Software (FSCP). 
 
-Publicly funded software products are not open to the public even though the software is purchased with taxpayer dollars. The federal government has the responsibility to account for public spending, including IT spending. The publication of OSS is one way that the public can know about government spending, and OSS additionally benefits the public by providing access to code, thus, making it the “People’s Code.”
+The FSCP directed Chief Financial Officer's (CFO) Act agencies to do three things: 
+1. Create an agency source code policy; 
+2. Update acquisition language to capture new custom code; and, 
+3. Create a source code inventory and publish at least 20% as open source software (OSS). 
+
+The FSCP also established the Code.gov program and technical platform of a website and application programming interface (API).
+
+## Purpose of the Study
 
 
 
-In August 2016, the White House issued the Federal Source Code Policy: Achieving Efficiency, Transparency, and Innovation through Reusable and Open Source Software (FSCP).
 
-
-
-
-OSS is software that can be shared within a community of developers through accompanying licenses hosted in online code sharing platforms. The federal government has the responsibility to account for public spending, including spending for IT. The publication of OSS is one way the public can know about government spending. OSS additionally benefits the public by providing access to code, thus, making it the “People’s Code.”
 
 This study examines whether and how organizational factors – cultural beliefs, public engagement, structural dimensions, and organizational location – affect agency policy implementation.
 
