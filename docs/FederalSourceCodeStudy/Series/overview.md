@@ -1,5 +1,4 @@
 # Federal Source Code Study (FSCS) Series
-By Joseph Castle, PhD, Code.gov*
 
 ## Overview
 This series highlights portions of the [FSCS](https://github.com/GSA/code-gov/blob/master/docs/FederalSourceCodeStudy/FederalSourceCodeStudy.pdf) by repurposing content from the full study. Portions of these files may also be cross listed as future [Code.gov Medium](https://medium.com/@CodeDotGov) blog posts.
@@ -17,6 +16,3 @@ This series highlights portions of the [FSCS](https://github.com/GSA/code-gov/bl
 - [Findings](#)
 - [Implications](#)
 - [Practical application](#)
-
-### References
-*[Biography](https://digital.gov/authors/joseph-castle/)
