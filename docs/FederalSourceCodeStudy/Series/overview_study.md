@@ -1,5 +1,5 @@
 # Overview of the Study
-By Joseph Castle, PhD, Code.gov [^fn1]
+By Joseph Castle, PhD, Code.gov <sup>[1](#fn1)</sup>
 
 *This write-up elaborates portions of the [Federal Source Code Study (FSCS)](https://sourcecode.cio.gov/), a three-year study conducted from 2017 to 2020 by the Code.gov team to better understand agency implementation of the Federal Source Code Policy (FSCP). The study considered open source software (OSS) publication as one indicator of FSCP implementation and examined why some agencies publish OSS and others do not.*
 
@@ -24,7 +24,7 @@ The FSCP also established the Code.gov program and technical platform of a [webs
 
 ## Organizational Factors Affecting OSS Publication
 
-The [GitHub API](https://developer.github.com/v3/) provided metadata about agencies publishing OSS with mixed results. The Code.gov team wondered why some agencies could publish OSS and other agencies could not. Conceivably, every agency has the following characteristics to support OSS publication.
+The [GitHub API](https://developer.github.com/v3/) provided metadata about agencies publishing OSS with mixed results before and after publication of the FSCP. The Code.gov team wondered why some agencies could publish OSS and other agencies could not. Conceivably, every agency has the following characteristics to support OSS publication.
 
 - An inherent mandate to serve the public by being transparent and release public funded products (as appropriate with consideration to security, privacy, etc.).
 - FSCP enforcing compliance to publish OSS.
@@ -47,13 +47,18 @@ The qualitative study included a metadata analysis, interviews, and artifact col
 
 U.S. federal government agencies have been consuming OSS for the past 70 years but are new to publishing their own source code. Agency OSS publication is a unique policy output and a tangible indicator of effective policy implementation.
 
-This study is significant for public administrators as it provides a glimpse of organizational factors agencies need to consider to implement policy and technology.
+This study is significant for public administrators as it provides a glimpse of organizational factors agencies need to consider when implementing policy and technology.
 
 ## Coming Up
 
-The next part of this series dives into the history of OSS including how the U.S. government played a large role in the early days of computer dating to WWII. It discusses how OSS began as a normal part of computing, to be shunned by for-profit companies, and then to make a more recent comeback.
+The next part of this series dives into the history of OSS including how the U.S. government played a large role in the early days of computing dating to WWII. It discusses how OSS began as a normal part of computing, to be shunned by for-profit companies, and then to make a more recent comeback.
 
-[^fn1]: https://digital.gov/authors/joseph-castle/
+## References
+
+<a name='fn1'>1</a>: https://digital.gov/authors/joseph-castle/
+
+<a name="myfootnote1">1</a>: Footnote content goes here
+
 [^fn2]: Andreessen, M. (2011). Why sofware is eating the world. pp. 1–7. Retrieved Jan. 13, 2020, from https://www.wsj.com/articles/SB10001424053111903480904576512250915629460.
 [^fn3]: Johnson, N. B., & Sears, L. (2017). 7 Open Sourced Myths Debunked. Retrieved from https://go.govloop.com/open-source-myths.
 [^fn4]: Government-wide Information Technology Agency Summary. (2017). Retrieved Dec. 31, 2019, from ITDashboard.gov website: https://www.itdashboard.gov/drupal/summary/000.
