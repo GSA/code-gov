@@ -4,7 +4,7 @@ By Joseph Castle, PhD, Code.gov <sup>[1](#fn1)</sup>
 *This write-up elaborates on portions of the [Federal Source Code Study (FSCS)](https://github.com/GSA/code-gov/blob/master/docs/FederalSourceCodeStudy/FederalSourceCodeStudy.pdf), a three-year study conducted from 2017 to 2020 by the Code.gov team to better understand agency implementation of the Federal Source Code Policy (FSCP). The study considered open source software (OSS) publication as one indicator of FSCP implementation and examined why some agencies publish OSS and others do not.*
 
 Series ToC<sup>*</sup>:
-- [History of OSS](#history_of_OSS.md)
+- [History of OSS](history_of_OSS.md)
 - [Federal Government's Intersection with OSS](#)
 - [Cultural Beliefs](#)
 - [Public Engagement](#)
@@ -23,7 +23,7 @@ Series ToC<sup>*</sup>:
 
 The federal government spends approximately six billion dollars on SW each year <sup>[3](#fn3)</sup>, representing 7% of the [information technology (IT) budget](https://itdashboard.gov/) of the [Chief Financial Officers (CFO) Act agencies](https://en.wikipedia.org/wiki/Chief_Financial_Officers_Act). <sup>[4](#fn4)</sup>
 
-This purchasing of SW frequently results in duplicative and wasteful spending annually because the SW is not publicly shared. Agencies purchase SW and customize as needed, often leading to SW purchasing and support that is costly, allows for little to no reuse, results in duplication of effort and spending across agencies, and overall yields poor quality. <sup>[5](#fn5), </sup><sup>[6](#fn6)</sup>
+This purchasing of SW frequently results in duplicative and wasteful spending annually because the SW is not publicly shared. Agencies purchase SW and customize as needed, often leading to SW purchasing and support that is costly, allows for little to no reuse, results in duplication of effort and spending across agencies, and overall yields poor quality. <sup>[5](#fn5) </sup><sup>[6](#fn6)</sup>
 
 In 2016, as a response to inefficiencies with software purchasing and reuse, the White House issued the [Federal Source Code Policy: Achieving Efficiency, Transparency, and Innovation through Reusable and Open Source Software](https://sourcecode.cio.gov/) or the FSCP. 
 
