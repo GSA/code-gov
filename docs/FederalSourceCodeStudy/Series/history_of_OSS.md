@@ -23,7 +23,6 @@ Series ToC<sup>*</sup>:
 The history of OSS is intertwined with the broader history of hardware (HW) and software development (SW). <sup>[2](#fn2)</sup> <sup>[3](#fn3)</sup> <sup>[4](#fn4)</sup> <sup>[5](#fn5)</sup>
 
 - *1940s & 1950s* - The modern computing era of the 1940s and 1950s consisted of large computational machines, funded by the U.S. government and hosted at academic institutions. Computers at this time were used to calculate artillery trajectory tables in support of World War II. Computer programming consisted of flipping switches to change electrical signals or using paper punch cards for creating and executing lengthier calculations. Some of the earliest elements of OSS, community and code sharing, can be traced to Grace Hopper’s work at the Harvard Computational Laboratory with her efforts in building a compiler for the Common Business Oriented Language (COBOL). <sup>[6](#fn6)</sup>  
-<img src="img/grace-hopper.png" alt="Grace Hopper standing by mainframe" title="Grace Hopper" style="float: right; margin-right: 20px; height: 250px; width: 300px" />
 
 - *1960s & 1970s* - The mainframe and the microcomputer era of the 1960s and 1970s began with most hardware and software bundled to support mainframes. Two important events during this time led to OSS emerging as a distinct phenomenon. First, in academic institutions user’s work literally was left in the open, on the computer, resulting in the sharing of programming innovations freely for others to benefit from, build upon, and share again. Second was the development of the personal computer (PC) and allowed for computing to move from back-room data centers to workers in an office and hobbyists.
 
@@ -53,4 +52,3 @@ The next part of this series continues with describing the federal government's 
 <a name='fn6'>6</a>: https://mitpress.mit.edu/books/grace-hopper-and-invention-information-age  
 <a name='fn7'>7</a>: https://www.amazon.com/Innovators-Hackers-Geniuses-Created-Revolution/dp/1476708703  
 <a name='fn8'>8</a>: Ibid  
-9: [Grace Hopper photo](https://news.yale.edu/2017/02/10/grace-murray-hopper-1906-1992-legacy-innovation-and-service)
