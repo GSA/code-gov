@@ -13,13 +13,13 @@ Series outline<sup>*</sup>:
 - [Analysis of Organizational Factors & OSS Publishing](#)
 - [Implications & Recommendations for Public Administrators](#)
 
-<sup>*</sup>Sections continue to be updated and may not be immediately available.
+<sup>*</sup>Sections will be added as soon as they are created.
 
 ---
 
-> Computer software (SW) is essential for the daily operations of industry and government. “More and more major businesses and industries are being run on software – from movies to agriculture to national defense”. <sup>[2](#fn2)</sup>
-
 ## Towards a Federal Source Code Policy (FSCP)
+
+> Computer software (SW) is essential for the daily operations of industry and government. “More and more major businesses and industries are being run on software – from movies to agriculture to national defense”. <sup>[2](#fn2)</sup>
 
 The federal government spends approximately six billion dollars on SW each year <sup>[3](#fn3)</sup>, representing 7% of the [information technology (IT) budget](https://itdashboard.gov/) of the [Chief Financial Officers (CFO) Act agencies](https://en.wikipedia.org/wiki/Chief_Financial_Officers_Act). <sup>[4](#fn4)</sup>
 
@@ -36,14 +36,14 @@ The FSCP also established the Code.gov program and technical platform of a [webs
 
 ## Organizational Factors Affecting OSS Publication
 
-The [GitHub API](https://developer.github.com/v3/) provided metadata about agencies publishing OSS with mixed results before and after publication of the FSCP. The Code.gov team wondered why some agencies could publish OSS and other agencies could not. Conceivably, every agency has the following characteristics to support OSS publication.
+As an initial first step to understanding FSCP implementation and OSS publication, we used the [GitHub API](https://developer.github.com/v3/) to gather metadata pertaining to agency public coding activities. This metadata showed agencies were publishing OSS with mixed results before and after publication of the FSCP. The Code.gov team wondered why some agencies could publish OSS and other agencies could not. Conceivably, every agency has the following characteristics to support OSS publication.
 
 - An inherent mandate to serve the public by being transparent and release public funded products (as appropriate with consideration to security, privacy, etc.).
-- FSCP enforcing compliance to publish OSS.
+- Requirements dictated by the FSCP enforcing compliance to publish OSS.
 - An IT budget with a portion devoted to SW development.
 - IT specialists and contractors with technical skills who regularly work with SW.
 
-The mandate, capability and budget was consistent across agencies, the premise of the study centered on potential systemic organizational factors related to organizational cultural beliefs, public engagement, structural dimension, and organization location that may influence agency OSS publication.
+Arguably with similar agency capabilities for publishing OSS, not all were doing so. This led us to the premise of the study focusing on potential organizational factors related to organizational cultural beliefs, public engagement, structural dimension, and organization location influencing agency OSS publication.
 
 ## Study Description
 
@@ -57,13 +57,11 @@ The qualitative study included a metadata analysis, interviews, and artifact col
 
 ## Significance of the Study
 
-U.S. federal government agencies have been consuming OSS for the past 70 years but are new to publishing their own source code. Agency OSS publication is a unique policy output and a tangible indicator of effective policy implementation.
-
-This study is significant for public administrators as it provides a glimpse of organizational factors agencies need to consider when implementing policy and technology.
+This study is significant for developers, in and out of government, because it provides a concise history of OSS and the federal government's early role with computing and more recent role with OSS publication. Further, it is significant for public administrators because it provides a glimpse of organizational factors agencies need to consider when implementing policy and technology.
 
 ## Coming Up
 
-The next part of this series dives into the history of OSS including how the U.S. government played a large role in the early days of computing dating to WWII. It discusses how OSS began as a normal part of computing, to be shunned by for-profit companies, and then to make a more recent comeback in all sectors.
+The next part of this series dives into the history of OSS including how the U.S. government played a significant role in the early days of computing. It discusses how OSS began as a normal part of computing, to be shunned by for-profit companies, and then to make a more recent comeback in all sectors.
 
 ## References
 
