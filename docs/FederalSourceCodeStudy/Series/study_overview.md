@@ -58,7 +58,7 @@ The qualitative study included a metadata analysis, interviews, and artifact col
 
 ## Significance of the Study
 
-This study is significant for developers, in and out of government, because it provides a concise history of OSS. It includes the federal government's early role with computing and more recent role with OSS publication. Further, it is significant for public administrators because it provides a glimpse of organizational factors they need to consider when implementing policy and technology.
+This study is significant for developers, in and out of government, because it provides a concise history of OSS. It includes the federal government's early role with computing and more recent role with OSS publication. Further, it is significant for public administrators because it provides a glimpse of organizational factors they need to consider when implementing policy and technology. It also informs the Code.gov team of factors to consider for assisting agencies with implementing the FSCP.
 
 ## Coming Up
 
