@@ -3,15 +3,27 @@ By Joseph Castle, PhD, Code.gov <sup>[1](#fn1)</sup>
 
 *This write-up elaborates on portions of the [Federal Source Code Study (FSCS)](https://sourcecode.cio.gov/), a three-year study conducted from 2017 to 2020 by the Code.gov team to better understand agency implementation of the Federal Source Code Policy (FSCP). The study considered open source software (OSS) publication as one indicator of FSCP implementation and examined why some agencies publish OSS and others do not.*
 
+Series outline<sup>*</sup>:
+- [History of OSS](#)
+- [Federal Government's Intersection with OSS](#)
+- [Cultural Beliefs](#)
+- [Public Engagement](#)
+- [Structural Dimensions](#)
+- [Organizational Location](#)
+- [Analysis of Organizational Factors & OSS Publishing](#)
+- [Implications & Recommendations for Public Administrators](#)
+
+<sup>*</sup>Sections continue to be updated and may not be immediately available.
+
 ---
 
 > Computer software (SW) is essential for the daily operations of industry and government. “More and more major businesses and industries are being run on software – from movies to agriculture to national defense”. <sup>[2](#fn2)</sup>
 
 ## Towards a Federal Source Code Policy (FSCP)
 
-The federal government spends approximately six billion dollars on SW each year<sup>[3](#fn3)</sup>, representing 7% of the [information technology (IT) budget](https://itdashboard.gov/) of the [Chief Financial Officers (CFO) Act agencies](https://en.wikipedia.org/wiki/Chief_Financial_Officers_Act). <sup>[4](#fn4)</sup>
+The federal government spends approximately six billion dollars on SW each year <sup>[3](#fn3)</sup>, representing 7% of the [information technology (IT) budget](https://itdashboard.gov/) of the [Chief Financial Officers (CFO) Act agencies](https://en.wikipedia.org/wiki/Chief_Financial_Officers_Act). <sup>[4](#fn4)</sup>
 
-This purchasing of SW frequently results in duplicative and wasteful spending annually because the SW is not publicly shared. Agencies purchase SW and customize as needed, often leading to SW purchasing and support that is costly, allows for little to no reuse, results in duplication of effort and spending across agencies, and overall yields poor quality. <sup>[5](#fn5)</sup><sup>[6](#fn6)</sup>
+This purchasing of SW frequently results in duplicative and wasteful spending annually because the SW is not publicly shared. Agencies purchase SW and customize as needed, often leading to SW purchasing and support that is costly, allows for little to no reuse, results in duplication of effort and spending across agencies, and overall yields poor quality. <sup>[5](#fn5), </sup><sup>[6](#fn6)</sup>
 
 In 2016, as a response to inefficiencies with software purchasing and reuse, the White House issued the [Federal Source Code Policy: Achieving Efficiency, Transparency, and Innovation through Reusable and Open Source Software](https://sourcecode.cio.gov/) or the FSCP. 
 
@@ -51,13 +63,13 @@ This study is significant for public administrators as it provides a glimpse of 
 
 ## Coming Up
 
-The next part of this series dives into the history of OSS including how the U.S. government played a large role in the early days of computing dating to WWII. It discusses how OSS began as a normal part of computing, to be shunned by for-profit companies, and then to make a more recent comeback.
+The next part of this series dives into the history of OSS including how the U.S. government played a large role in the early days of computing dating to WWII. It discusses how OSS began as a normal part of computing, to be shunned by for-profit companies, and then to make a more recent comeback in all sectors.
 
 ## References
 
-<a name='fn1'>1</a>: https://digital.gov/authors/joseph-castle/
-<a name='fn2'>2</a>: Andreessen, M. (2011). Why sofware is eating the world. pp. 1–7. Retrieved Jan. 13, 2020, from https://www.wsj.com/articles/SB10001424053111903480904576512250915629460.
-<a name='fn3'>3</a>: Johnson, N. B., & Sears, L. (2017). 7 Open Sourced Myths Debunked. Retrieved from https://go.govloop.com/open-source-myths.
-<a name='fn4'>4</a>: Government-wide Information Technology Agency Summary. (2017). Retrieved Dec. 31, 2019, from ITDashboard.gov website: https://www.itdashboard.gov/drupal/summary/000.
-<a name='fn5'>5</a>: Mann, C. C. (2002). Why software is so bad. MIT Tech, 105(6).
-<a name='fn5'>6</a>: Rosenberg, S. (2007). Anything You can do - I can do meta. MIT Technology Review, 110(1).
+<a name='fn1'>1</a>: https://digital.gov/authors/joseph-castle/  
+<a name='fn2'>2</a>: https://www.wsj.com/articles/SB10001424053111903480904576512250915629460  
+<a name='fn3'>3</a>: https://go.govloop.com/open-source-myths  
+<a name='fn4'>4</a>: https://www.itdashboard.gov/drupal/summary/000  
+<a name='fn5'>5</a>: https://www.technologyreview.com/2002/07/01/40875/why-software-is-so-bad/  
+<a name='fn5'>6</a>: https://www.technologyreview.com/2007/01/01/227178/anything-you-can-do-i-can-do-meta/
