@@ -1,7 +1,7 @@
 # Study Overview
 By Joseph Castle, PhD, Code.gov <sup>[1](#fn1)</sup>
 
-*This write-up elaborates on portions of the [Federal Source Code Study (FSCS)](https://github.com/GSA/code-gov/blob/master/docs/FederalSourceCodeStudy/FederalSourceCodeStudy.pdf), a three-year study conducted from 2017 to 2020 by the Code.gov team to better understand agency implementation of the Federal Source Code Policy (FSCP). The study considered open source software (OSS) publication as one indicator of FSCP implementation and examined why some agencies publish OSS and others do not.*
+*This write-up summarizes portions of the [Federal Source Code Study (FSCS)](https://github.com/GSA/code-gov/blob/master/docs/FederalSourceCodeStudy/FederalSourceCodeStudy.pdf), a three-year study conducted from 2017 to 2020 by the Code.gov team to better understand agency implementation of the Federal Source Code Policy (FSCP). The study considered open source software (OSS) publication as one indicator of FSCP implementation and examined why some agencies publish OSS and others do not.*
 
 Series ToC<sup>*</sup>:
 - Study Overview
@@ -26,7 +26,7 @@ The federal government spends approximately six billion dollars on SW each year 
 
 Agencies purchase SW and customize as needed, often leading to SW purchasing and support that is costly, allows for little to no reuse, results in duplication of effort and spending across agencies, and overall yields poor quality. <sup>[5](#fn5) </sup><sup>[6](#fn6)</sup>
 
-In 2016, as a response to inefficiencies with software purchasing and reuse, the White House issued the [Federal Source Code Policy: Achieving Efficiency, Transparency, and Innovation through Reusable and Open Source Software](https://sourcecode.cio.gov/) or the FSCP. 
+In 2016, in response to software purchasing and reuse inefficiencies, the White House issued the [Federal Source Code Policy: Achieving Efficiency, Transparency, and Innovation through Reusable and Open Source Software](https://sourcecode.cio.gov/) or the FSCP. 
 
 The FSCP directed CFO Act agencies to do three things: 
 1. Create an agency source code policy; 
@@ -37,22 +37,22 @@ The FSCP also established the Code.gov program and technical platform including 
 
 ## Organizational Factors Affecting OSS Publication
 
-As an initial first step to understanding FSCP implementation and OSS publication, we used the [GitHub API](https://developer.github.com/v3/) to gather metadata pertaining to agency public coding activities. This metadata showed agencies were publishing OSS with mixed results before and after publication of the FSCP. The Code.gov team wondered why some agencies could publish OSS and other agencies could not. Conceivably, every agency has the following characteristics to support OSS publication.
+As an initial step to understanding FSCP implementation and OSS publication, we used the [GitHub API](https://developer.github.com/v3/) to gather metadata pertaining to agency public coding activities. This metadata showed agencies were publishing OSS with mixed results before and after publication of the FSCP. We wondered why some agencies could publish OSS and other agencies could not when every agency has the following characteristics to support OSS publication.
 
 - An inherent mandate to serve the public by being transparent and release public funded products (as appropriate with consideration to security, privacy, etc.).
 - Requirements dictated by the FSCP enforcing compliance to publish OSS.
 - An IT budget with a portion devoted to SW development.
 - IT specialists and contractors with technical skills who regularly work with SW.
 
-With similar agency capabilities for publishing OSS, arguably all agencies should have been publishing OSS. This led to the premise of this study focusing on potential organizational factors related to organizational cultural beliefs, public engagement, structural dimension, and organization location either hindering or aiding agency OSS publication.
+With similar agency capabilities for publishing OSS, arguably all agencies should have been publishing OSS, but they were not. This led us to believe there were  systemic organizational factors with code publication. Therefore, the premise of the study centered on broader organizational factors related to organizational cultural beliefs, public engagement, structural dimension, and organization location either hindering or aiding agency OSS publication.
 
 ## Study Description
 
 The qualitative study included a metadata analysis, interviews, and artifact collection (e.g., SOPs, organization charts). The sample contained the following attributes.
 
-- Representation included individuals from 20 of 24 CFO Act agencies.
-- 25 participants were from unique SW development units. There were multiple participants from some agencies, but no participant from the same SW development unit.
-- Unit function primarily included SW development and data science.
+- 25 participants were from SW development units in 20 of 24 CFO Act agencies. 
+- Some agencies had multiple participants, but no participant was from the same SW development unit.
+- Most units conducted SW development and data science activities.
 - Units often consumed more OSS than they published.
 - More units were located outside the agency Chief Information Officer (CIO) office.
 
