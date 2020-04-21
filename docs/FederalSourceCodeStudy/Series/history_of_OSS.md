@@ -5,6 +5,7 @@ By Joseph Castle, PhD, Code.gov <sup>[1](#fn1)</sup>
 
 Series ToC<sup>*</sup>:
 - [Study Overview](study_overview.md)
+- History of OSS
 - [Federal Government's Intersection with OSS](#)
 - [Cultural Beliefs](#)
 - [Public Engagement](#)
@@ -13,7 +14,7 @@ Series ToC<sup>*</sup>:
 - [Analysis of Organizational Factors & OSS Publishing](#)
 - [Implications & Recommendations for Public Administrators](#)
 
-<sup>*</sup>Sections will be added as soon as they are created.
+<sup>*</sup>Sections will be added as they are created.
 
 ---
 
@@ -34,6 +35,10 @@ Some of the earliest elements of OSS, community and code sharing, can be traced 
 ## OSS as a Movement
 
 ## OSS as a Process
+
+## Coming Up
+
+The next part of this series discusses the federal government's intersection with OSS.
 
 ## References
 
