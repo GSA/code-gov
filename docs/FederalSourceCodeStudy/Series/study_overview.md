@@ -1,7 +1,7 @@
-# Overview of the Study
+# Study Overview
 By Joseph Castle, PhD, Code.gov <sup>[1](#fn1)</sup>
 
-*This write-up elaborates on portions of the [Federal Source Code Study (FSCS)](https://sourcecode.cio.gov/), a three-year study conducted from 2017 to 2020 by the Code.gov team to better understand agency implementation of the Federal Source Code Policy (FSCP). The study considered open source software (OSS) publication as one indicator of FSCP implementation and examined why some agencies publish OSS and others do not.*
+*This write-up elaborates on portions of the [Federal Source Code Study (FSCS)](https://github.com/GSA/code-gov/blob/master/docs/FederalSourceCodeStudy/FederalSourceCodeStudy.pdf), a three-year study conducted from 2017 to 2020 by the Code.gov team to better understand agency implementation of the Federal Source Code Policy (FSCP). The study considered open source software (OSS) publication as one indicator of FSCP implementation and examined why some agencies publish OSS and others do not.*
 
 Series outline<sup>*</sup>:
 - [History of OSS](#)
@@ -57,7 +57,7 @@ The qualitative study included a metadata analysis, interviews, and artifact col
 
 ## Significance of the Study
 
-This study is significant for developers, in and out of government, because it provides a concise history of OSS and the federal government's early role with computing and more recent role with OSS publication. Further, it is significant for public administrators because it provides a glimpse of organizational factors agencies need to consider when implementing policy and technology.
+This study is significant for developers, in and out of government, because it provides a concise history of OSS and the federal government's early role with computing and more recent role with OSS publication. Further, it is significant for public administrators because it provides a glimpse of organizational factors they need to consider when implementing policy and technology.
 
 ## Coming Up
 
