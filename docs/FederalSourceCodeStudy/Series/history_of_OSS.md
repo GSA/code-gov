@@ -6,7 +6,7 @@ By Joseph Castle, PhD, Code.gov <sup>[1](#fn1)</sup>
 Series ToC<sup>*</sup>:
 - [Study Overview](study_overview.md)
 - History of OSS
-- [Federal Government's Intersection with OSS](#)
+- [Federal Government's Intersection with OSS](govt_intersection_OSS.md)
 - [Cultural Beliefs](#)
 - [Public Engagement](#)
 - [Structural Dimensions](#)

@@ -18,7 +18,7 @@ Series ToC<sup>*</sup>:
 
 ---
 
-This section chronologically begins where the previous section, history of OSS, ended.
+This section begins where the previous section, the history of OSS, ended.
 
 ## Consumers of Proprietary Software
 
@@ -28,19 +28,19 @@ Centralized IT offices became responsible for developing, modifying, managing, a
 
 ## Towards Using OSS
 
-In the 1990s, the federal government’s reliance on CSS began to change for many reasons. The Internet arrived to server rooms and front-office desktops allowing for real-time communication and file sharing. Server and web technologies became popular; two of the fastest growing Internet products, Linux and Apache, enabled server and application customization that accommodated myriad business needs. By the 2010s, workforce skills evolved to include more advanced computing ability that permitted others outside of IT to provide computing services (i.e., digital services) and products (e.g., websites, applications, data science).
+In the 1990s, the federal government’s reliance on CSS began to change for many reasons. The Internet arrived to server rooms and front-office desktops allowing for real-time communication and file sharing. Server and web technologies became popular; two of the fastest growing Internet products, Linux and Apache, enabled server and application customization that accommodated myriad business needs. By the 2010s, workforce skills evolved to include more advanced computing ability that permitted others outside of IT to provide computing services (i.e., digital services) and products (e.g., websites, applications).
 
 With the maturation and use of OSS as a product for consumption in government organizations, agency instructions and executive-level policy mandated that agencies consider OSS as a viable purchasing and implementation option. <sup>[3](#fn3)</sup> <sup>[4](#fn4)</sup> Because of this, the perception for OSS evolved, from skepticism about its security, reliability, and general use across the organization to belief in its efficacy as agencies used it to support critical operations. <sup>[5](#fn5)</sup>
 
 ## Digital Delivery
 
-By the mid-2010s, the landscape of government software consisted of a mixed environment of CSS and OSS. As the government brought in additional developers to deliver digital services and products, these developers moved to using OSS to avoid vendor lock-in and high licensing fees, improve the quality of software being built, and support the rush to newer technologies (e.g. mobile, Linux in the data center, cloud management with open tools). <sup>[6](#fn6)</sup> This trend occurred outside the U.S. as well with efforts by Canadian, British, Danish, Italian, and South Korean governments created digital service and technology transformation teams.
+By the mid-2010s, the landscape of government software consisted of a mixed environment of CSS and OSS. As the government brought in additional developers to deliver digital services and products, these developers moved to using OSS to avoid vendor lock-in and high licensing fees, improve the quality of software being built, and support the rush to newer technologies (e.g. mobile, Linux in the data center, cloud management with open tools). <sup>[6](#fn6)</sup> This trend occurred outside the U.S. as well with efforts by Canadian, British, Danish, Italian, and South Korean governments who created digital service and technology transformation teams.
 
 ## Default to Open
 
-By the late 2010s, mandates encouraged some federal government software development units to operate in the open. Units in the U.S. General Services Administration’s (GSA) 18F office and the U.S. Department of Energy Lawrence Livermore National Laboratory (LLNL) were just two of many that “default to open.” This meant that all source code was published publicly in an online code sharing platform with any code not available for public release requiring appropriate justification.
-
 > According to [18F’s open source policy](https://github.com/18F/open-source-policy), “creating in-house digital services and solutions requires flexibility in how we code, with a focus on lowering costs for the American people, while improving their interactions with the U.S. government.”
+
+By the late 2010s, mandates encouraged some federal government software development units to operate in the open. Units in the U.S. General Services Administration’s (GSA) 18F office and the U.S. Department of Energy Lawrence Livermore National Laboratory (LLNL) were just two of many that “default to open.” This meant that all source code was published publicly in an online code sharing platform with any code not available for public release requiring appropriate justification.
 
 ## Coming Up
 
@@ -53,4 +53,4 @@ The next part of this series shifts to the analysis of each of the organizationa
 <a name='fn3'>3</a>: https://www.afcea.org/content/?q=cultural-changes-key-reducing-barriers-open-source-software  
 <a name='fn4'>4</a>: https://georgewbush-whitehouse.archives.gov/omb/memoranda/fy04/m04-16.html  
 <a name='fn5'>5</a>: https://go.govloop.com/open-source-myths  
-<a name='fn6'>6</a>: http://www.publicsectorexecutive.com/Public-Sector-News/open-source-software-finds-its-sweet-spot-in-the-public-sector-
+<a name='fn6'>6</a>: http://www.publicsectorexecutive.com/Public-Sector-News/open-source-software-finds-its-sweet-spot-in-the-public-sector
