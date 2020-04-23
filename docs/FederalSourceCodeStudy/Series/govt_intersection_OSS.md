@@ -34,7 +34,7 @@ With the maturation and use of OSS as a product for consumption in government or
 
 ## Digital Delivery
 
-By the mid-2010s, the landscape of government software consisted of a mixed environment of CSS and OSS. As the government brought in additional developers to deliver digital services and products, these developers moved to using OSS to avoid vendor lock-in and high licensing fees, improve the quality of software being built, and support the rush to newer technologies (e.g. mobile, Linux in the data center, cloud management with open tools). <sup>[6](#fn6)</sup> This trend occurred outside the U.S. as well with efforts by Canadian, British, Danish, Italian, and South Korean governments created digital service and technology transformation teams.
+By the mid-2010s, the landscape of government software consisted of a mixed environment of CSS and OSS. As the government brought in additional developers to deliver digital services and products, these developers moved to using OSS to avoid vendor lock-in and high licensing fees, improve the quality of software being built, and support the rush to newer technologies (e.g. mobile, Linux in the data center, cloud management with open tools). <sup>[6](#fn6)</sup> This trend occurred outside the U.S. as well with efforts by Canadian, British, Danish, Italian, and South Korean governments who created digital service and technology transformation teams.
 
 ## Default to Open
 
