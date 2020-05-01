@@ -1,37 +1,25 @@
 # code-gov
 
-Welcome! This repository is an information only project to act as a collection point for all [Code.gov](https://code.gov) repositories.
+Welcome! This repository is a collection point for all [Code.gov](https://code.gov) repositories.
 
 ## What is Code.gov?
 
-[Code.gov](https://code.gov) is a website and program promoting good practices in code development, collaboration, and reuse across the U.S. Federal Government. [Code.gov](https://code.gov) provides tools and guidance to help federal agencies implement the [Federal Source Code Policy](https://code.gov/about/overview/introduction). It includes an inventory of the federal government's custom code to promote reuse between federal agencies. Also, [Code.gov](https://code.gov) provides tools to help the government and the public collaborate on open source projects.
+[Code.gov](https://code.gov) is a program and technical platform with a website and API promoting good practices in code development, collaboration, and reuse across the U.S. Federal Government. Code.gov provides tools and guidance to help federal agencies implement the [Federal Source Code Policy](https://code.gov/about/overview/introduction). Code.gov aggregates an inventory of the federal government's custom code to promote reuse between federal agencies. Code.gov provides tools to help the government and the public collaborate on open source projects.
 
-You can read the original White House [Federal Source Code Policy announcment](https://www.whitehouse.gov/blog/2016/08/08/peoples-code) and [Code.gov announcement](https://obamawhitehouse.archives.gov/blog/2016/11/03/peoples-code-now-codegov) archives.
-
-All [Code.gov](https://code.gov) repositories are open source, we invite your contributions be it in the form of code, design, issues, or ideas.
+You can read the original White House [Federal Source Code Policy announcement](https://www.whitehouse.gov/blog/2016/08/08/peoples-code) and [Code.gov announcement](https://obamawhitehouse.archives.gov/blog/2016/11/03/peoples-code-now-codegov).
 
 ## Repositories
 
-As a product, [Code.gov](https://code.gov) is a collection of repositories that enable the aggregation of source code inventory files. All of our work is open source and we encourage you to take a look and, if you wish, contribute to our projects by submitting a pull request, a Github Issue, or commenting on existing issues and pull requests. If you are unsure as to where an issue should live, please use the [GSA/code-gov](https://github.com/GSA/code-gov) repo as a catch all.
+All of our work is open source and we encourage you to take a look and contribute to our projects by submitting a pull request, a Github issue, or commenting on existing issues and pull requests. If you are unsure as to where an issue should live, please use the [GSA/code-gov](https://github.com/GSA/code-gov) repo as a catch all.
 
 All of our repositories follow our [Code of Conduct](CODE_OF_CONDUCT.md) and [Contributing](CONTRIBUTING.md) guidelines.
 
 ### Code.gov repositories
 
-These repos are all used to maintain [Code.gov](https://code.gov)  
+Code.gov consists of multiple repositories containing code and information.
 
 <details>
-  <summary>General documentation</summary>
-
-| Project                                                                       | Description | Issues                                                                   | New Issue                                                                       |
-| ----------------------------------------------------------------------------- | ------ | ------------------------------------------------------------------------ | ------------------------------------------------------------------------------- |
-| [GSA/code-gov](https://github.com/GSA/code-gov)                               | (This repo) An information only project to act as a collection point for all Code.gov repositories.| [View all issues](https://github.com/GSA/code-gov/issues)                | 
-| [GSA/code-gov-open-source-toolkit](https://github.com/GSA/code-gov-open-source-toolkit)                       | This is a government-wide project facilitated by the Code.gov team to produce a playbook and toolkit pertaining to open sourcing software (OSS). | [View all issues](https://github.com/GSA/code-gov-open-source-toolkit/issues)            | [Create a new issue](https://github.com/GSA/code-gov-open-source-toolkit/issues/new/choose)            |
-| [GSA/code-gov-repo-template](https://github.com/GSA/code-gov-repo-template)                       | A basic template to use when creating new code.gov repositories. It includes our standard documents and contact info. Using this as a base ensures that all of our community standards are followed. | [View all issues](https://github.com/GSA/code-gov-repo-template/issues)            | [Create a new issue](https://github.com/GSA/code-gov-repo-template/issues/new/choose)            |
-</details>
-
-<details>
-  <summary>Front-end - repositories related to user-facing interactions for the platform</summary>
+  <summary>Front-end - Repositories related to the website with user-facing interactions for the platform.</summary>
     
 | Project                                                                       | Description | Issues                                                                   | New Issue                                                                       |
 | ----------------------------------------------------------------------------- | ------ | ------------------------------------------------------------------------ | ------------------------------------------------------------------------------- |
@@ -44,7 +32,7 @@ These repos are all used to maintain [Code.gov](https://code.gov)
 | [GSA/code-gov-site-map-generator](https://github.com/GSA/code-gov-site-map-generator)                   |Generates Sitemap.xml for Code.gov| [View all issues](https://github.com/GSA/code-gov-site-map-generator/issues)          | [Create a new issue](https://github.com/GSA/code-gov-site-map-generator/issues/new/choose) |
 </details>
 <details>
-  <summary>Back-end - repositories related to data harvesting and delivery for the platform</summary>
+  <summary>Back-end - Repositories related to the API with data harvesting and delivery for the platform.</summary>
 
 | Project                                                                       | Description | Issues                                                                   | New Issue                                                                       |
 | ----------------------------------------------------------------------------- | ------ | ------------------------------------------------------------------------ | ------------------------------------------------------------------------------- |
@@ -56,7 +44,7 @@ These repos are all used to maintain [Code.gov](https://code.gov)
 </details>  
 
 <details>
-  <summary>Tools - projects we have created in order to better aid our work on the code.gov platform. They do not affect the development or deployment of our main repos</summary>
+  <summary>Tools - Projects we have created in order to better aid our work on the code.gov platform. They do not affect the development or deployment of our main repositories.</summary>
 
 | Project                                                                                       | Description                                                                                                                                                                                                      | Issues                                                                           | New Issue                                                                                   |
 | --------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
@@ -68,7 +56,7 @@ These repos are all used to maintain [Code.gov](https://code.gov)
 
 </details>
 <details>
-  <summary>Deprecated/inactive repositories - repos were previously used by the code.gov team but have been deprecated and/or are no longer in use</summary>
+  <summary>Deprecated repositories - Repositories that were previously used by the Code.gov team but are no longer in use.</summary>
 
 | Project                                                                                   | Description                                                                                     | Reason for deprecation                                                                                                                                                  |
 | ----------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -93,6 +81,8 @@ These repos are all used to maintain [Code.gov](https://code.gov)
 
 ## Files you'll find in this repo
 
+These files offer information for federal agencies of how to inventory code and place on Code.gov.
+
 - [code_json_generators.md](./docs/code_json_generators.md): A comparison table of code.gov generator/scraper tools
 - [data_quality_scoring.md](./docs/data_quality_scoring.md): Info on how the code.gov data quality scores are determined
 - [front_end_guidelines.md](./docs/front_end_guidelines.md): General guidance to follow when developing on the front end
@@ -107,7 +97,7 @@ These repos are all used to maintain [Code.gov](https://code.gov)
 
 ## Questions?
 
-If you have questions, please feel free to contact us:
+If you have questions, please feel free to contact us.
 
 - [Open an issue](https://github.com/GSA/code-gov/issues/new)
 - [LinkedIn](https://www.linkedin.com/company/code-gov/)
