@@ -2,11 +2,11 @@
 
 Welcome! This repository is a collection point for all [Code.gov](https://code.gov) repositories.
 
-## What is Code.gov?
+## Code.gov
 
-[Code.gov](https://code.gov) is a program and technical platform with a website and API promoting good practices in code development, collaboration, and reuse across the U.S. Federal Government. Code.gov provides tools and guidance to help federal agencies implement the [Federal Source Code Policy](https://code.gov/about/overview/introduction). Code.gov aggregates an inventory of the federal government's custom code to promote reuse between federal agencies. Code.gov provides tools to help the government and the public collaborate on open source projects.
+[Code.gov](https://code.gov) is a program and technical platform with a website and API promoting good practices in code development, collaboration, and reuse across the U.S. Federal Government. Code.gov provides tools and guidance to help federal agencies implement the [Federal Source Code Policy (FSCP)](https://code.gov/about/overview/introduction). Code.gov aggregates an inventory of the federal government's custom code to promote reuse between federal agencies. Code.gov provides tools to help the government and the public collaborate on open source projects.
 
-You can read the original White House [Federal Source Code Policy announcement](https://www.whitehouse.gov/blog/2016/08/08/peoples-code) and [Code.gov announcement](https://obamawhitehouse.archives.gov/blog/2016/11/03/peoples-code-now-codegov).
+You can read the original White House FSCP [announcement](https://www.whitehouse.gov/blog/2016/08/08/peoples-code) and [Code.gov announcement](https://obamawhitehouse.archives.gov/blog/2016/11/03/peoples-code-now-codegov).
 
 ## Repositories
 
@@ -23,13 +23,13 @@ Code.gov consists of multiple repositories containing code and information.
     
 | Project                                                                       | Description | Issues                                                                   | New Issue                                                                       |
 | ----------------------------------------------------------------------------- | ------ | ------------------------------------------------------------------------ | ------------------------------------------------------------------------------- |
+| [GSA/cautious](https://github.com/GSA/cautious)                   | Utility Functions in JavaScript to clean up messy data aggregated from federal agency code.json files for Code.gov.| [View all issues](https://github.com/GSA/cautious/issues)          | [Create a new issue](https://github.com/GSA/cautious/issues/new/choose) |
+| [GSA/code-gov-api-client](https://github.com/GSA/code-gov-api-client)                       | Program used by the Code.gov front-end for interacting with the Code.gov API. | [View all issues](https://github.com/GSA/code-gov-api-client/issues)            | [Create a new issue](https://github.com/GSA/code-gov-api-client/issues/new/choose)            |
+| [GSA/code-gov-data](https://github.com/GSA/code-gov-data)                   | Program for updating the Code.gov schema with filters used by the Code.gov front-end. | [View all issues](https://github.com/GSA/code-gov-data/issues)          | [Create a new issue](https://github.com/GSA/code-gov-data/issues/new) |
+| [GSA/code-gov-font](https://github.com/GSA/code-gov-font)                   |Custom font with icons used by the Code.gov front end.| [View all issues](https://github.com/GSA/code-gov-font/issues)          | [Create a new issue](https://github.com/GSA/code-gov-font/issues/new)   |
 | [GSA/code-gov-front-end](https://github.com/GSA/code-gov-front-end)                       | Our frontend project, currently deployed as a static site which renders [Code.gov](https://code.gov/), this project is backed by our API to display project repositories, search, and an agency compliance dashboard. | [View all issues](https://github.com/GSA/code-gov-front-end/issues)            | [Create a new issue](https://github.com/GSA/code-gov-front-end/issues/new/choose)            |
-| [GSA/code-gov-api-client](https://github.com/GSA/code-gov-api-client)                       |Client for Interacting with Code.gov API| [View all issues](https://github.com/GSA/code-gov-api-client/issues)            | [Create a new issue](https://github.com/GSA/code-gov-api-client/issues/new/choose)            |
-| [GSA/code-gov-font](https://github.com/GSA/code-gov-font)                   |Custom font with icons used by the Code.gov front end.| [View all issues](https://github.com/GSA/code-gov-font/issues)          | [Create a new issue](https://github.com/GSA/code-gov-font/issues/new)   
+| [GSA/code-gov-site-map-generator](https://github.com/GSA/code-gov-site-map-generator)                   |Generates sitemap.xml for Code.gov in production environment. | [View all issues](https://github.com/GSA/code-gov-site-map-generator/issues)          | [Create a new issue](https://github.com/GSA/code-gov-site-map-generator/issues/new/choose) |
 | [GSA/code-gov-style](https://github.com/GSA/code-gov-style)                   | Our effort to modularize our CSS styles. This project is also made available as a [NPM package](https://www.npmjs.com/package/@code.gov/code-gov-style) and [jekyll site](https://gsa.github.io/code-gov-style/). | [View all issues](https://github.com/GSA/code-gov-style/issues)          | [Create a new issue](https://github.com/GSA/code-gov-style/issues/new/choose)          |
-| [GSA/code-gov-data](https://github.com/GSA/code-gov-data)                   |Data Files used by code.gov| [View all issues](https://github.com/GSA/code-gov-data/issues)          | [Create a new issue](https://github.com/GSA/code-gov-data/issues/new) |
-| [GSA/cautious](https://github.com/GSA/cautious)                   |Cautious Utility Functions in JavaScript for code.gov| [View all issues](https://github.com/GSA/cautious/issues)          | [Create a new issue](https://github.com/GSA/cautious/issues/new/choose) |
-| [GSA/code-gov-site-map-generator](https://github.com/GSA/code-gov-site-map-generator)                   |Generates Sitemap.xml for Code.gov| [View all issues](https://github.com/GSA/code-gov-site-map-generator/issues)          | [Create a new issue](https://github.com/GSA/code-gov-site-map-generator/issues/new/choose) |
 </details>
 <details>
   <summary>Back-end - Repositories related to the API with data harvesting and delivery for the platform.</summary>
@@ -83,17 +83,20 @@ Code.gov consists of multiple repositories containing code and information.
 
 These files offer information for federal agencies of how to inventory code and place on Code.gov.
 
-- [code_json_generators.md](./docs/code_json_generators.md): A comparison table of code.gov generator/scraper tools
-- [data_quality_scoring.md](./docs/data_quality_scoring.md): Info on how the code.gov data quality scores are determined
-- [front_end_guidelines.md](./docs/front_end_guidelines.md): General guidance to follow when developing on the front end
-- [help_wanted.md](./docs/help_wanted.md): Detailed info on our Open Tasks (formerly Help Wanted) and the labels projects need to use in order to display these on code.gov
-- [infrastructure.md](./docs/infrastructure.md): This files describes the infrastructure, server space and memory, required to run code.gov. It breaks down the server requirements by front-end and different back-end processes
-- [labor_hour_calc.md](./docs/labor_hour_calc.md): Guidance on how agencies can calculate labor hours on open source projects
-- [metadata_examples.md](./docs/metadata_examples.md): A showcase of good examples of metadata in current agency code.json files
-- [procedures.md](./docs/procedures.md): Administrative procedures for the code.gov team
-- [repo-labels.json](./docs/repo-labels.json): A json file that can be used to add the specific GitHub issue labels code.gov uses on their projects
-- [repository_management.md](./docs/repository_management.md): This is a living document explaining how we collaboratively manage the Code.gov platform repositories
-- [CoPMeetingMins](./docs/CoPMeetingMins): This is a folder containing the notes from our monthly Community of Practice meetings
+- [Federal Source Code CoP Meeting Minutes](./docs/CoPMeetingMins): This folder contains the notes from our monthly Community of Practice meetings.
+- [Federal Source Code Study](./docs/FederalSourceCodeStudy): This folder contains the Federal Source Code Study (FSCS) and summary documents to be used for upcoming blog posts.
+- [Metadata Schema](./docs/MetadataSchema): This folder contains the notes from our metadata schema workgroup meetings.
+- [UX](./docs/UX): This folder contains Code.gov UX personas.
+- [code_json_generators.md](./docs/code_json_generators.md): A comparison table of code.json generator tools.
+- [data_quality_scoring.md](./docs/data_quality_scoring.md): Info on how the Code.gov data quality scores are determined.
+- [front_end_guidelines.md](./docs/front_end_guidelines.md): General guidance to follow when developing on the front end.
+- [help_wanted.md](./docs/help_wanted.md): Detailed info on our Open Tasks (formerly Help Wanted) and the labels projects need to use in order to display these on code.gov.
+- [infrastructure.md](./docs/infrastructure.md): Description of the infrastructure, server space and memory, required to run code.gov. It breaks down the server requirements by front-end and different back-end processes.
+- [labor_hour_calc.md](./docs/labor_hour_calc.md): Guidance on how agencies can calculate labor hours on open source projects.
+- [metadata_examples.md](./docs/metadata_examples.md): A showcase of good examples of metadata in current agency code.json files.
+- [procedures.md](./docs/procedures.md): Administrative procedures for the Code.gov team
+- [repo-labels.json](./docs/repo-labels.json): A json file that can be used to add the specific GitHub issue labels code.gov uses on their projects.
+- [repository_management.md](./docs/repository_management.md): This living document explains how we collaboratively manage the Code.gov platform repositories.
 
 ## Questions?
 
