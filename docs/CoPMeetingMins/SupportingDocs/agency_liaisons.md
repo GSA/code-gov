@@ -25,7 +25,7 @@
 |Nuclear Regulatory Commission |Arthur Smith |arthur.smith@nrc.gov |
 |Office of Personnel Management |Adrian Lintz |adrian.lintz@opm.gov |
 |Small Business Administration |Andrew Davy, Ryan Hillard |Andrew.Davy@sba.gov, Ryan.Hillard@sba.gov |
-|Social Security Administration |Joseph Amalfitano |joseph.amalfitano@ssa.gov |
+|Social Security Administration |Joseph Amalfitano, Kailash (Kal) Pathak |joseph.amalfitano@ssa.gov, kailash.pathak@ssa.gov |
 |US Agency for International Development |Danny You, Nancy Le |syou@usaid.gov, nle@usaid.gov |
 |National Archives and Records Administration |Uttam Kumar, Nadi Mirvahabi |uttam.kumar@nara.gov, nadi.mirvahabi@nara.gov |
 |Consumer Financial Protection Bureau |Scott Cranfill, Adam Scott, William Barton |Scott.Cranfill@cfpb.gov, adam.scott@cfpb.gov, William.Barton@cfpb.gov |
