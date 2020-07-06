@@ -18,7 +18,7 @@ Series ToC:
 
 ---
 
-As summarized in [Part 1](https://medium.com/codedotgov/federal-source-code-study-series-part-1-the-overview-72acce742260) of this series, the study explored four organizational factors of believed to be hindering or aiding agency publication of OSS. The organizational factors were cultural beliefs, public engagement, structural dimensions, and organizational location and each will be explored in an upcoming series post. We begin here with cultural beliefs.
+As summarized in [Part 1](https://medium.com/codedotgov/federal-source-code-study-series-part-1-the-overview-72acce742260) of this series, the study explored four organizational factors believed to be hindering or aiding agency publication of OSS. The organizational factors were cultural beliefs, public engagement, structural dimensions, and organizational location and each will be explored in an upcoming series post. We begin here with cultural beliefs.
 
 There is a lot of academic and industry research on culture and its various components. This study briefly defined organizational culture and how cultural beliefs may have impacted federal agency ability to publish OSS.
 
@@ -43,7 +43,7 @@ The interview guide consisted of the following questions or statements pertainin
 
 ## Findings
 
-As a first step, participants were asked whether they believed their unit published enough OSS. The responses was almost evenly split between "yes" and "no," however the majority of "no" respondents were in units that were minimally publishing OSS. This called for further probing into potential cultural belief factors hindering and aiding publication of OSS.
+As a first step, participants were asked whether they believed their unit published enough OSS. The responses were almost evenly split between "yes" and "no," however the majority of "no" respondents were in units that were minimally publishing OSS. This called for further probing into potential cultural belief factors hindering or aiding publication of OSS.
 
 Data pertaining to cultural beliefs provided for creation of two main categories with multiple sub-categories.
 1. Cautionary - Participants whose units held cautionary beliefs were reticent in their response to new technology and technology policy. This reticence evidently stemmed from the inherent scrutiny government entities receive through annual ethics reviews and training as well as frequent public inquiry. 
@@ -57,7 +57,7 @@ Data pertaining to cultural beliefs provided for creation of two main categories
     - Demonstrate competency - Participants believed publishing OSS demonstrated unit competency with software.  This competency was the unit’s ability to exercise authority to publish OSS.  The unit justified publication based on professional ideals.
     - Realize benefits - Participants believed publishing code provided benefits resulting in cost savings and transparency for citizens regarding what the government does with taxpayer funds as well as providing public access to the end product.  Realizing benefits encompassed beliefs that OSS publication would help reduce technical debt, improve code quality, provide better documentation, provide cost savings, and help build a sustainable product.  
 
-Of note, some participants held both cautionary and advantageous beliefs meaning the categories were not mutually exclusive and further analysis was needed to understand cultural beliefs. As will be shown in later posts, other factors along with cultural beliefs affected whether a unit was more frequently publishing OSS.
+Of note, some participants held both cautionary and advantageous beliefs meaning the categories were not mutually exclusive and further analysis was needed to understand cultural beliefs. As will be shown in later posts, other factors along with cultural beliefs affected whether a unit was more likely and frequently publishing OSS.
 
 ## Summary
 
