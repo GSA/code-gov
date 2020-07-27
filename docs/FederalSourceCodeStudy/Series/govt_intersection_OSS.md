@@ -7,10 +7,10 @@ Series ToC:
 - [Study Overview](study_overview.md)
 - [History of OSS](history_of_OSS.md)
 - Federal Government's Intersection with OSS
+- [Cultural Beliefs](cultural_beliefs.md)
+- [Public Engagement](public_engagement.md)
 
 --forthcoming--
-- [Cultural Beliefs](#)
-- [Public Engagement](#)
 - [Structural Dimensions](#)
 - [Organizational Location](#)
 - [Analysis of Organizational Factors & OSS Publishing](#)

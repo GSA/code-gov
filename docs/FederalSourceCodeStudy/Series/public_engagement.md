@@ -8,7 +8,7 @@ Series ToC:
 - [History of OSS](history_of_OSS.md)
 - [Federal Government's Intersection with OSS](govt_intersection_OSS.md)
 - [Cultural Beliefs](cultural_beliefs.md)
-- [Public Engagement](#)
+- Public Engagement
 
 --forthcoming--
 - [Structural Dimensions](#)
