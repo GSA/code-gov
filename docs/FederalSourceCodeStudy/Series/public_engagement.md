@@ -22,42 +22,35 @@ As summarized in [Part 1](https://medium.com/codedotgov/federal-source-code-stud
 
 ## Public Engagement
 
+Public engagement was defined as an action-oriented approach to participating with individuals outside the organization.  Participation included a range of approaches to engage the public. The definition of public in this study focused on individuals outside a unit in the same agency, individuals outside the agency but within another government agency, and the general public.
 
-
+Public engagement is a component of a broader public participation construct, along with communication and consultation.  Descriptive in nature, public engagement centers on the action government units take to involve those outside their unit through in-person and virtual means.  Public administration research concludes that organizations employing a multitude of engagement formats ultimately led to more effective programs because public engagement enabled individuals to come together within a technical domain to ask questions and solve particular problems.  Public engagement may well complement the community aspect of building and publishing OSS.
 
 ## Interview Guide & Public Engagement
 
 Recall for this Series [Part 1](https://medium.com/codedotgov/federal-source-code-study-series-part-1-the-overview-72acce742260), there were 25 participants from software development units in 20 CFO Act agencies. Some agencies had multiple participants, but no participant was from the same SW development unit.
 
-The interview guide consisted of the following questions or statements pertaining to cultural beliefs.
-1. What are your unit's beliefs on consuming open source software (OSS)?
-2. Based on public data, your agency publishes code minimally, intermediately, or frequently. Does your unit publish code, and if so, does your unit believe this is the appropriate amount?
-3. Based on response to the previous question, provide why the unit believes this is or is not the appropriate amount.
-4. Does your unit use a public coding platform with open repositories?
-5. Describe your unit's goals with regards to software development (e.g., collaborate, deliver product).
+The interview guide consisted of the following questions and statements pertaining to public engagement.
+1. Describe how your unit uses collaboration tools externally (e.g., touchpoints, tools, frequency).
+2. Describe why your unit uses collaboration tools externally (e.g., knowledge sharing, policy creation, acquisition creation, code development).
+3. Does your unit host events, participate in events, or seek contributions from others outside the unit when developing software?
+    - Describe how your unit seeks input into software development.
+    - Describe why your unit seeks input into software development.
 
 ## Findings
 
-As a first step, participants were asked whether they believed their unit published enough OSS. The responses were almost evenly split between "yes" and "no," however the majority of "no" respondents were in units that were minimally publishing OSS. This called for further probing into potential cultural belief factors hindering or aiding publication of OSS.
+Public engagement involved collaborating with those outside the boundaries of the unit. Public engagement allowed the public to participate in problem solving and enhancing product quality. Participants reported using mechanisms to increase public engagement that resulted in forums for two-way communication (e.g., coding platforms, chat, webinars). Some participants reported integrating others and content (e.g., code, policies) into their units. Data collected was placed in multiple theoretical categories and sub-categories.
 
-Data pertaining to cultural beliefs provided for creation of two main categories with multiple sub-categories.
-1. Cautionary - Participants whose units held cautionary beliefs were reticent in their response to new technology and technology policy. This reticence evidently stemmed from the inherent scrutiny government entities receive through annual ethics reviews and training as well as frequent public inquiry. 
-    - Align to scope - This sub-category included data from participants who believed that software development should be aligned to a specific organizational scope and that it seldom did.
-    - Change in practices - This sub-category included data from participants who viewed change negatively, which hindered the unit’s frequency of publishing OSS.  Beliefs about change in practice invoked fear, required the actual change itself, and required updated or new high-tech skills.
-    - Consider risk - Responses from participants that clustered in this sub-category centered on the belief that publishing OSS was inherently risky.  The beliefs about risks were related to transactions.  These transactional concerns included a consideration of contracts and other aspects of building software, such as the process to publish code, deviation from an approved review process, and consumption of code along with trying new code platforms.
-    - Need permission - Some unit participants believed permission was required to publish code.  These participants believed they needed to obtain permission from their management and customers.
-2. Advantageous - Advantageous beliefs were based on perceived and realized outcomes.
-    - Build community - Participants believed publishing code was beneficial because it created a community of sharing and collaboration. 
-    - Create efficiencies - Participants believed publishing OSS created efficiencies in the software development lifecycle because it allowed the unit to break down development silos, utilize new development technologies and processes (i.e., Development Operations or DevOps), and minimize redundant code.
-    - Demonstrate competency - Participants believed publishing OSS demonstrated unit competency with software.  This competency was the unit’s ability to exercise authority to publish OSS.  The unit justified publication based on professional ideals.
-    - Realize benefits - Participants believed publishing code provided benefits resulting in cost savings and transparency for citizens regarding what the government does with taxpayer funds as well as providing public access to the end product.  Realizing benefits encompassed beliefs that OSS publication would help reduce technical debt, improve code quality, provide better documentation, provide cost savings, and help build a sustainable product.  
-
-Of note, some participants held both cautionary and advantageous beliefs meaning the categories were not mutually exclusive and further analysis was needed to understand cultural beliefs. As will be shown in later posts, other factors along with cultural beliefs affected whether a unit was more likely and frequently publishing OSS.
+- Promote participation - Participants valued and encouraged public participation and believed public engagement could be beneficial.
+- Create a forum - Participants also reported utilizing mechanisms to solicit engagement from individuals outside their units.  Forums for public engagement consisted of the unit communicating and collaborating with individuals outside their unit.
+- Leverage others - A majority of participants reported integrating outside team members and open source products in units that published OSS more frequently and intermediately; moreover, five participants in units that minimally published OSS also reported their units sought to leverage others.
+    - Team integration - Participants reported seeking help from others in the form of consulting and “hands-on” engineering support leading to OSS use and publication. 
+    - Product integration - Many participants sought out solutions to incorporate into their units and to contribute back to the OSS community. Reported products included more than code (e.g., policy, contract language).
 
 ## Summary
 
-Cautionary and advantageous beliefs were associated with whether and how a unit publishes OSS.   Cautionary beliefs centered on scope alignment, change in work practices, risk avoidance, and need for permission; advantageous beliefs included building a community around the software, creating development efficiencies, demonstrating competencies, and viewing code as being beneficial to the public.
+Public engagement and its associated mechanisms were associated with whether and how often units publish OSS.  Units publishing more frequently did so to promote participation, create forums, and leverage others. This was accomplished with electronic tools and bi-directional communication. Units that published more frequently often engaged with individuals outside the unit and worked with team members from digital service organizations.
 
 ## Coming Up
 
-The next part of this series focuses on the organizational factor of public engagement and how it affected OSS publication.
+The next part of this series focuses on the organizational factor of structural dimensions and it affected OSS publication.
