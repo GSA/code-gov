@@ -1,4 +1,4 @@
-# Cultural Beliefs
+# Public Engagement
 By [Joseph Castle](https://digital.gov/authors/joseph-castle/), PhD, and the Code.gov Team
 
 *This write-up summarizes portions of the [Federal Source Code Study (FSCS)](https://github.com/GSA/code-gov/blob/master/docs/FederalSourceCodeStudy/FederalSourceCodeStudy.pdf), a three-year study conducted from 2017 to 2020 by the Code.gov team to better understand agency implementation of the Federal Source Code Policy (FSCP). The study considered open source software (OSS) publication as one indicator of FSCP implementation and examined why some agencies publish OSS and others do not.
@@ -28,7 +28,7 @@ Public engagement is a component of a broader public participation construct, al
 
 ## Interview Guide & Public Engagement
 
-Recall for this Series [Part 1](https://medium.com/codedotgov/federal-source-code-study-series-part-1-the-overview-72acce742260), there were 25 participants from software development units in 20 CFO Act agencies. Some agencies had multiple participants, but no participant was from the same SW development unit.
+Recall from [Part 1](https://medium.com/codedotgov/federal-source-code-study-series-part-1-the-overview-72acce742260) of this series, there were 25 participants from software development units in 20 CFO Act agencies. Some agencies had multiple participants, but no participant was from the same SW development unit.
 
 The interview guide consisted of the following questions and statements pertaining to public engagement.
 1. Describe how your unit uses collaboration tools externally (e.g., touchpoints, tools, frequency).
@@ -43,7 +43,7 @@ Public engagement involved collaborating with those outside the boundaries of th
 
 - Promote participation - Participants valued and encouraged public participation and believed public engagement could be beneficial.
 - Create a forum - Participants also reported utilizing mechanisms to solicit engagement from individuals outside their units.  Forums for public engagement consisted of the unit communicating and collaborating with individuals outside their unit.
-- Leverage others - A majority of participants reported integrating outside team members and open source products in units that published OSS more frequently and intermediately; moreover, five participants in units that minimally published OSS also reported their units sought to leverage others.
+- Leverage others - A majority of participants reported integrating outside team members and open source products in units that published OSS more frequently and intermediately; moreover, some participants in units that minimally published OSS also reported their units sought to leverage others.
     - Team integration - Participants reported seeking help from others in the form of consulting and “hands-on” engineering support leading to OSS use and publication. 
     - Product integration - Many participants sought out solutions to incorporate into their units and to contribute back to the OSS community. Reported products included more than code (e.g., policy, contract language).
 
@@ -53,4 +53,4 @@ Public engagement and its associated mechanisms were associated with whether and
 
 ## Coming Up
 
-The next part of this series focuses on the organizational factor of structural dimensions and it affected OSS publication.
+The next part of this series focuses on the organizational factor of structural dimensions and its affect on OSS publication.
