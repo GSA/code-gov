@@ -9,7 +9,7 @@
 
 ### Discuss your research on open source and what did you find about how agencies are sharing/using open source code?
 
-The study focused on the implementation of the Federal Source Code Policy (FSCP) with how and why agencies publish open source software (OSS). The premise being if all cabinet-level agencies have a mandate to publish OSS, an IT budget relative to agency mission, and an IT staff capable of working with software, why were some agencies able to more frequently publish OSS than others. This premise supported focus on organizational factors - cultural beliefs, public engagement, structural dimensions, and organizational location - as hindering and aiding OSS publication as one indicator of FSCP policy implementation. The findings expose systemic issues all federal agencies face when implementing new policy and technology.
+The study focused on the implementation of the Federal Source Code Policy (FSCP) with whether and how agencies publish open source software (OSS). The premise being if all cabinet-level agencies have a mandate to publish OSS, an IT budget relative to agency mission, and an IT staff capable of working with software, why were some agencies able to more frequently publish OSS than others. This premise supported focus on organizational factors - cultural beliefs, public engagement, structural dimensions, and organizational location - as hindering and aiding OSS publication as one indicator of FSCP policy implementation. The findings expose systemic issues all federal agencies face when implementing new policy and technology.
 
 The research did not focus on sharing and using open source code, however, my experience with Code.gov provides insight into these aspects of federal OSS. There is public data, largely supplied by code platform APIs showing a lot of activity with government code in the form of government repositories, copies, and contributions. There is also anecdotal evidence of code reuse among agencies (e.g., GSA's USWDS, DOE's ZFS, NSA's Walkoff).
 
@@ -21,7 +21,11 @@ Agencies were implementing the FSCP with mixed results as noted on the complianc
 
 For data collection, we began with a metadata analysis by collecting data pertaining to agency publication of OSS. We found mixed results before and after the release of the FSCP. The 24 cabinet-level agencies were producing OSS with mixed results which required a deeper dive into what was happening in agencies.
 
+- Clean up language around mixed results with publishing OSS
+
 This resulted in a qualitative study with interviews and artifact collection. The sample consisted of 25 participants from 20 agencies and no participant was from the same unit. Participants were federal employees and either managed or developed software and often resided in a software development or data science office. Participants were also from offices that published with varying frequency - minimally, intermediately, and frequently.
+
+- Go into the interviews and artifacts
  
 ### What surprised you about your findings? Did your research show whether the 2016 OMB policy affected more agencies sharing open source code?
 
@@ -35,6 +39,8 @@ These units used bi-directional communication, created forums both in-person and
 
 3. Structural dimensions consisted of decision-making, capabilities, diverse skills, and task coordination. Units, regardless of publishing frequency, all relied on policy.
 This was an interesting find and different from what literature said is often the case with technology development. All government organizations relied on policy to publish and without policy very few will publish OSS, so policy is key.
+
+- Every organization needs language permitting code publication. Without policy, agencies will not move.
 
 4. Organizational location showed that units with relationships with the CIO office and customers often publishing more frequently.
 Knowing the policies and being offered freedom to innovate allowed many to publish. This was often in coordination with CIO offices allowing for the line office and CIO office to learn at the same time and then development policy and rules to continue to publish OSS.
