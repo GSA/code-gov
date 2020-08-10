@@ -24,8 +24,6 @@ For data collection, we began with a metadata analysis by collecting data pertai
 - Clean up language around mixed results with publishing OSS
 
 This resulted in a qualitative study with interviews and artifact collection. The sample consisted of 25 participants from 20 agencies and no participant was from the same unit. Participants were federal employees and either managed or developed software and often resided in a software development or data science office. Participants were also from offices that published with varying frequency - minimally, intermediately, and frequently.
-
-- Go into the interviews and artifacts
  
 ### What surprised you about your findings? Did your research show whether the 2016 OMB policy affected more agencies sharing open source code?
 
@@ -39,8 +37,6 @@ These units used bi-directional communication, created forums both in-person and
 
 3. Structural dimensions consisted of decision-making, capabilities, diverse skills, and task coordination. Units, regardless of publishing frequency, all relied on policy.
 This was an interesting find and different from what literature said is often the case with technology development. All government organizations relied on policy to publish and without policy very few will publish OSS, so policy is key.
-
-- Every organization needs language permitting code publication. Without policy, agencies will not move.
 
 4. Organizational location showed that units with relationships with the CIO office and customers often publishing more frequently.
 Knowing the policies and being offered freedom to innovate allowed many to publish. This was often in coordination with CIO offices allowing for the line office and CIO office to learn at the same time and then development policy and rules to continue to publish OSS.
