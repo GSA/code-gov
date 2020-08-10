@@ -19,9 +19,7 @@ The federal government has a long history of sharing code leading to WWII. Grace
 
 Agencies were implementing the FSCP with mixed results as noted on the compliance dashboard on Code.gov and we wanted to explore why some agencies were publishing OSS and others were not. We began with a simple question, "why do some agencies publish OSS and others do not?" 
 
-For data collection, we began with a metadata analysis by collecting data pertaining to agency publication of OSS. We found mixed results before and after the release of the FSCP. The 24 cabinet-level agencies were producing OSS with mixed results which required a deeper dive into what was happening in agencies.
-
-- Clean up language around mixed results with publishing OSS
+For data collection, we began with a metadata analysis by collecting data pertaining to agency publication of OSS. We found the 24 cabinet-level agencies were producing OSS with mixed results which required a deeper dive into what was happening in agencies.
 
 This resulted in a qualitative study with interviews and artifact collection. The sample consisted of 25 participants from 20 agencies and no participant was from the same unit. Participants were federal employees and either managed or developed software and often resided in a software development or data science office. Participants were also from offices that published with varying frequency - minimally, intermediately, and frequently.
  
