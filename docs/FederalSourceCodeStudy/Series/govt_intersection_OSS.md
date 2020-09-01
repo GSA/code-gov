@@ -9,9 +9,9 @@ Series ToC:
 - Federal Government's Intersection with OSS
 - [Cultural Beliefs](cultural_beliefs.md)
 - [Public Engagement](public_engagement.md)
+- [Structural Dimensions](structural_dimensions.md)
 
 --forthcoming--
-- [Structural Dimensions](#)
 - [Organizational Location](#)
 - [Analysis of Organizational Factors & OSS Publishing](#)
 - [Implications & Recommendations for Public Administrators](#)
