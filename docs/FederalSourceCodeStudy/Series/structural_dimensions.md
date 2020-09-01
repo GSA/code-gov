@@ -8,8 +8,8 @@ Series ToC:
 - [History of OSS](history_of_OSS.md)
 - [Federal Government's Intersection with OSS](govt_intersection_OSS.md)
 - [Cultural Beliefs](cultural_beliefs.md)
-- Public Engagement
-- [Structural Dimensions](structural_dimensions.md)
+- [Public Engagement](public_engagement.md)
+- Structural Dimensions
 
 --forthcoming--
 - [Organizational Location](#)
@@ -18,7 +18,7 @@ Series ToC:
 
 ---
 
-As summarized in [Part 1](https://medium.com/codedotgov/federal-source-code-study-series-part-1-the-overview-72acce742260) of this series, the study explored four organizational factors believed to be hindering or aiding agency publication of OSS. The organizational factors were cultural beliefs, public engagement, structural dimensions, and organizational location and each will be explored in an upcoming series post. We continue here with public engagement.
+As summarized in [Part 1](https://medium.com/codedotgov/federal-source-code-study-series-part-1-the-overview-72acce742260) of this series, the study explored four organizational factors believed to be hindering or aiding agency publication of OSS. The organizational factors were cultural beliefs, public engagement, structural dimensions, and organizational location and each will be explored in an upcoming series post. We continue here with structural dimensions.
 
 ## Public Engagement
 
