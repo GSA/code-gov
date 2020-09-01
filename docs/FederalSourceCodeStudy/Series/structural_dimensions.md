@@ -1,4 +1,4 @@
-# Public Engagement
+# Structural Dimensions
 By [Joseph Castle](https://digital.gov/authors/joseph-castle/), PhD, and the Code.gov Team
 
 *This write-up summarizes portions of the [Federal Source Code Study (FSCS)](https://github.com/GSA/code-gov/blob/master/docs/FederalSourceCodeStudy/FederalSourceCodeStudy.pdf), a three-year study conducted from 2017 to 2020 by the Code.gov team to better understand agency implementation of the Federal Source Code Policy (FSCP). The study considered open source software (OSS) publication as one indicator of FSCP implementation and examined why some agencies publish OSS and others do not.
@@ -20,37 +20,41 @@ Series ToC:
 
 As summarized in [Part 1](https://medium.com/codedotgov/federal-source-code-study-series-part-1-the-overview-72acce742260) of this series, the study explored four organizational factors believed to be hindering or aiding agency publication of OSS. The organizational factors were cultural beliefs, public engagement, structural dimensions, and organizational location and each will be explored in an upcoming series post. We continue here with structural dimensions.
 
-## Public Engagement
+## Structural Dimensions
 
-Public engagement was defined as an action-oriented approach to participating with individuals outside the organization.  Participation included a range of approaches to engage the public. The definition of public in this study focused on individuals outside a unit in the same agency, individuals outside the agency but within another government agency, and the general public.
+Social structure in organizations provides arrangements for gathering information to achieve a collective outcome, the very reason for organizational life. Social structures in organizations pertain to relationships among people, positions, and organizational units. Researchers who study organizations often focus on the configuration of technology-structure and agreed that centralization, formalization, differentiation, and coordination were the major theoretical dimensions of structure, and each dimension, when isolated, affected organizations’ responses to environmental disturbance. 
 
-Public engagement is a component of a broader public participation construct, along with communication and consultation.  Descriptive in nature, public engagement centers on the action government units take to involve those outside their unit through in-person and virtual means.  Public administration research concludes that organizations employing a multitude of engagement formats ultimately led to more effective programs because public engagement enabled individuals to come together within a technical domain to ask questions and solve particular problems.  Public engagement may well complement the community aspect of building and publishing OSS.
+Each structural dimension theoretical element is defined here.
+- Centralization described where decision-making took place in an organization. In more centralized organizations, decisions were made by those at the top of the overall hierarchy; while, in more decentralized settings, many organizational participants from differing levels and parts of the organization were involved in decision-making.  
+- Formalization included the organization’s use of written rules, job descriptions, procedures, and communications. Formalization was an attempt to make behavior predictable through explicit procedures (e.g., rules, standard operating procedures), and the lack of formalization allowed for unit flexibility and spontaneity.
+- Differentiation entailed the separation of work by expertise or the diversity of skills within and across units.
+- Coordination was the information exchange accomplished among units through communication.
 
-## Interview Guide & Public Engagement
+This study focused on structural dimensions as potentially affecting the frequency of units’ OSS publication as the executive order can be viewed as an environmental disturbance.
+
+## Interview Guide & Structural Dimensions
 
 Recall from [Part 1](https://medium.com/codedotgov/federal-source-code-study-series-part-1-the-overview-72acce742260) of this series, there were 25 participants from software development units in 20 CFO Act agencies. Some agencies had multiple participants, but no participant was from the same SW development unit.
 
-The interview guide consisted of the following questions and statements pertaining to public engagement.
-1. Describe how your unit uses collaboration tools externally (e.g., touchpoints, tools, frequency).
-2. Describe why your unit uses collaboration tools externally (e.g., knowledge sharing, policy creation, acquisition creation, code development).
-3. Does your unit host events, participate in events, or seek contributions from others outside the unit when developing software?
-    - Describe how your unit seeks input into software development.
-    - Describe why your unit seeks input into software development.
+The interview guide consisted of the following questions and statements pertaining to structural dimensions.
+- General: How do structural dimensions, specifically technology-structure, influence OSS publication?
+- Formalization: Describe how priorities and tasks are created and assigned in your unit.  (Are they established as a result of roles, rules, and procedures or through group participation?)
+- Centralization: Describe decision-making in your unit pertaining to software development.
+- Differentiation: Describe how your unit is organized. (Division of labor, variation of skills.)
+- Coordination: Describe your unit’s communication and collaboration efforts when developing software. (Formal and informal communication, frequency.)
 
 ## Findings
 
-Public engagement involved collaborating with those outside the boundaries of the unit. Public engagement allowed the public to participate in problem solving and enhancing product quality. Participants reported using mechanisms to increase public engagement that resulted in forums for two-way communication (e.g., coding platforms, chat, webinars). Some participants reported integrating others and content (e.g., code, policies) into their units. Data collected was placed in multiple theoretical categories and sub-categories.
+The evidence supported generation of four categories of decision making (centralization), understanding capabilities (formalization), comprised of diverse skills (differentiation), and coordinating tasks (coordination). Unit decision making occurred in either a directed or a participatory manner. Directed decisions often came from upper management, customers outside the unit, and contractors through specifications in the contract. Participatory decision making occurred with unit collaboration supported with electronic tools.
 
-- Promote participation - Participants valued and encouraged public participation and believed public engagement could be beneficial.
-- Create a forum - Participants also reported utilizing mechanisms to solicit engagement from individuals outside their units.  Forums for public engagement consisted of the unit communicating and collaborating with individuals outside their unit.
-- Leverage others - A majority of participants reported integrating outside team members and open source products in units that published OSS more frequently and intermediately; moreover, some participants in units that minimally published OSS also reported their units sought to leverage others.
-    - Team integration - Participants reported seeking help from others in the form of consulting and “hands-on” engineering support leading to OSS use and publication. 
-    - Product integration - Many participants sought out solutions to incorporate into their units and to contribute back to the OSS community. Reported products included more than code (e.g., policy, contract language).
+Understanding capabilities provided focus on documented and undocumented procedures and policies. Interestingly, units that more frequently published OSS relied on formalization based on professional documentation of professional organizations (e.g., IEEE). All units relied on documentation to publish OSS. If there was no policy in place, then the unit most likely did not publish OSS and if there was a policy in place, a unit would most likely publish OSS. Having a policy is one of the most important unit artifacts to allow for implementation of technology and broader agency and government policy.
+
+Units comprised of individuals with diverse skills allowed for more publication of OSS and this was often due to some units having individuals who have coded at one point in their career. FSCP implementation was made possible with collaboration and communication across the unit. Informal and through electronic tools was key.
 
 ## Summary
 
-Public engagement and its associated mechanisms were associated with whether and how often units publish OSS.  Units publishing more frequently did so to promote participation, create forums, and leverage others. This was accomplished with electronic tools and bi-directional communication. Units that published more frequently often engaged with individuals outside the unit and worked with team members from digital service organizations.
+Variations in four structural dimensions – centralization, formalization, differentiation, and coordination – were associated with whether and how frequently units published OSS.  Units publishing more frequently relied on less centralization with participatory decision-making, more formalization with documentation, more differentiation by having diverse skills within the unit, and more coordination with collaboration and use of electronic tools.
 
 ## Coming Up
 
-The next part of this series focuses on the organizational factor of structural dimensions and its affect on OSS publication.
+The next part of this series focuses on the organizational factor of organizational location and its affect on OSS publication.
