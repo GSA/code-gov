@@ -40,7 +40,7 @@ How does organizational location, or where a unit is located based on organizati
 
 ## Findings
 
-Evidence showed organizational location tends to not be as much of a factor for publishing software more frequently. There were slightly more units towards the metaphorical middle of the organization that more frequently published OSS. This was anecdotally traced to notions of working with the public and being close enough to a CIO office to understand the policy.
+There were slightly more units towards the metaphorical middle of the organization that more frequently published OSS. This was more anecdotally traced to notions of working with the public and being close enough to a CIO office to understand the policy.
 
 ## Coming Up
 
