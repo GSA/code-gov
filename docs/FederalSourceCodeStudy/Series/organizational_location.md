@@ -40,11 +40,7 @@ How does organizational location, or where a unit is located based on organizati
 
 ## Findings
 
-Evidence shows organizational location tends to not be as much of a factor for publishing more frequently but there were more anecdotal notions of working with the public and being close enough to a CIO office to understand the policy and what is permissible with software use and publication.
-
-## Summary
-
-Variations in four structural dimensions – centralization, formalization, differentiation, and coordination – were associated with whether and how frequently units published OSS.  Units publishing more frequently tended to be more towards the metaphorical middle of the organization who were close enough to the CIO's office and served external customers.
+Evidence shows organizational location tends to not be as much of a factor for publishing software more frequently. There were more anecdotal notions of working with the public and being close enough to a CIO office to understand the policy. However, units that tended to publish more frequently were often located towards the metaphorical middle of the organization who were close enough to the CIO's office and served external customers.
 
 ## Coming Up
 
