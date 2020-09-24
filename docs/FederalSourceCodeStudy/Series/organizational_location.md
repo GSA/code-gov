@@ -33,9 +33,10 @@ This study focused on organizational location as potentially affecting the frequ
 Recall from [Part 1](https://medium.com/codedotgov/federal-source-code-study-series-part-1-the-overview-72acce742260) of this series, there were 25 participants from software development units in 20 CFO Act agencies. Some agencies had multiple participants, but no participant was from the same SW development unit.
 
 The interview guide consisted of the following questions and statements pertaining to organizational location.
-- How does organizational location, or where a unit is located based on organizational form, affect OSS publication?
-    -	Describe where your unit is located in the agency.
-    -	Describe the autonomous nature of your unit.
+
+How does organizational location, or where a unit is located based on organizational form, affect OSS publication?
+-	Describe where your unit is located in the agency.
+-	Describe the autonomous nature of your unit.
 
 ## Findings
 
