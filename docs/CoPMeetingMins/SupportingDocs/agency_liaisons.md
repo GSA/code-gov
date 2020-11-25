@@ -5,7 +5,7 @@
 |---|---|---|
 |Dept. of Agriculture |Alexander Pyle, Shadat Mahmud |Alexander.Pyle@ocio.usda.gov, Source.Code@ocio.usda.gov |
 |Dept. of Commerce |Rajeev Sharma |Rajeev.Sharma@doc.gov |
-|Dept. of Defense |Jordan Kasper |jordan@dds.mil |
+|Dept. of Defense |Daniel Risacher |daniel.r.risacher.civ@mail.mil |
 |Dept. of Education |William Parker |William.Parker@ed.gov |
 |Dept. of Energy |Denise Hill, Alberto Alvarez, Lance Vowell, Ian Lee |Denise.Hill@hq.doe.gov, alberto.alvarez@hq.doe.gov, vowelll@osti.gov, lee1001@llnl.gov |
 |Dept. of Health and Human Services |Jack Stoute, Domenic Caruano |Jack.Stoute@hhs.gov, Domenic.Caruano@hhs.gov |
