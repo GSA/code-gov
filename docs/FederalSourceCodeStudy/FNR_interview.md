@@ -1,9 +1,9 @@
 # Federal News Radio Interview
-## Jason Miller & Joseph Castle, PhD, GSA
+## Jason Miller & Joseph Castle, PhD
 
 *Questions in bold provided by Jason Miller. Responses by Joseph Castle.*
 
-## Date: TBD
+## Date: Thursday January 7th, 2021
 
 ---
 
