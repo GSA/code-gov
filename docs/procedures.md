@@ -13,11 +13,11 @@ These accounts are created for developers that need access to contribute code an
 
 2. Make sure you have [gitseekrets](https://github.com/18F/laptop/tree/master/seekret-rules) installed on your Mac or in your virtualbox, if that is where you do your development. 
 
-3. Then, you will want to contact the system owner, currently Joe Castle.  In that message, confirm you have two factor authentication on and have installed gitseekrets. 
+3. Then, you will want to contact the system owner, currently Joe Castle.  In that message, confirm you have two-factor authentication on and have installed gitseekrets. 
 
 4. The system owner will confirm the GSA identity of the applicant and add a person to the `gsa-code-gov` organization in cloud.gov. 
  
-6. Documenting what role was assigned.
+5. Documenting what role was assigned.
 
 ### GitHub Access 
 
@@ -26,9 +26,9 @@ The System owner and current project developers need commit rights to code.gov p
 These accounts are created for developers that need access to contribute code and deploy apps.
 
 1. [Create an account](https://github.com/) with GitHub and [enable multi factor authentication](https://github.com/blog/1614-two-factor-authentication).
-2. Make sure you have [gitseekrets](https://github.com/18F/laptop/tree/master/seekret-rules) installed on your Mac or in your virtualbox, if that is where you do your development. (If you are a Windows only user, you can be exempt from this requirement while the windows version is in development.) 
+2. Make sure you have [gitseekrets](https://github.com/18F/laptop/tree/master/seekret-rules) installed on your Mac or in your virtualbox, if that is where you do your development. (If you are a Windows only user, you can be exempt from this requirement while the Windows version is in development.) 
 3. Then, you will want to contact the system owner. In that message, include your name, the name of your supervisor, confirm you have two-factor authentication on and have installed gitseekrets. 
-5. The system owner will then send a request to gsa-github.support@gsa.gov to add the user to the GSA org on GitHub. Once that is complete the system owner wll them add them to the GSA/code-gov and GSA/code-gov-dev-team GitHub teams.
+4. The system owner will then send a request to gsa-github.support@gsa.gov to add the user to the GSA org on GitHub. Once that is complete the system owner wll them add them to the GSA/code-gov and GSA/code-gov-dev-team GitHub teams.
 
 ### Weekly Monitoring Checklist
 
