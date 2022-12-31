@@ -45,13 +45,13 @@ Any issues that are irrelevant or not actionable should be closed, because they 
 
 GitHub allows you to assign `labels` to Issues and Pull Requests. For Code.gov repos, we use a standard set of `labels` on all our repos. 
 
-First, we use the label framework needed to tags issues in order for them to show on the Code.gov [Open Tasks page](https://code.gov/open-tasks?page=1&size=10). These labels are outlined in the [helpwanted.md file](./helpwanted.md). 
+First, we use the label framework needed to tag issues in order for them to show on the Code.gov [Open Tasks page](https://code.gov/open-tasks?page=1&size=10). These labels are outlined in the [help_wanted.md file](./help_wanted.md). 
 <details>
   <summary>Code.gov Issue labels</summary>
 Our implementation of this includes:
 
 * `[issue-type] bug` - a general bug found in the functionality of your project
-* `[issue-type] enhancement` - this label works as a catch all for new features, code cleanup, and general code maintenance. Bugs should not have the enhancement label added to them.
+* `[issue-type] enhancement` - this label works as a catch-all for new features, code cleanup, and general code maintenance. Bugs should not have the enhancement label added to them.
 * `[issue-type] good first issue` - some projects are complex. This label will help your new contributors know that this issue is a great way to get involved with your project.
 * `[issue-type] feedback` - sometimes you just want to get a different perspective. This label will let your community know that you would like their feedback on a topic.
 
@@ -141,7 +141,7 @@ When reviewing issues, here are some steps you can perform:
 
 - First search for duplicates. If the issue is duplicate, close it by commenting with “Duplicate of #<original-id>”, add any relevant new details to the existing issue, and add the `[inactive] duplicate` label.
 - If the issue is missing labels, add some to better categorize it (requires proper permissions).
-- If the title doesn’t communicate the issue, edit it for clarity (requires proper permissions).
+- If the title doesn't communicate the issue, edit it for clarity (requires proper permissions).
 - If it’s a bug report, test to confirm the report or add the `[status] needs testing` label. If there is not enough information to confirm the report, add the `[status] needs info` label and ask for the details needed.
 - Remove the `[status] needs info` if the author of the issue has responded with enough details.
 - Close the issue with a note if it has a `[status] stale` label but the author didn't respond in 2+ weeks.

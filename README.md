@@ -10,7 +10,7 @@ You can read the original White House FSCP [announcement](https://www.whitehouse
 
 ## Repositories
 
-All of our work is open source and we encourage you to take a look and contribute to our projects by submitting a pull request, a Github issue, or commenting on existing issues and pull requests. If you are unsure as to where an issue should live, please use the [GSA/code-gov](https://github.com/GSA/code-gov) repo as a catch all.
+All of our work is open source and we encourage you to take a look and contribute to our projects by submitting a pull request, a GitHub issue, or commenting on existing issues and pull requests. If you are unsure as to where an issue should live, please use the [GSA/code-gov](https://github.com/GSA/code-gov) repo as a catch-all.
 
 All of our repositories follow our [Code of Conduct](CODE_OF_CONDUCT.md) and [Contributing](CONTRIBUTING.md) guidelines.
 
@@ -24,7 +24,7 @@ Code.gov consists of multiple repositories containing code and information.
 | Project | Description |
 | ----- | ----- |
 | [GSA/cautious](https://github.com/GSA/cautious) | Utility Functions in JavaScript to clean up messy data aggregated from federal agency code.json files for Code.gov. Also available as an [NPM package](https://www.npmjs.com/package/@code.gov/cautious). | 
-| [GSA/code-gov-api-client](https://github.com/GSA/code-gov-api-client) | Program used by the Code.gov front-end for interacting with the Code.gov API. Also avaialbe as NPM packages - [deprecated](https://www.npmjs.com/package/@code.gov/code-gov-api-client) & [active](https://www.npmjs.com/package/@code.gov/api-client). | 
+| [GSA/code-gov-api-client](https://github.com/GSA/code-gov-api-client) | Program used by the Code.gov front-end for interacting with the Code.gov API. Also available as NPM packages - [deprecated](https://www.npmjs.com/package/@code.gov/code-gov-api-client) & [active](https://www.npmjs.com/package/@code.gov/api-client). | 
 | [GSA/code-gov-data](https://github.com/GSA/code-gov-data) | Program for updating the Code.gov schema with filters used by the Code.gov front-end. | 
 | [GSA/code-gov-front-end](https://github.com/GSA/code-gov-front-end) | Our frontend project, currently deployed as a static site which renders [Code.gov](https://code.gov/), this project is backed by our API to display project repositories, search, and an agency compliance dashboard. Also available as an [NPM package](https://www.npmjs.com/package/@code.gov/code-gov-front-end). | 
 | [GSA/code-gov-site-map-generator](https://github.com/GSA/code-gov-site-map-generator) |Generates sitemap.xml for Code.gov in production environment. Also available as an [NPM package](https://www.npmjs.com/package/@code.gov/site-map-generator). |
@@ -38,7 +38,7 @@ Code.gov consists of multiple repositories containing code and information.
 | [GSA/code-gov-adapters](https://github.com/GSA/code-gov-adapters) | Our attempt to extract all data adapters into a simple reusable project. Also available as an [NPM package](https://www.npmjs.com/package/@code.gov/code-gov-adapter). | 
 | [GSA/code-gov-api](https://github.com/GSA/code-gov-api) | Our backend API. An Express.js app backed by Elasticsearch. Its primary function is to index and make America's source code discoverable and searchable. | 
 | [GSA/code-gov-harvester](https://github.com/GSA/code-gov-harvester) | Our standalone source code inventory harvester. | 
-| [GSA/code-gov-integrations](https://github.com/GSA/code-gov-integrations) | This project contains all of our third party integrations. Currently Github integration is the only one implemented. Also available as an [NPM package](https://www.npmjs.com/package/@code.gov/code-gov-integrations). | 
+| [GSA/code-gov-integrations](https://github.com/GSA/code-gov-integrations) | This project contains all of our third party integrations. Currently, GitHub integration is the only one implemented. Also available as an [NPM package](https://www.npmjs.com/package/@code.gov/code-gov-integrations). | 
 | [GSA/code-gov-validator](https://github.com/GSA/code-gov-validator) | Schema validation package for Code.gov. Also available as an [NPM package](https://www.npmjs.com/package/@code.gov/code-gov-validator). | 
 </details>  
 
@@ -50,7 +50,7 @@ Code.gov consists of multiple repositories containing code and information.
 | [GSA/code-gov-converter](https://github.com/GSA/code-gov-converter) | Converts publiccode.yml to code. json. | 
 | [GSA/code-gov-github-metrics](https://github.com/GSA/code-gov-github-metrics) | This project compiles and calculates GitHub metrics across the different Code.gov repos so we can understand and track community contributions over time. |           |
 | [GSA/code-gov-open-source-toolkit](https://github.com/GSA/code-gov-open-source-toolkit) | This is a government-wide project facilitated by the Code.gov team to produce a toolkit pertaining to open sourcing software. | 
-| [GSA/code-gov-verify-agency-jsons](https://github.com/GSA/code-gov-verify-agency-jsons) | This a utility project, used in conjuction with code-gov-harvester and can help users find various statistics of repositories imported into the Code.gov platform. |
+| [GSA/code-gov-verify-agency-jsons](https://github.com/GSA/code-gov-verify-agency-jsons) | This a utility project, used in conjunction with code-gov-harvester and can help users find various statistics of repositories imported into the Code.gov platform. |
 </details>
 
 <details>
@@ -70,8 +70,8 @@ Code.gov consists of multiple repositories containing code and information.
 | [GSA/code-gov-harvester-deprecated](https://github.com/GSA/code-gov-harvester-deprecated) | The old version of the harvester that harvests and processes code.json files from agencies. The new harvester repo is [GSA/code-gov-harvester](https://github.com/GSA/code-gov-harvester).  |
 | [GSA/code-gov-repos-parser](https://github.com/GSA/code-gov-repos-parser) | Parse out information from Code.gov repos. |
 | [GSA/code-gov-repo-template](https://github.com/GSA/code-gov-repo-template) | A basic template to use for all Code.gov repositories which includes our standard documents and contact info. Using this as a base ensures that all of our community standards are followed.                     | 
-| [GSA/code-gov-stats](https://github.com/GSA/code-gov-stats) | A simple app to extract stats about repositories using the Github API and Cloc. |
-| [GSA/code-gov-stats-jupyter-notebook](https://github.com/GSA/code-gov-stats-jupyter-notebook) | Extract some stats for Code.gov using the Github GraphQL API. |
+| [GSA/code-gov-stats](https://github.com/GSA/code-gov-stats) | A simple app to extract stats about repositories using the GitHub API and Cloc. |
+| [GSA/code-gov-stats-jupyter-notebook](https://github.com/GSA/code-gov-stats-jupyter-notebook) | Extract some stats for Code.gov using the GitHub GraphQL API. |
 | [GSA/code-gov-style](https://github.com/GSA/code-gov-style) | Our effort to modularize our CSS styles. Also available as an [NPM package](https://www.npmjs.com/package/@code.gov/code-gov-style) and [Jekyll site](https://gsa.github.io/code-gov-style/). |
 | [GSA/code-gov-web](https://github.com/GSA/code-gov-web) | The old version of the [Code.gov](https://code.gov) front end. The front end stack was changed from Angular to React. The new front end repo is [GSA/code-gov-front-end](https://github.com/GSA/code-gov-front-end). |
 | [GSA/compliance-dashboard-web-component](https://github.com/GSA/compliance-dashboard-web-component) | Reusable compliance dashboard web component. Web component integrated into [GSA/code-gov-front-end](https://github.com/GSA/code-gov-front-end). [NPM component](https://www.npmjs.com/package/@code.gov/compliance-dashboard-web-component). |
