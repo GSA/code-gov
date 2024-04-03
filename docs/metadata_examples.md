@@ -42,6 +42,6 @@ The U.S. Department of Agriculture (USDA)’s DigitalGov Analytics OSS meets all
 ![USDA DigitalGov Analytics OSS Project Example](../images/usda_digitalgov.png)
 <br/><br/> 
 ### Example 7: USDA’s Animal Disease Spread Model       
-The U.S. Department of Agriculture (USDA)’s Animal Disease Spread Model OSS makes good use of the tags field with descriptive keywords that enhance the OSS searchability.  Additional optional fields (**organization**, **name**, **status**, **vcs**, **languages**, **hompageURL**, and **date**) provide valuable information for the engineers and interested groups to easily repurpose the software and contribute to the development of the project. 
+The U.S. Department of Agriculture (USDA)’s Animal Disease Spread Model OSS makes good use of the tags field with descriptive keywords that enhance the OSS searchability.  Additional optional fields (**organization**, **name**, **status**, **vcs**, **languages**, **homepageURL**, and **date**) provide valuable information for the engineers and interested groups to easily repurpose the software and contribute to the development of the project. 
 <br/>   
 ![USDA Animal Disease Spread Model OSS Project Example](../images/usda_aphis.png)
