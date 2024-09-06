@@ -19,14 +19,14 @@ The base labels to be used are `help wanted` and `code.gov`. All issues with the
 
 All other labels will be used to collect metadata about the `open tasks` entry.
 
-Note: These are custom labels you will have to create one time in your repo, not the generic GitHub labels. These are **case sensitive** for use with the Code.gov API for inclusion on the Code.gov Open Tasks page.
+Note: These are custom labels you will have to create one time in your repo, not the generic GitHub labels. These are **case-sensitive** for use with the Code.gov API for inclusion on the Code.gov Open Tasks page.
 
 ### Issue Type
 
 Code.gov will use the following labels as Issue Types
 
 * __bug:__ a general bug found in the functionality of your project
-* __enhancement:__ this label works as a catch all for new features, code cleanup, and general code maintenance. Bugs should not have the enhancement label added to them.
+* __enhancement:__ this label works as a catch-all for new features, code cleanup, and general code maintenance. Bugs should not have the enhancement label added to them.
 * __good first issue:__ some projects are complex. This label will help your new contributors know that this issue is a great way to get involved with your project.
 * __feedback:__ sometimes you just want to get a different perspective. This label will let your community know that you would like their feedback on a topic.
 * __content:__ use this label when the change doesn't involve code like documentation updates.

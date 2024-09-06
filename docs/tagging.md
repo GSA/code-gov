@@ -10,7 +10,7 @@ When identifying your project, review the list of recommended tags (below) and c
 Tags are an additional element that can appear in SEO and searches. They help elevate your project and give an accurate reflection on where they might land in the development ecosystem. The Code.gov team also uses them to promote project re-use and to link various project teams together for sharing information. 
 
 # What are some Code.gov specific tags?
-Code.gov speicific tags are as follows:
+Code.gov-specific tags are as follows:
     - code.gov
     - open
     - source
@@ -27,7 +27,7 @@ The following list has been compiled from Government-wide initiatives. This list
     - Agriculture
     - Business
     - Climate
-    - Commuinty and Regional Development
+    - Community and Regional Development
     - Consumer
     - COVID-19
     - Economic Security and Policy
