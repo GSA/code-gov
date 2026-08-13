@@ -1,6 +1,6 @@
 ## OMB M-16-21 Federal Source Code Policy Inventory Requirement
 
-Since the release of the [OMB M-16-21 Federal Source Code Policy (FSCP)](https://code.gov/about/overview/introduction), the U.S. Government (CFO Act agencies) have been focused on completing a comprehensive inventory of all custom developed software from August 2016. Additionally, the Federal agencies have to identify which of those custom developed software can be open source, or be made government wide reuse, or exempt from being release due national security in order to comply with the OMB M-16-21 FSCP. For a full list of requirements, please see the [Metadata Schema 2.0.0](https://code.gov/agency-compliance/compliance/inventory-code/) requirements.
+Since the release of the [OMB M-16-21 Federal Source Code Policy (FSCP)](https://code.gov/about/overview/introduction), the U.S. Government (CFO Act agencies) have been focused on completing a comprehensive inventory of all custom developed software from August 2016. Additionally, the Federal agencies have to identify which of those custom developed software can be open source, or be made government wide reuse, or exempt from being release due national security in order to comply with the OMB M-16-21 FSCP. For a full list of requirements, please see the [Metadata Schema 2.0.0](https://github.com/GSA/code-gov-data/blob/master/schemas/schema-2.0.0.json) requirements.
 
 ## Code.gov Metadata Schema 2.0.0 Requirements
 
@@ -60,7 +60,7 @@ Features proposed for the application and design ideas are documented in the Iss
 
 ### Code.gov Schema Documentation
 
-[Metadata Schema 2.0.0](https://code.gov/about/compliance/inventory-code)
+[Metadata Schema 2.0.0](https://github.com/GSA/code-gov-data/blob/master/schemas/schema-2.0.0.json)
 
 ### Github API
 
